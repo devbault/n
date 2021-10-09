@@ -1,0 +1,428 @@
+﻿[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Notes,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,0015,0015,0015,0
+Style: Nisekoi-Title,Arial,20,&H004F1499,&H000000FF,&H00FBD6FF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0010,0010,1
+Style: Nisekoi-eptitle,Arial,20,&H00FFFFFF,&H000000FF,&H00F4733F,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0010,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.41,0:00:17.29,Default,,0000,0000,0000,,¡Bienvenidos!
+Dialogue: 0,0:00:17.68,0:00:20.20,Default,,0000,0000,0000,,Señorito, ¿por qué no se toma un descanso?
+Dialogue: 0,0:00:20.20,0:00:21.38,Default,,0000,0000,0000,,Estoy bien.
+Dialogue: 0,0:00:21.38,0:00:23.39,Default,,0000,0000,0000,,Como tengo descanso en la noche,
+Dialogue: 0,0:00:23.39,0:00:25.05,Default,,0000,0000,0000,,debo compensar eso.
+Dialogue: 0,0:00:29.45,0:00:30.87,Default,,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:00:30.87,0:00:31.93,Default,,0000,0000,0000,,Comida.
+Dialogue: 0,0:00:31.93,0:00:34.08,Default,,0000,0000,0000,,Se lo llevaré a los chicos \Nde los demás puestos.
+Dialogue: 0,0:00:34.19,0:00:38.01,Default,,0000,0000,0000,,Señorito, usted es tan atento.
+Dialogue: 0,0:00:40.40,0:00:42.46,Default,,0000,0000,0000,,Como tengo la noche libre,
+Dialogue: 0,0:00:42.46,0:00:44.44,Default,,0000,0000,0000,,ayudar en esto es pan comido.
+Dialogue: 0,0:00:44.44,0:00:46.59,Default,,0000,0000,0000,,Esta noche tengo una importantísima misión
+Dialogue: 0,0:00:46.59,0:00:48.28,Default,,0000,0000,0000,,que no puedo eludir.
+Dialogue: 0,0:00:48.83,0:00:50.28,Default,,0000,0000,0000,,Y es...
+Dialogue: 0,0:00:50.28,0:00:55.19,Notes,,0000,0000,0000,,Amuleto de unión del amor
+Dialogue: 0,0:00:50.64,0:00:52.61,Default,,0000,0000,0000,,¡Ese es el super-ultra artículo \Npara la unión del destino!
+Dialogue: 0,0:00:52.61,0:00:55.20,Default,,0000,0000,0000,,¡Tengo que obtener el amuleto \Nde unión del amor!
+Dialogue: 0,0:00:55.40,0:00:57.48,Default,,0000,0000,0000,,Según comentan, su efectividad no falla.
+Dialogue: 0,0:00:57.48,0:00:59.95,Default,,0000,0000,0000,,Es un amuleto que merece mucha gratitud,
+Dialogue: 0,0:00:59.95,0:01:02.11,Default,,0000,0000,0000,,ya que con solo tenerlo \Nhace surgir un gran efecto en el amor.
+Dialogue: 0,0:01:02.11,0:01:04.13,Default,,0000,0000,0000,,¡Y al parecer tiene tanta fama \Nque se agota al poco tiempo
+Dialogue: 0,0:01:04.13,0:01:05.58,Default,,0000,0000,0000,,de ponerse en venta!
+Dialogue: 0,0:01:05.86,0:01:07.84,Default,,0000,0000,0000,,¡Lo obtendré sin falta!
+Dialogue: 0,0:01:08.06,0:01:11.37,Default,,0000,0000,0000,,Así Onodera y yo...
+Dialogue: 0,0:01:12.65,0:01:14.06,Default,,0000,0000,0000,,Oh, lo siento.
+Dialogue: 0,0:01:20.24,0:01:22.03,Default,,0000,0000,0000,,¿Qué haces aquí?
+Dialogue: 0,0:01:22.48,0:01:23.73,Default,,0000,0000,0000,,Lo mismo te pregunto.
+Dialogue: 0,0:01:24.01,0:01:27.17,Default,,0000,0000,0000,,Simplemente he venido a disfrutar \Ndel festival.
+Dialogue: 0,0:01:27.43,0:01:29.96,Default,,0000,0000,0000,,¿Por qué hasta en los días libres \Ntengo que verte la cara?
+Dialogue: 0,0:01:30.28,0:01:33.71,Default,,0000,0000,0000,,Yo solo vine a ayudar \Nen los puestos de mi casa.
+Dialogue: 0,0:01:34.16,0:01:35.76,Default,,0000,0000,0000,,¡Oiga, señorito!
+Dialogue: 0,0:01:36.97,0:01:39.50,Default,,0000,0000,0000,,Disculpe, llévese estas cervezas también.
+Dialogue: 0,0:01:39.79,0:01:43.26,Default,,0000,0000,0000,,¡Oh, pero si esa es su novia!
+Dialogue: 0,0:01:45.36,0:01:46.78,Default,,0000,0000,0000,,Esto no está bien.
+Dialogue: 0,0:01:46.78,0:01:50.83,Default,,0000,0000,0000,,A pesar de tener a su novia aquí, \Nse está esforzando por nosotros.
+Dialogue: 0,0:01:50.83,0:01:52.82,Default,,0000,0000,0000,,Qué amable es usted.
+Dialogue: 0,0:01:52.82,0:01:55.00,Default,,0000,0000,0000,,No... espera...
+Dialogue: 0,0:01:55.06,0:01:57.88,Default,,0000,0000,0000,,Deje en nuestras manos el negocio.
+Dialogue: 0,0:01:57.88,0:01:59.66,Default,,0000,0000,0000,,No tiene de qué preocuparse.
+Dialogue: 0,0:01:59.66,0:02:01.04,Default,,0000,0000,0000,,Un festival junto a su novia
+Dialogue: 0,0:02:01.04,0:02:02.57,Default,,0000,0000,0000,,es una excelente oportunidad
+Dialogue: 0,0:02:02.57,0:02:04.17,Default,,0000,0000,0000,,para aprovechar la tercera \Nde las mejores cosas
+Dialogue: 0,0:02:04.17,0:02:05.52,Default,,0000,0000,0000,,que más anhelan los hombres.
+Dialogue: 0,0:02:06.20,0:02:09.03,Default,,0000,0000,0000,,¡Que lo disfruten!
+Dialogue: 0,0:03:43.21,0:03:45.98,Nisekoi-eptitle,,0000,0000,0000,,Episodio 17: Festival
+Dialogue: 0,0:03:48.57,0:03:50.81,Default,,0000,0000,0000,,¿Por qué siempre tiene que pasar esto?
+Dialogue: 0,0:03:51.70,0:03:53.50,Default,,0000,0000,0000,,Yo qué sé.
+Dialogue: 0,0:03:53.51,0:04:01.01,Notes,,0000,0000,0000,,Takoyaki
+Dialogue: 0,0:03:53.73,0:03:56.60,Default,,0000,0000,0000,,¡Yo que esperaba\N con tantas ansias este día!
+Dialogue: 0,0:03:56.60,0:03:58.05,Default,,0000,0000,0000,,¡Ya que no tengo opción, \Nme pondré a comer!
+Dialogue: 0,0:03:58.05,0:03:59.82,Default,,0000,0000,0000,,¡Si eres mi novio, deberías invitarme!
+Dialogue: 0,0:03:59.82,0:04:01.28,Default,,0000,0000,0000,,¡Quiero comer {\i1}takoyaki{\i0}!
+Dialogue: 0,0:04:01.28,0:04:03.13,Default,,0000,0000,0000,,¿Por qué yo?
+Dialogue: 0,0:04:04.59,0:04:07.18,Default,,0000,0000,0000,,Oye, allá hay otro puesto de {\i1}takoyaki{\i0}.
+Dialogue: 0,0:04:07.18,0:04:08.13,Default,,0000,0000,0000,,Vamos para ese.
+Dialogue: 0,0:04:09.81,0:04:11.13,Default,,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:04:15.76,0:04:16.87,Default,,0000,0000,0000,,Hola.
+Dialogue: 0,0:04:16.87,0:04:18.20,Default,,0000,0000,0000,,¡Señorito!
+Dialogue: 0,0:04:18.20,0:04:19.34,Default,,0000,0000,0000,,Veo que está en su descanso.
+Dialogue: 0,0:04:19.34,0:04:20.53,Default,,0000,0000,0000,,Buen trabajo.
+Dialogue: 0,0:04:20.81,0:04:22.78,Default,,0000,0000,0000,,Me gustaría que me dieras \Nunos {\i1}takoyaki{\i0}. ¿Puedo?
+Dialogue: 0,0:04:22.78,0:04:24.10,Default,,0000,0000,0000,,¡Por supuesto!
+Dialogue: 0,0:04:24.10,0:04:26.42,Default,,0000,0000,0000,,Llévese todos los que quiera.
+Dialogue: 0,0:04:30.91,0:04:31.90,Default,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:04:31.90,0:04:33.77,Default,,0000,0000,0000,,Te garantizo su buen sabor.
+Dialogue: 0,0:04:34.07,0:04:37.42,Default,,0000,0000,0000,,Vi que hay mucha gente de los tuyos.
+Dialogue: 0,0:04:37.87,0:04:40.44,Default,,0000,0000,0000,,Sí, hoy también tienen muchos puestos.
+Dialogue: 0,0:04:41.08,0:04:42.99,Default,,0000,0000,0000,,¿Quiere decir que en todos esos puestos \Nestás de gratis?
+Dialogue: 0,0:04:42.99,0:04:45.22,Default,,0000,0000,0000,,¿Puedes comer y jugar a tus anchas?
+Dialogue: 0,0:04:45.22,0:04:48.43,Default,,0000,0000,0000,,Bueno, no suena muy bien decirlo, \Npero así es.
+Dialogue: 0,0:04:51.67,0:04:54.73,Default,,0000,0000,0000,,Oye, Raku, ¿qué te parece \Nsi tenemos una cita?
+Dialogue: 0,0:04:54.92,0:04:57.07,Default,,0000,0000,0000,,¡Qué interesada eres!
+Dialogue: 0,0:04:57.22,0:04:58.73,Default,,0000,0000,0000,,¡Pero si será todo gratis!
+Dialogue: 0,0:04:58.73,0:05:00.69,Default,,0000,0000,0000,,¡Eso significa que tienes \Npase libre en todo!
+Dialogue: 0,0:05:00.69,0:05:02.08,Default,,0000,0000,0000,,¡Eso es lo máximo!
+Dialogue: 0,0:05:02.08,0:05:04.42,Default,,0000,0000,0000,,Ni que no fueras una niña rica.
+Dialogue: 0,0:05:04.42,0:05:06.66,Default,,0000,0000,0000,,Al menos trátame como un ser humano.
+Dialogue: 0,0:05:08.45,0:05:12.20,Notes,,0000,0000,0000,,Okonomiyaki             Yakisoba              Taiyaki
+Dialogue: 0,0:05:08.78,0:05:09.94,Default,,0000,0000,0000,,¡Yuju!
+Dialogue: 0,0:05:10.53,0:05:11.97,Default,,0000,0000,0000,,Qué cosa...
+Dialogue: 0,0:05:16.76,0:05:17.97,Default,,0000,0000,0000,,¿Serán imaginaciones mías?
+Dialogue: 0,0:05:21.22,0:05:22.12,Default,,0000,0000,0000,,¿Qué hago?
+Dialogue: 0,0:05:22.12,0:05:24.04,Default,,0000,0000,0000,,Me escondí inconscientemente.
+Dialogue: 0,0:05:24.88,0:05:26.44,Default,,0000,0000,0000,,Esto es obvio.
+Dialogue: 0,0:05:26.44,0:05:28.02,Default,,0000,0000,0000,,Estamos en un festival.
+Dialogue: 0,0:05:28.02,0:05:30.72,Default,,0000,0000,0000,,Si se están haciendo pasar por novios,\N deben venir juntos.
+Dialogue: 0,0:05:32.65,0:05:34.99,Default,,0000,0000,0000,,Me pregunto si cambiaría algo si compro
+Dialogue: 0,0:05:34.99,0:05:36.32,Default,,0000,0000,0000,,un amuleto de unión del amor.
+Dialogue: 0,0:05:38.56,0:05:42.82,Default,,0000,0000,0000,,Oh, pero si es Onodera-san.
+Dialogue: 0,0:05:43.47,0:05:44.77,Default,,0000,0000,0000,,Hola.
+Dialogue: 0,0:05:44.77,0:05:47.25,Default,,0000,0000,0000,,¿Usted también vino a comprar \Nel supermilagroso
+Dialogue: 0,0:05:47.25,0:05:49.64,Default,,0000,0000,0000,,artículo de unión del amor?
+Dialogue: 0,0:05:49.93,0:05:52.37,Default,,0000,0000,0000,,¿Eh? ¡No, para nada!
+Dialogue: 0,0:05:52.99,0:05:54.13,Default,,0000,0000,0000,,Oh.
+Dialogue: 0,0:05:54.48,0:05:56.07,Default,,0000,0000,0000,,Esos dos...
+Dialogue: 0,0:05:58.72,0:06:00.08,Default,,0000,0000,0000,,Qué coraje.
+Dialogue: 0,0:06:00.31,0:06:04.26,Default,,0000,0000,0000,,Si en días pasados rechazó sin reparo\N la invitación que le hice.
+Dialogue: 0,0:06:05.12,0:06:07.27,Default,,0000,0000,0000,,Creo que los voy a molestar.
+Dialogue: 0,0:06:07.27,0:06:08.63,Default,,0000,0000,0000,,¡Oye, no!
+Dialogue: 0,0:06:12.27,0:06:17.21,Default,,0000,0000,0000,,Ahora que lo pienso, \Nsuelo pasar mucho tiempo con ella.
+Dialogue: 0,0:06:17.21,0:06:20.23,Default,,0000,0000,0000,,Desde que nos conocimos, \Nnos tuvimos que hacer pasar como novios.
+Dialogue: 0,0:06:21.32,0:06:22.91,Default,,0000,0000,0000,,¡Qué cara más graciosa!
+Dialogue: 0,0:06:23.55,0:06:25.90,Default,,0000,0000,0000,,Diría que ha sido un extraño destino...
+Dialogue: 0,0:06:26.55,0:06:28.78,Default,,0000,0000,0000,,¡Mira a esa chica!
+Dialogue: 0,0:06:29.85,0:06:31.98,Default,,0000,0000,0000,,¡Qué bonita! \N¡Qué hermosa cabellera rubia!
+Dialogue: 0,0:06:31.99,0:06:32.94,Default,,0000,0000,0000,,¿Será de padres\N de nacionalidades distintas?
+Dialogue: 0,0:06:32.94,0:06:35.29,Default,,0000,0000,0000,,Qué linda figura. La envidio.
+Dialogue: 0,0:06:37.14,0:06:40.46,Default,,0000,0000,0000,,Está bien, pero ya quita \Nesa cara de vanagloria.
+Dialogue: 0,0:06:40.72,0:06:43.29,Default,,0000,0000,0000,,Pero el novio no es nada atractivo.
+Dialogue: 0,0:06:43.29,0:06:45.74,Default,,0000,0000,0000,,Me pregunto por qué andará \Ncon un tipo así.
+Dialogue: 0,0:06:45.74,0:06:47.42,Default,,0000,0000,0000,,Seguro que por diversión.
+Dialogue: 0,0:06:49.24,0:06:51.74,Default,,0000,0000,0000,,¡Me sacas de quicio!
+Dialogue: 0,0:06:55.42,0:06:56.32,Default,,0000,0000,0000,,Rayos.
+Dialogue: 0,0:06:56.69,0:06:59.20,Default,,0000,0000,0000,,Pero veo que nosotros nos vemos como novios.
+Dialogue: 0,0:06:59.96,0:07:02.30,Default,,0000,0000,0000,,Todo este tiempo \Nhemos estado fingiendo ser novios.
+Dialogue: 0,0:07:02.30,0:07:03.47,Default,,0000,0000,0000,,Es obvio.
+Dialogue: 0,0:07:04.24,0:07:06.77,Default,,0000,0000,0000,,Pero ¿por qué ella no tiene un yukata?
+Dialogue: 0,0:07:06.77,0:07:09.07,Default,,0000,0000,0000,,Cierto. Estoy seguro que le asentaría.
+Dialogue: 0,0:07:09.81,0:07:13.29,Default,,0000,0000,0000,,Oye, ¿el yukata es algo tan significativo?
+Dialogue: 0,0:07:13.29,0:07:16.23,Default,,0000,0000,0000,,¿Qué? Bueno, quizás sí.
+Dialogue: 0,0:07:16.23,0:07:17.84,Default,,0000,0000,0000,,Aunque cada cual tiene su propio gusto.
+Dialogue: 0,0:07:25.03,0:07:26.98,Default,,0000,0000,0000,,Se ve que se están divirtiendo.
+Dialogue: 0,0:07:27.17,0:07:28.33,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:07:34.70,0:07:37.91,Default,,0000,0000,0000,,¡Es imposible que pueda atraparlo \Ncon un papel tan fino!
+Dialogue: 0,0:07:37.91,0:07:38.99,Default,,0000,0000,0000,,No lo hagas.
+Dialogue: 0,0:07:39.15,0:07:41.21,Default,,0000,0000,0000,,Ya que aunque llegaras a atrapar alguno, \Nno podrás tenerlo.
+Dialogue: 0,0:07:41.21,0:07:42.85,Default,,0000,0000,0000,,¡No, quiero de esos peces!
+Dialogue: 0,0:07:45.30,0:07:47.69,Default,,0000,0000,0000,,Está bien. Préstame.
+Dialogue: 0,0:07:47.69,0:07:50.12,Default,,0000,0000,0000,,¿Eh? Pero está todo roto.
+Dialogue: 0,0:07:54.32,0:07:55.88,Default,,0000,0000,0000,,¡Vaya! ¡Increíble!
+Dialogue: 0,0:07:55.93,0:07:58.29,Default,,0000,0000,0000,,¡¿Cómo pudiste atraparlo \Ncon ese pedazo de papel?!
+Dialogue: 0,0:07:59.23,0:08:02.01,Default,,0000,0000,0000,,Practiqué para eso en mi casa.
+Dialogue: 0,0:08:02.01,0:08:05.14,Default,,0000,0000,0000,,Déjame decirte \Nque soy invencible en los festivales.
+Dialogue: 0,0:08:05.62,0:08:07.61,Default,,0000,0000,0000,,Veo que está aquí, señorito.
+Dialogue: 0,0:08:07.61,0:08:10.42,Default,,0000,0000,0000,,Siempre que usted viene, tenemos pérdidas.
+Dialogue: 0,0:08:10.42,0:08:13.81,Default,,0000,0000,0000,,Este año, preparé algo \Nmuy especial para usted.
+Dialogue: 0,0:08:13.81,0:08:15.07,Default,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:08:15.49,0:08:16.81,Default,,0000,0000,0000,,¡Esto!
+Dialogue: 0,0:08:17.22,0:08:18.81,Default,,0000,0000,0000,,¡Pero si es un {\i1}nishikigoi{\i0}!
+Dialogue: 0,0:08:28.45,0:08:30.07,Default,,0000,0000,0000,,¡Lo atrapé!
+Dialogue: 0,0:08:31.35,0:08:33.86,Default,,0000,0000,0000,,Espero verlo por aquí el año próximo...
+Dialogue: 0,0:08:33.86,0:08:35.97,Default,,0000,0000,0000,,¡Increíble! ¡Eres increíble!
+Dialogue: 0,0:08:35.97,0:08:38.83,Default,,0000,0000,0000,,Yo estoy más sorprendido.
+Dialogue: 0,0:08:41.56,0:08:42.84,Default,,0000,0000,0000,,Toma.
+Dialogue: 0,0:08:43.24,0:08:46.76,Default,,0000,0000,0000,,Te daré dos, no valdría la pena \Nque tuvieras tantos.
+Dialogue: 0,0:08:46.76,0:08:48.46,Default,,0000,0000,0000,,Luego te enseñaré cómo criarlos.
+Dialogue: 0,0:08:52.01,0:08:54.32,Default,,0000,0000,0000,,Sí, gracias.
+Dialogue: 0,0:08:58.67,0:08:59.70,Default,,0000,0000,0000,,¡No lo hagas!
+Dialogue: 0,0:08:59.70,0:09:00.34,Default,,0000,0000,0000,,Oh.
+Dialogue: 0,0:09:00.60,0:09:03.81,Default,,0000,0000,0000,,Como que para allá \Nhay mucha gente aglomerada.
+Dialogue: 0,0:09:03.61,0:09:05.72,Notes,,0000,0000,0000,,Amuletos de unión del amor
+Dialogue: 0,0:09:06.20,0:09:08.98,Default,,0000,0000,0000,,¡Me había olvidado la hora \Nde la venta de los amuletos!
+Dialogue: 0,0:09:10.80,0:09:13.23,Default,,0000,0000,0000,,Bueno, llegó el momento.
+Dialogue: 0,0:09:13.23,0:09:15.53,Default,,0000,0000,0000,,Onodera-san, la dejo.
+Dialogue: 0,0:09:16.99,0:09:18.10,Default,,0000,0000,0000,,¡Vamos, Honda!
+Dialogue: 0,0:09:18.10,0:09:19.90,Default,,0000,0000,0000,,¡Ábreme el camino!
+Dialogue: 0,0:09:19.99,0:09:20.87,Default,,0000,0000,0000,,¡Como usted diga!
+Dialogue: 0,0:09:23.58,0:09:27.30,Default,,0000,0000,0000,,Tachibana-san es increíble \Nen muchos sentidos.
+Dialogue: 0,0:09:28.64,0:09:32.74,Default,,0000,0000,0000,,Pero siento un poco de envidia \Npor que se esfuerce tanto
+Dialogue: 0,0:09:32.74,0:09:34.53,Default,,0000,0000,0000,,por la persona que le gusta.
+Dialogue: 0,0:09:35.20,0:09:36.90,Default,,0000,0000,0000,,Yo...
+Dialogue: 0,0:09:37.47,0:09:38.56,Default,,0000,0000,0000,,¡Bien!
+Dialogue: 0,0:09:38.56,0:09:40.88,Default,,0000,0000,0000,,¡Me esforzaré para conseguir mi amuleto!
+Dialogue: 0,0:09:41.53,0:09:44.72,Default,,0000,0000,0000,,Chitoge, lo siento, pero de aquel lado \Nhay algo que quiero comprar.
+Dialogue: 0,0:09:44.72,0:09:46.43,Default,,0000,0000,0000,,¿Podrías esperarme por estos lados?
+Dialogue: 0,0:09:46.57,0:09:48.94,Default,,0000,0000,0000,,¿Qué? ¿Esperarte dónde?
+Dialogue: 0,0:09:48.94,0:09:51.43,Default,,0000,0000,0000,,¿No crees que con tanta gente \Npodríamos perdernos?
+Dialogue: 0,0:09:51.43,0:09:54.06,Default,,0000,0000,0000,,Tienes razón.
+Dialogue: 0,0:09:59.29,0:10:00.65,Default,,0000,0000,0000,,No tenemos opción.
+Dialogue: 0,0:10:00.65,0:10:01.42,Default,,0000,0000,0000,,Vamos.
+Dialogue: 0,0:10:03.50,0:10:06.97,Default,,0000,0000,0000,,Así no nos perderemos \Naunque estemos entre la muchedumbre.
+Dialogue: 0,0:10:06.97,0:10:08.60,Default,,0000,0000,0000,,Te voy a acompañar.
+Dialogue: 0,0:10:08.84,0:10:12.43,Default,,0000,0000,0000,,Si no estás conmigo, \Nlas cosas no me salen de gratis.
+Dialogue: 0,0:10:14.57,0:10:16.34,Default,,0000,0000,0000,,Vámonos de una vez.
+Dialogue: 0,0:10:16.34,0:10:17.67,Default,,0000,0000,0000,,E-está bien.
+Dialogue: 0,0:10:18.35,0:10:21.17,Default,,0000,0000,0000,,¡Maldición! ¡¿Por qué me siento así?!
+Dialogue: 0,0:10:25.37,0:10:26.93,Default,,0000,0000,0000,,¡Cuánta gente!
+Dialogue: 0,0:10:27.52,0:10:29.16,Default,,0000,0000,0000,,Vine a comprar el amuleto de unión del amor
+Dialogue: 0,0:10:29.16,0:10:30.98,Default,,0000,0000,0000,,porque me gusta Onodera.
+Dialogue: 0,0:10:32.04,0:10:33.74,Default,,0000,0000,0000,,¿Estás bien, Chitoge?
+Dialogue: 0,0:10:33.90,0:10:35.45,Default,,0000,0000,0000,,No me vayas a soltar la mano.
+Dialogue: 0,0:10:35.93,0:10:37.68,Default,,0000,0000,0000,,¡No debería estar nervioso!
+Dialogue: 0,0:10:39.22,0:10:41.98,Default,,0000,0000,0000,,Ya casi... ya casi.
+Dialogue: 0,0:10:44.21,0:10:45.21,Default,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:10:45.21,0:10:47.21,Default,,0000,0000,0000,,¡Bien, lo pude comprar!
+Dialogue: 0,0:10:47.51,0:10:50.17,Default,,0000,0000,0000,,Oye, ¿lo pudiste comprar?
+Dialogue: 0,0:10:50.17,0:10:51.33,Default,,0000,0000,0000,,Entonces vámonos ya...
+Dialogue: 0,0:10:53.20,0:10:54.98,Default,,0000,0000,0000,,¡Chitoge! ¡Rayos!
+Dialogue: 0,0:10:54.98,0:10:56.54,Default,,0000,0000,0000,,¡¿A dónde se fue?!
+Dialogue: 0,0:10:57.57,0:10:58.67,Default,,0000,0000,0000,,¡Ahí está!
+Dialogue: 0,0:10:59.84,0:11:02.30,Default,,0000,0000,0000,,Rayos. Por eso te dije \Nque no me soltaras la mano.
+Dialogue: 0,0:11:13.50,0:11:15.47,Default,,0000,0000,0000,,¡¿Chitoge se convirtió en Onodera?!
+Dialogue: 0,0:11:15.47,0:11:16.96,Default,,0000,0000,0000,,¡¿Qué está pasando?!
+Dialogue: 0,0:11:17.97,0:11:20.21,Default,,0000,0000,0000,,¿Dónde está el debilucho?
+Dialogue: 0,0:11:25.39,0:11:28.39,Default,,0000,0000,0000,,¡¿I-Ichijo-kun, qué haces aquí?!
+Dialogue: 0,0:11:28.39,0:11:29.69,Default,,0000,0000,0000,,Lo mismo te pregunto.
+Dialogue: 0,0:11:31.99,0:11:33.71,Default,,0000,0000,0000,,¿Ese es un amuleto de unión del amor?
+Dialogue: 0,0:11:33.87,0:11:35.83,Default,,0000,0000,0000,,Viniste a comprar uno.
+Dialogue: 0,0:11:36.14,0:11:38.36,Default,,0000,0000,0000,,Bueno... sí...
+Dialogue: 0,0:11:38.80,0:11:39.94,Default,,0000,0000,0000,,¿Y tú?
+Dialogue: 0,0:11:39.94,0:11:41.98,Default,,0000,0000,0000,,¿Tú también viniste a comprar uno?
+Dialogue: 0,0:11:44.42,0:11:46.81,Default,,0000,0000,0000,,No, para nada.
+Dialogue: 0,0:11:46.81,0:11:49.68,Default,,0000,0000,0000,,Casualmente fui arrastrada \Nhasta aquí por la muchedumbre.
+Dialogue: 0,0:11:54.84,0:11:58.02,Default,,0000,0000,0000,,Por cierto, ¿y Chitoge-chan?
+Dialogue: 0,0:11:58.02,0:11:59.46,Default,,0000,0000,0000,,¿No anda contigo?
+Dialogue: 0,0:12:00.29,0:12:03.45,Default,,0000,0000,0000,,Pues hasta hace un momento estábamos juntos,
+Dialogue: 0,0:12:03.45,0:12:05.51,Default,,0000,0000,0000,,pero se perdió por la muchedumbre.
+Dialogue: 0,0:12:05.94,0:12:09.02,Default,,0000,0000,0000,,Rayos. Me pregunto si estará bien sola.
+Dialogue: 0,0:12:10.08,0:12:13.21,Default,,0000,0000,0000,,¡Oye, debilucho! ¡¿Dónde estás?!
+Dialogue: 0,0:12:14.13,0:12:18.69,Default,,0000,0000,0000,,Rayos, tanto que le dije al debilucho ese \Nque no me soltara la mano.
+Dialogue: 0,0:12:22.73,0:12:24.49,Default,,0000,0000,0000,,Ahora que me vuelvo a fijar,
+Dialogue: 0,0:12:24.49,0:12:27.20,Default,,0000,0000,0000,,veo que hay mucha gente en yukata.
+Dialogue: 0,0:12:32.04,0:12:34.87,Default,,0000,0000,0000,,Por lo pronto, vamos a alejarnos \Nde la muchedumbre.
+Dialogue: 0,0:12:34.87,0:12:37.05,Default,,0000,0000,0000,,Así no podremos buscarla.
+Dialogue: 0,0:12:37.26,0:12:38.20,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:12:39.00,0:12:41.78,Default,,0000,0000,0000,,Justo después de haber comprado el amuleto,
+Dialogue: 0,0:12:41.78,0:12:43.69,Default,,0000,0000,0000,,me veo con Onodera.
+Dialogue: 0,0:12:43.95,0:12:46.18,Default,,0000,0000,0000,,¿Será esto el poder del amuleto?
+Dialogue: 0,0:12:46.90,0:12:48.45,Default,,0000,0000,0000,,No puede ser.
+Dialogue: 0,0:12:48.45,0:12:50.39,Default,,0000,0000,0000,,Lo siento por Chitoge, pero esto
+Dialogue: 0,0:12:50.39,0:12:52.16,Default,,0000,0000,0000,,me hace sentir feliz.
+Dialogue: 0,0:12:53.79,0:12:56.54,Default,,0000,0000,0000,,¡¿Por qué tengo que sentirme \Nmal por ella?!
+Dialogue: 0,0:12:56.54,0:12:58.43,Default,,0000,0000,0000,,¡Ella no tiene que ver con esto!
+Dialogue: 0,0:12:59.74,0:13:01.97,Default,,0000,0000,0000,,No pude comprar el amuleto,
+Dialogue: 0,0:13:01.97,0:13:05.61,Default,,0000,0000,0000,,pero me siento feliz de andar con Ichijo-kun.
+Dialogue: 0,0:13:06.39,0:13:09.69,Default,,0000,0000,0000,,En realidad, me gustaría poder pasar\N más tiempo juntos.
+Dialogue: 0,0:13:11.06,0:13:12.05,Default,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:13:14.83,0:13:17.43,Default,,0000,0000,0000,,Ichijo-kun, se te cayó tu amuleto.
+Dialogue: 0,0:13:17.75,0:13:18.99,Default,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:13:21.26,0:13:22.16,Default,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:13:22.94,0:13:24.18,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:13:24.18,0:13:26.77,Default,,0000,0000,0000,,Se te rompió.
+Dialogue: 0,0:13:38.07,0:13:40.17,Default,,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:13:41.57,0:13:43.05,Default,,0000,0000,0000,,¿Estás bien?
+Dialogue: 0,0:13:43.05,0:13:44.08,Default,,0000,0000,0000,,Sí...
+Dialogue: 0,0:13:44.96,0:13:47.49,Default,,0000,0000,0000,,L-lo siento. Peso, ¿verdad?
+Dialogue: 0,0:13:47.49,0:13:49.39,Default,,0000,0000,0000,,Hace un momento, me comí \Nun algodón de azúcar.
+Dialogue: 0,0:13:49.39,0:13:51.66,Default,,0000,0000,0000,,No, para nada.
+Dialogue: 0,0:13:54.22,0:13:56.78,Default,,0000,0000,0000,,No imaginé que esto pasaría.
+Dialogue: 0,0:13:56.78,0:13:59.97,Default,,0000,0000,0000,,Me siento feliz, \Npero siento mucha vergüenza.
+Dialogue: 0,0:14:04.52,0:14:05.36,Default,,0000,0000,0000,,Bien.
+Dialogue: 0,0:14:05.36,0:14:09.08,Default,,0000,0000,0000,,Al menos por el día de hoy \Npodrás caminar con ellas.
+Dialogue: 0,0:14:09.29,0:14:10.67,Default,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:14:11.11,0:14:14.21,Default,,0000,0000,0000,,Bueno, debo ir a buscar a Chitoge.
+Dialogue: 0,0:14:15.01,0:14:15.87,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:14:17.97,0:14:18.96,Default,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:14:18.96,0:14:21.75,Default,,0000,0000,0000,,¡Tu amuleto no está!
+Dialogue: 0,0:14:21.75,0:14:23.71,Default,,0000,0000,0000,,Hasta hace poco estaba aquí.
+Dialogue: 0,0:14:26.96,0:14:28.34,Default,,0000,0000,0000,,¡Míralo ahí!
+Dialogue: 0,0:14:29.18,0:14:30.01,Default,,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:14:30.01,0:14:31.67,Default,,0000,0000,0000,,¡¿A dónde te lo piensas llevar?!
+Dialogue: 0,0:14:32.09,0:14:33.68,Default,,0000,0000,0000,,¡¿Ichijo-kun?!
+Dialogue: 0,0:14:38.02,0:14:39.34,Default,,0000,0000,0000,,¡Se detuvo!
+Dialogue: 0,0:14:39.56,0:14:40.60,Default,,0000,0000,0000,,¡Esta es una oportunidad!
+Dialogue: 0,0:14:44.11,0:14:48.56,Default,,0000,0000,0000,,Yo que hice el esfuerzo, \Npero se agotaron los amuletos.
+Dialogue: 0,0:14:48.77,0:14:50.09,Default,,0000,0000,0000,,Qué lástima.
+Dialogue: 0,0:14:50.77,0:14:52.05,Default,,0000,0000,0000,,¡Tachibana!
+Dialogue: 0,0:14:53.82,0:14:56.49,Default,,0000,0000,0000,,Oh, Raku-sama.
+Dialogue: 0,0:14:56.49,0:14:59.07,Default,,0000,0000,0000,,Qué feliz me siento \Nde poder verlo en este día.
+Dialogue: 0,0:14:59.07,0:14:59.99,Default,,0000,0000,0000,,¡Escucha, Tachibana!
+Dialogue: 0,0:14:59.99,0:15:01.49,Default,,0000,0000,0000,,¡No te vayas a mover de ahí!
+Dialogue: 0,0:15:05.78,0:15:07.95,Default,,0000,0000,0000,,Vaya, Raku-sama.
+Dialogue: 0,0:15:07.95,0:15:12.54,Default,,0000,0000,0000,,¿Finalmente decidió cambiar \Na esa mujer por mí?
+Dialogue: 0,0:15:12.54,0:15:15.02,Default,,0000,0000,0000,,Siempre estaré dispuesta a recibir...
+Dialogue: 0,0:15:18.82,0:15:21.26,Default,,0000,0000,0000,,Escucha. No te muevas.
+Dialogue: 0,0:15:23.76,0:15:28.78,Default,,0000,0000,0000,,Raku-sama, eso me parece \Ndemasiado acelerado...
+Dialogue: 0,0:15:29.35,0:15:30.78,Default,,0000,0000,0000,,No puede ser. ¿Es en serio?
+Dialogue: 0,0:15:31.36,0:15:35.02,Default,,0000,0000,0000,,Bueno, eso me hace feliz, pero...
+Dialogue: 0,0:15:37.79,0:15:39.05,Default,,0000,0000,0000,,¡No!
+Dialogue: 0,0:15:41.15,0:15:42.92,Default,,0000,0000,0000,,¡Maldición, fallé!
+Dialogue: 0,0:15:43.25,0:15:44.49,Default,,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:15:55.53,0:15:57.47,Default,,0000,0000,0000,,A pesar de haber hecho la fila,
+Dialogue: 0,0:15:57.49,0:15:59.81,Default,,0000,0000,0000,,no pude comprar el amuleto \Nde la unión del amor.
+Dialogue: 0,0:16:00.76,0:16:03.56,Default,,0000,0000,0000,,Bueno, aunque no lo necesitaba.
+Dialogue: 0,0:16:04.05,0:16:07.47,Default,,0000,0000,0000,,No estoy enamorada de nadie.
+Dialogue: 0,0:16:11.39,0:16:14.48,Default,,0000,0000,0000,,¡Maldición! ¡¿Qué es \Neste disparate de arma?!
+Dialogue: 0,0:16:14.48,0:16:16.48,Default,,0000,0000,0000,,¡Si hubiese sido un arma de verdad, \Nle hubiese dado de un solo tiro!
+Dialogue: 0,0:16:24.28,0:16:26.01,Default,,0000,0000,0000,,¡¿Qué fue eso?! ¡¿Un gato?!
+Dialogue: 0,0:16:26.36,0:16:27.42,Default,,0000,0000,0000,,¡Tsugumi!
+Dialogue: 0,0:16:29.86,0:16:31.68,Default,,0000,0000,0000,,Ah, eres tú.
+Dialogue: 0,0:16:31.68,0:16:32.83,Default,,0000,0000,0000,,¿Qué se te ofrece?
+Dialogue: 0,0:16:32.83,0:16:35.91,Default,,0000,0000,0000,,¿No viste por aquí un gato con manchas?
+Dialogue: 0,0:16:38.92,0:16:41.51,Default,,0000,0000,0000,,Ah, acaba de pasar para aquel lado.
+Dialogue: 0,0:16:41.52,0:16:43.15,Default,,0000,0000,0000,,Ya veo. ¡Gracias!
+Dialogue: 0,0:16:47.02,0:16:48.36,Default,,0000,0000,0000,,Toma. Una recompensa por tu información.
+Dialogue: 0,0:16:48.36,0:16:49.60,Notes,,0000,0000,0000,,Caramelo de leche.
+Dialogue: 0,0:16:50.07,0:16:51.51,Default,,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:16:53.14,0:16:54.85,Default,,0000,0000,0000,,¡Que esperes!
+Dialogue: 0,0:17:04.24,0:17:07.32,Default,,0000,0000,0000,,Este año llevo la racha de 96 rechazos.
+Dialogue: 0,0:17:07.32,0:17:10.57,Default,,0000,0000,0000,,Oye, Maiko, ya dejemos esto.
+Dialogue: 0,0:17:17.65,0:17:19.30,Default,,0000,0000,0000,,Esto es...
+Dialogue: 0,0:17:20.63,0:17:23.01,Default,,0000,0000,0000,,¡Oh! ¡Esa persona \Nque está en yukata de espaldas!
+Dialogue: 0,0:17:23.01,0:17:24.55,Default,,0000,0000,0000,,¡Sin duda debe de ser una belleza!
+Dialogue: 0,0:17:24.55,0:17:25.39,Default,,0000,0000,0000,,¡Bien!
+Dialogue: 0,0:17:25.39,0:17:27.13,Default,,0000,0000,0000,,¡Esta vez lo voy a lograr!
+Dialogue: 0,0:17:27.13,0:17:28.95,Default,,0000,0000,0000,,¡Señorita!
+Dialogue: 0,0:17:37.00,0:17:39.47,Default,,0000,0000,0000,,Me pregunto si Kosaki habrá comprado \Nel amuleto de la unión del amor.
+Dialogue: 0,0:17:47.86,0:17:50.22,Default,,0000,0000,0000,,Me parece que voló para estos lados.
+Dialogue: 0,0:17:52.86,0:17:55.75,Default,,0000,0000,0000,,Oye, ¿de casualidad esto es tuyo?
+Dialogue: 0,0:17:55.75,0:17:58.10,Default,,0000,0000,0000,,¡Así es! Muchas gracias...
+Dialogue: 0,0:18:05.17,0:18:06.38,Default,,0000,0000,0000,,¿Qué me miras?
+Dialogue: 0,0:18:10.01,0:18:12.76,Default,,0000,0000,0000,,Esto fue lo que compraste \Nhace unos momentos, ¿no?
+Dialogue: 0,0:18:12.76,0:18:16.37,Default,,0000,0000,0000,,Por lo menos, aprende\N a conservar lo que tienes.
+Dialogue: 0,0:18:16.67,0:18:19.30,Default,,0000,0000,0000,,¿En qué momento te cambiaste?
+Dialogue: 0,0:18:19.64,0:18:22.60,Default,,0000,0000,0000,,Hace un momento, le pedí a Claude \Nque me lo trajera rápidamente.
+Dialogue: 0,0:18:23.39,0:18:24.61,Default,,0000,0000,0000,,¿Por qué de repente?
+Dialogue: 0,0:18:25.09,0:18:26.57,Default,,0000,0000,0000,,Qué importa.
+Dialogue: 0,0:18:26.57,0:18:28.63,Default,,0000,0000,0000,,Sentía un poco de interés en hacerlo.
+Dialogue: 0,0:18:28.81,0:18:31.33,Default,,0000,0000,0000,,Aunque me lo puse para probar.
+Dialogue: 0,0:18:31.33,0:18:32.52,Default,,0000,0000,0000,,Pero ¿cómo me veré?
+Dialogue: 0,0:18:32.52,0:18:34.60,Default,,0000,0000,0000,,El {\i1}obi{\i0} me aprieta y no puedo caminar bien.
+Dialogue: 0,0:18:34.60,0:18:36.65,Default,,0000,0000,0000,,Me pregunto por qué \Ntodas quieren ponerse esto.
+Dialogue: 0,0:18:37.34,0:18:40.14,Default,,0000,0000,0000,,Y tampoco sé si me queda bien.
+Dialogue: 0,0:18:42.09,0:18:45.15,Default,,0000,0000,0000,,Pues, creo que te queda muy bien.
+Dialogue: 0,0:18:46.70,0:18:48.31,Default,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:18:54.14,0:18:56.55,Default,,0000,0000,0000,,Creo que el año que viene \Ntambién me pondré uno.
+Dialogue: 0,0:18:58.27,0:19:02.03,Notes,,0000,0000,0000,,Amuleto de unión del amor\NEfecto\N1 Encontrará una buena pareja\N2 El amor no correspondido será correspondido\N3 Desde la antigüedad, este amuleto significa una propuesta de matrimonio para el hombre o mujer que se le entrega.
+Dialogue: 0,0:18:58.99,0:19:00.48,Default,,0000,0000,0000,,¿Amuleto de unión del amor?
+Dialogue: 0,0:19:00.48,0:19:02.03,Default,,0000,0000,0000,,Ah, como aquel amuleto.
+Dialogue: 0,0:19:03.82,0:19:06.99,Default,,0000,0000,0000,,Si un hombre se lo entrega a una mujer, \Nsignifica una propuesta de matrimonio.
+Dialogue: 0,0:19:06.99,0:19:09.04,Default,,0000,0000,0000,,Conque tiene ese significado.
+Dialogue: 0,0:19:10.09,0:19:13.04,Default,,0000,0000,0000,,Aunque no creo que haya alguien \Nque quiera algo así con él.
+Dialogue: 0,0:19:13.66,0:19:16.63,Default,,0000,0000,0000,,Rayos. ¿Por qué de repente \Nse aparece en yukata?
+Dialogue: 0,0:19:16.63,0:19:18.80,Default,,0000,0000,0000,,Qué tramposa que lo haya dejado al final.
+Dialogue: 0,0:19:19.98,0:19:22.05,Default,,0000,0000,0000,,Pero ¿tramposa de qué?
+Dialogue: 0,0:19:23.23,0:19:28.31,Default,,0000,0000,0000,,A pesar de que obtuve este amuleto, \N no luce que un hombre lo tenga.
+Dialogue: 0,0:19:28.74,0:19:31.50,Default,,0000,0000,0000,,Estas cosas debería tenerlas una chica.
+Dialogue: 0,0:19:31.50,0:19:34.07,Default,,0000,0000,0000,,Además, le causé una molestia a ella.
+Dialogue: 0,0:19:34.73,0:19:36.20,Default,,0000,0000,0000,,Oye, Chitoge.
+Dialogue: 0,0:19:36.20,0:19:37.32,Default,,0000,0000,0000,,Dime.
+Dialogue: 0,0:19:37.48,0:19:38.57,Default,,0000,0000,0000,,Te regalo esto.
+Dialogue: 0,0:19:47.61,0:19:48.84,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:19:49.82,0:19:51.92,Default,,0000,0000,0000,,¿Por qué reaccionas así?
+Dialogue: 0,0:19:51.92,0:19:53.22,Default,,0000,0000,0000,,No, pues...
+Dialogue: 0,0:19:53.22,0:19:54.59,Default,,0000,0000,0000,,¿Por qué me lo das a mí?
+Dialogue: 0,0:19:55.22,0:19:57.09,Default,,0000,0000,0000,,Bueno, pues...
+Dialogue: 0,0:19:57.51,0:19:59.21,Default,,0000,0000,0000,,¿Qu-qué le pasa?
+Dialogue: 0,0:19:59.21,0:20:01.88,Default,,0000,0000,0000,,¿Por qué se altera de buenas a primeras?
+Dialogue: 0,0:20:01.88,0:20:04.01,Default,,0000,0000,0000,,No sé si serán imaginaciones mías, \Npero la veo sonrojada.
+Dialogue: 0,0:20:04.27,0:20:07.15,Default,,0000,0000,0000,,Un momento... ¿qué significa esto?
+Dialogue: 0,0:20:07.15,0:20:09.50,Default,,0000,0000,0000,,¡¿N-no me digas que es en serio?!
+Dialogue: 0,0:20:09.50,0:20:09.88,Default,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:20:10.25,0:20:11.88,Default,,0000,0000,0000,,Por supuesto que es en serio.
+Dialogue: 0,0:20:11.88,0:20:12.55,Default,,0000,0000,0000,,Te lo regalo.
+Dialogue: 0,0:20:12.55,0:20:14.81,Default,,0000,0000,0000,,¡¿Qué?! ¡¿Que es en serio?!
+Dialogue: 0,0:20:15.35,0:20:17.21,Default,,0000,0000,0000,,No puede ser... ¡¿qué está pasando?!
+Dialogue: 0,0:20:17.21,0:20:18.76,Default,,0000,0000,0000,,¡¿Qué está diciendo?!
+Dialogue: 0,0:20:18.76,0:20:20.77,Default,,0000,0000,0000,,En serio... ¡¿quiere decir que me está
+Dialogue: 0,0:20:20.77,0:20:21.95,Default,,0000,0000,0000,,pidiendo matrimonio en serio?!
+Dialogue: 0,0:20:21.95,0:20:24.82,Default,,0000,0000,0000,,¡¿Por qué?! Eso significa que él...
+Dialogue: 0,0:20:25.54,0:20:27.08,Default,,0000,0000,0000,,¿A esta qué le pasa?
+Dialogue: 0,0:20:27.08,0:20:29.46,Default,,0000,0000,0000,,No sabía que deseaba tanto \Nun amuleto de unión del amor.
+Dialogue: 0,0:20:29.46,0:20:33.36,Default,,0000,0000,0000,,¿De-desde cuándo me veías de esa manera?
+Dialogue: 0,0:20:33.36,0:20:34.74,Default,,0000,0000,0000,,¿Desde cuándo?
+Dialogue: 0,0:20:34.74,0:20:37.85,Default,,0000,0000,0000,,Pues, no me había percatado.
+Dialogue: 0,0:20:37.85,0:20:40.29,Default,,0000,0000,0000,,¡¿Qué?! ¡¿De repente \Nllegaste a esa conclusión?!
+Dialogue: 0,0:20:40.94,0:20:42.54,Default,,0000,0000,0000,,No, pues...
+Dialogue: 0,0:20:42.96,0:20:43.80,Default,,0000,0000,0000,,No puede ser.
+Dialogue: 0,0:20:43.80,0:20:47.69,Default,,0000,0000,0000,,¿Eso significa que hace unos momentos \Nse dio cuenta de que le gusto?
+Dialogue: 0,0:20:47.98,0:20:50.23,Default,,0000,0000,0000,,¡¿Y por algo así se pide \Nmatrimonio repentinamente?!
+Dialogue: 0,0:20:50.23,0:20:52.08,Default,,0000,0000,0000,,Pero se dice que el amor surge de repente.
+Dialogue: 0,0:20:52.08,0:20:53.70,Default,,0000,0000,0000,,¿Será normal?
+Dialogue: 0,0:20:53.94,0:20:56.98,Default,,0000,0000,0000,,Pero así de repente\N no me parece conveniente...
+Dialogue: 0,0:20:59.07,0:20:59.91,Default,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:21:00.46,0:21:01.77,Default,,0000,0000,0000,,¿Qué voy a hacer?
+Dialogue: 0,0:21:01.77,0:21:04.65,Default,,0000,0000,0000,,Como me puse el yukata de rápido, \Nse me está aflojando el {\i1}obi{\i0}.
+Dialogue: 0,0:21:04.65,0:21:06.40,Default,,0000,0000,0000,,¡¿Qu-qué?!
+Dialogue: 0,0:21:06.67,0:21:09.07,Default,,0000,0000,0000,,¡¿Estás bien?! Permíteme.
+Dialogue: 0,0:21:09.07,0:21:09.87,Default,,0000,0000,0000,,Te la voy a sostener.
+Dialogue: 0,0:21:09.87,0:21:11.87,Default,,0000,0000,0000,,No te me acerques, estúpido.
+Dialogue: 0,0:21:12.98,0:21:15.88,Default,,0000,0000,0000,,¡¿Qué voy a hacer?! \N¡Se me está deshaciendo!
+Dialogue: 0,0:21:16.02,0:21:19.69,Default,,0000,0000,0000,,No sé cómo se ata, \Npero te la puedo sostener.
+Dialogue: 0,0:21:19.69,0:21:21.29,Default,,0000,0000,0000,,¡No! ¡No te me acerques!
+Dialogue: 0,0:21:21.29,0:21:23.37,Default,,0000,0000,0000,,¡No tengo ropa interior puesta!
+Dialogue: 0,0:21:23.37,0:21:23.97,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:21:23.97,0:21:25.85,Default,,0000,0000,0000,,¡¿Por qué no te pusiste ropa interior?!
+Dialogue: 0,0:21:25.85,0:21:28.62,Default,,0000,0000,0000,,¿El yukata no se pone sin ropa interior?
+Dialogue: 0,0:21:28.62,0:21:30.70,Default,,0000,0000,0000,,¡Ese es un error muy frecuente!
+Dialogue: 0,0:21:30.70,0:21:34.10,Default,,0000,0000,0000,,¡Oye! ¡Deja de imaginarte \Ncosas extrañas! ¡Pervertido!
+Dialogue: 0,0:21:34.10,0:21:35.12,Default,,0000,0000,0000,,¡No lo estoy haciendo!
+Dialogue: 0,0:21:36.03,0:21:37.17,Default,,0000,0000,0000,,¡Ya no puedo más!
+Dialogue: 0,0:21:37.17,0:21:39.08,Default,,0000,0000,0000,,¡Cálmate!
+Dialogue: 0,0:21:39.08,0:21:41.10,Default,,0000,0000,0000,,¡Que no me toques!
+Dialogue: 0,0:21:40.93,0:21:42.10,Default,,0000,0000,0000,,¡No tienes opción!
+Dialogue: 0,0:21:42.10,0:21:43.12,Default,,0000,0000,0000,,¡Deja de hablar tanto!
+Dialogue: 0,0:21:43.22,0:21:44.09,Default,,0000,0000,0000,,¡Rayos!
+Dialogue: 0,0:21:44.09,0:21:46.12,Default,,0000,0000,0000,,¡Todo esto pasó por haberme entregado
+Dialogue: 0,0:21:46.12,0:21:47.99,Default,,0000,0000,0000,,esto repentinamente!
+Dialogue: 0,0:21:47.99,0:21:49.36,Default,,0000,0000,0000,,¡¿Qué tiene que ver una cosa con la otra?!
+Dialogue: 0,0:21:49.62,0:21:53.24,Default,,0000,0000,0000,,No puedo aceptar esto si me lo entregan\N de buenas a primeras...
+Dialogue: 0,0:21:53.24,0:21:56.75,Default,,0000,0000,0000,,Pues... me gustaría pensarlo un poco...
+Dialogue: 0,0:21:57.25,0:21:59.44,Default,,0000,0000,0000,,¿Pensar qué?
+Dialogue: 0,0:21:59.56,0:22:01.26,Default,,0000,0000,0000,,¿De qué estás hablando desde hace rato...?
+Dialogue: 0,0:22:07.75,0:22:08.99,Default,,0000,0000,0000,,¡No fue por eso!
+Dialogue: 0,0:22:08.99,0:22:10.55,Default,,0000,0000,0000,,¡El {\i1}obi{\i0}!
+Dialogue: 0,0:22:10.55,0:22:12.34,Default,,0000,0000,0000,,¡No sabía eso!
+Dialogue: 0,0:22:12.34,0:22:15.14,Default,,0000,0000,0000,,¡No te lo entregué con esa intención!
+Dialogue: 0,0:22:15.14,0:22:16.94,Default,,0000,0000,0000,,¡Ya deja el tema! ¡No me mires!
+Dialogue: 0,0:22:23.12,0:22:25.74,Default,,0000,0000,0000,,Me hubiese gustado quedarme \Nun poco más con él...
+Dialogue: 0,0:22:26.11,0:22:29.75,Default,,0000,0000,0000,,No imaginaba que Raku-sama \Nfuera tan carnívoro...
+Dialogue: 0,0:22:30.43,0:22:31.75,Default,,0000,0000,0000,,Delicioso.
+Dialogue: 0,0:22:31.75,0:22:33.75,Default,,0000,0000,0000,,

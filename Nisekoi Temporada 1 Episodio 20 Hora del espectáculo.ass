@@ -1,0 +1,397 @@
+﻿[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H001200FF,&H00000000,&H00555555,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Sign,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0010,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:05.42,0:00:07.75,Italics,NTP,0000,0000,0000,,¡Cinco minutos para empezar!
+Dialogue: 0,0:00:10.51,0:00:14.72,Italics,NTP,0000,0000,0000,,¿Cómo debería nombrar lo que siento ahora?
+Dialogue: 0,0:00:15.93,0:00:17.22,Italics,NTP,0000,0000,0000,,No.
+Dialogue: 0,0:00:17.56,0:00:19.97,Italics,NTP,0000,0000,0000,,La verdad es que sé lo que es.
+Dialogue: 0,0:00:31.07,0:00:33.15,Default,NTP,0000,0000,0000,,¿Qué te pasa? ¡No pierdas el tiempo!
+Dialogue: 0,0:00:33.15,0:00:35.16,Default,NTP,0000,0000,0000,,¡Vamos, es hora de empezar!
+Dialogue: 0,0:00:35.16,0:00:37.66,Default,NTP,0000,0000,0000,,¿Eh? Bueno... sí.
+Dialogue: 0,0:00:37.66,0:00:39.24,Default,NTP,0000,0000,0000,,¿Estarás bien?
+Dialogue: 0,0:00:39.24,0:00:42.33,Default,NTP,0000,0000,0000,,Digo... estabas nerviosa \Npor tus líneas y eso.
+Dialogue: 0,0:00:42.33,0:00:45.08,Default,NTP,0000,0000,0000,,¡Estoy bien! Memoricé lo más importante.
+Dialogue: 0,0:00:45.54,0:00:49.00,Default,NTP,0000,0000,0000,,Como siempre, eres un gorila \Nal que al menos le funciona bien el cerebro.
+Dialogue: 0,0:00:49.80,0:00:53.09,Default,NTP,0000,0000,0000,,¡L-l-l-lo siento! \N¡Se me escapó, como siempre!
+Dialogue: 0,0:00:53.51,0:00:55.34,Default,NTP,0000,0000,0000,,¿Estás enfadada?
+Dialogue: 0,0:00:57.76,0:01:00.10,Default,NTP,0000,0000,0000,,Vamos. ¡Es hora de empezar!
+Dialogue: 0,0:01:03.39,0:01:05.77,Italics,NTP,0000,0000,0000,,¿Y esa sonrisa?
+Dialogue: 0,0:01:05.77,0:01:09.98,Italics,NTP,0000,0000,0000,,Hace un momento\N no hacía más que estar malhumorada...
+Dialogue: 0,0:01:10.53,0:01:12.74,Italics,NTP,0000,0000,0000,,Hay algo raro en todo esto...
+Dialogue: 0,0:01:15.45,0:01:18.99,Sign,NTP,0000,0000,0000,,Episodio 20
+Dialogue: 0,0:01:15.45,0:01:18.99,Sign,NTP,0000,0000,0000,,Hora del espectáculo
+Dialogue: 0,0:01:21.41,0:01:23.91,Default,NTP,0000,0000,0000,,Damas y caballeros, gracias por su paciencia.
+Dialogue: 0,0:01:23.91,0:01:27.33,Default,NTP,0000,0000,0000,,El próximo programa\N será una obra realizada por la clase 1-C...
+Dialogue: 0,0:01:27.33,0:01:29.50,Default,NTP,0000,0000,0000,,¡Romeo y Julieta!
+Dialogue: 0,0:01:29.75,0:01:33.76,Default,NTP,0000,0000,0000,,La historia que vamos a contar \Nes una trágica historia de amor.
+Dialogue: 0,0:01:33.76,0:01:36.80,Default,NTP,0000,0000,0000,,Dos familias atrapadas \Nen una disputa mortal...
+Dialogue: 0,0:01:36.97,0:01:40.81,Default,NTP,0000,0000,0000,,Los Montesco y los Capuleto.
+Dialogue: 0,0:01:37.80,0:01:38.80,Default,NTP,0000,0000,0000,,Joven amo...
+Dialogue: 0,0:01:39.93,0:01:40.81,Default,NTP,0000,0000,0000,,Señorita...
+Dialogue: 0,0:01:41.14,0:01:44.23,Default,NTP,0000,0000,0000,,Nacidos en estas familias, Romeo y Julieta...
+Dialogue: 0,0:01:44.23,0:01:48.19,Default,NTP,0000,0000,0000,,en un cruel giro del destino, se enamoran...
+Dialogue: 0,0:01:49.06,0:01:54.57,Default,NTP,0000,0000,0000,,Oh Romeo, ¿por qué nuestros padres \Npelean con tanto odio?
+Dialogue: 0,0:01:54.99,0:01:57.49,Default,NTP,0000,0000,0000,,En verdad, estoy segura que, como nosotros,
+Dialogue: 0,0:01:57.49,0:02:01.20,Default,NTP,0000,0000,0000,,podrían darse la mano \Ny amarse los unos a los otros.
+Dialogue: 0,0:02:01.37,0:02:08.21,Default,NTP,0000,0000,0000,,Si solo entendiesen la mitad \Nde mi amor por ti, Romeo... seguro...
+Dialogue: 0,0:02:08.67,0:02:12.17,Italics,NTP,0000,0000,0000,,Increíble. Solo le dio una leída \Nal guión hace un rato...
+Dialogue: 0,0:02:13.05,0:02:14.96,Italics,NTP,0000,0000,0000,,Definitivamente es...
+Dialogue: 0,0:02:17.01,0:02:18.97,Default,NTP,0000,0000,0000,,¿Qué era lo que seguía, Romeo?
+Dialogue: 0,0:02:20.93,0:02:22.35,Default,NTP,0000,0000,0000,,¡Oye, Julieta!
+Dialogue: 0,0:02:22.35,0:02:24.02,Default,NTP,0000,0000,0000,,¡Es una línea importante!
+Dialogue: 0,0:02:24.02,0:02:27.10,Default,NTP,0000,0000,0000,,¿Qué quieres que haga? \N¿Cómo rayos quieres que recuerde
+Dialogue: 0,0:02:27.10,0:02:28.52,Default,NTP,0000,0000,0000,,unas líneas tan aburridas apenas empezar?
+Dialogue: 0,0:02:28.52,0:02:30.02,Default,NTP,0000,0000,0000,,Pero si nada de eso estaba en la obra...
+Dialogue: 0,0:02:32.32,0:02:34.44,Default,NTP,0000,0000,0000,,¿Qué pasa? ¿Se supone que digan eso?
+Dialogue: 0,0:02:34.44,0:02:36.24,Default,NTP,0000,0000,0000,,Pero es gracioso.
+Dialogue: 0,0:02:36.24,0:02:37.99,Default,NTP,0000,0000,0000,,¡Oye, se están riendo!
+Dialogue: 0,0:02:37.99,0:02:39.57,Default,NTP,0000,0000,0000,,¡Eso podría funcionar!
+Dialogue: 0,0:02:39.57,0:02:42.58,Italics,NTP,0000,0000,0000,,- ¡Bien hecho, amo!\N- ¡Señorita! ¡Usted puede!
+Dialogue: 0,0:02:43.20,0:02:45.45,Default,NTP,0000,0000,0000,,¡Genial! ¡Es la estrella del espectáculo!
+Dialogue: 0,0:02:45.45,0:02:46.91,Default,NTP,0000,0000,0000,,¡Joven, es genial!
+Dialogue: 0,0:02:46.91,0:02:49.00,Default,NTP,0000,0000,0000,,Están grabando esto, ¿verdad?
+Dialogue: 0,0:02:49.00,0:02:51.92,Italics,NTP,0000,0000,0000,,Demonios... ¡les dije que no vinieran!
+Dialogue: 0,0:02:52.04,0:02:55.09,Italics,NTP,0000,0000,0000,,¡Rayos, ahora sí que no podemos \Nechar a perder esto.
+Dialogue: 0,0:02:55.55,0:02:57.42,Default,NTP,0000,0000,0000,,¡D-de acuerdo, Julieta!
+Dialogue: 0,0:02:57.42,0:03:01.01,Default,NTP,0000,0000,0000,,Entiendo que estés nerviosa, \Nasí que volvamos a empezar. ¿Sí?
+Dialogue: 0,0:03:01.01,0:03:02.60,Default,NTP,0000,0000,0000,,¡Cla-claro!
+Dialogue: 0,0:03:02.60,0:03:04.26,Default,NTP,0000,0000,0000,,¡Vamos a darle!
+Dialogue: 0,0:03:04.26,0:03:06.64,Default,NTP,0000,0000,0000,,¡Julieta no dice esas cosas!
+Dialogue: 0,0:03:10.98,0:03:13.31,Default,NTP,0000,0000,0000,,Se están esforzando...
+Dialogue: 0,0:03:14.82,0:03:16.61,Default,NTP,0000,0000,0000,,¡Vamos! ¡Ustedes pueden!
+Dialogue: 0,0:03:16.61,0:03:18.32,Default,NTP,0000,0000,0000,,¡Bien, están genial!
+Dialogue: 0,0:03:19.28,0:03:21.74,Italics,NTP,0000,0000,0000,,Romeo está por escabullirse de la mansión.
+Dialogue: 0,0:03:21.74,0:03:23.53,Italics,NTP,0000,0000,0000,,Ignorando a su sirvienta, \Nque trata de detenerlo...
+Dialogue: 0,0:03:23.53,0:03:25.54,Italics,NTP,0000,0000,0000,,se dirige a ver a Julieta.
+Dialogue: 0,0:03:25.83,0:03:28.04,Default,NTP,0000,0000,0000,,¿De verdad irá a verla?
+Dialogue: 0,0:03:29.54,0:03:33.21,Default,NTP,0000,0000,0000,,La familia Capuleto desea matarlo.
+Dialogue: 0,0:03:33.21,0:03:36.88,Default,NTP,0000,0000,0000,,No importa lo grave que sea \Nel peligro, igual debo ir.
+Dialogue: 0,0:03:37.38,0:03:40.38,Default,NTP,0000,0000,0000,,Mientras hablamos, \Nella me espera en ese balcón.
+Dialogue: 0,0:03:41.51,0:03:42.80,Italics,NTP,0000,0000,0000,,No pueden detener a Romeo.
+Dialogue: 0,0:03:42.80,0:03:46.26,Italics,NTP,0000,0000,0000,,Pero justo en ese momento, \Nla sirvienta toma una decisión.
+Dialogue: 0,0:03:47.31,0:03:50.60,Italics,NTP,0000,0000,0000,,¡La verdad es que la sirvienta \Nestá enamorada de Romeo!
+Dialogue: 0,0:03:51.98,0:03:55.40,Italics,NTP,0000,0000,0000,,¡La sirvienta, pensando que será \Nla última vez que lo vea con vida,
+Dialogue: 0,0:03:55.40,0:03:58.23,Default,NTP,0000,0000,0000,,se decide y confiesa su amor!
+Dialogue: 0,0:03:59.49,0:04:01.91,Default,NTP,0000,0000,0000,,¡Oye! ¡Nunca vi nada de eso en el guión!
+Dialogue: 0,0:04:01.91,0:04:03.45,Default,NTP,0000,0000,0000,,¡Ese idiota!
+Dialogue: 0,0:04:03.74,0:04:06.08,Default,NTP,0000,0000,0000,,¡Oye! Tsugumi... Tsugumi...
+Dialogue: 0,0:04:13.67,0:04:16.84,Default,NTP,0000,0000,0000,,Eh... eh... Romeo.
+Dialogue: 0,0:04:18.63,0:04:23.84,Default,NTP,0000,0000,0000,,La verdad es que... desde hace \Nmucho tiempo, he estado...
+Dialogue: 0,0:04:25.76,0:04:26.72,Default,NTP,0000,0000,0000,,E...
+Dialogue: 0,0:04:29.02,0:04:30.10,Default,NTP,0000,0000,0000,,E...
+Dialogue: 0,0:04:31.77,0:04:32.60,Default,NTP,0000,0000,0000,,E...
+Dialogue: 0,0:04:34.19,0:04:35.56,Default,NTP,0000,0000,0000,,¡Están locos si creen que lo diré!
+Dialogue: 0,0:04:35.56,0:04:37.77,Default,NTP,0000,0000,0000,,¡Idiotas!
+Dialogue: 0,0:04:38.40,0:04:40.99,Default,NTP,0000,0000,0000,,¡La confesión fue un fracaso!
+Dialogue: 0,0:04:40.99,0:04:44.16,Italics,NTP,0000,0000,0000,,¡Contrario a su apariencia, \Nla sirvienta es bastante tímida!
+Dialogue: 0,0:04:42.20,0:04:44.16,Default,NTP,0000,0000,0000,,¿Dónde demonios está ese tipo?
+Dialogue: 0,0:04:44.16,0:04:46.16,Default,NTP,0000,0000,0000,,¡Voy a matarlo!
+Dialogue: 0,0:04:44.49,0:04:47.28,Italics,NTP,0000,0000,0000,,¡Mientras pasa todo esto, \NRomeo marcha a ver a Julieta!
+Dialogue: 0,0:04:47.28,0:04:50.66,Italics,NTP,0000,0000,0000,,¡Damas y caballeros, un gran aplauso \Npara la valiente sirvienta!
+Dialogue: 0,0:04:47.74,0:04:51.04,Default,NTP,0000,0000,0000,,¡Déjenme dispararle!
+Dialogue: 0,0:04:51.04,0:04:52.29,Italics,NTP,0000,0000,0000,,¡Bien por ti!
+Dialogue: 0,0:04:52.58,0:04:55.33,Italics,NTP,0000,0000,0000,,¡Shu, idiota! Eso no era necesario...
+Dialogue: 0,0:04:55.33,0:04:57.46,Italics,NTP,0000,0000,0000,,¡Por favor espera, Romeo!
+Dialogue: 0,0:05:00.01,0:05:03.22,Italics,NTP,0000,0000,0000,,¿Qué es esto? ¡Una misteriosa mujer \Naparece en escena!
+Dialogue: 0,0:05:03.22,0:05:05.68,Italics,NTP,0000,0000,0000,,¿De quién podrá tratarse?
+Dialogue: 0,0:05:05.68,0:05:09.76,Default,NTP,0000,0000,0000,,¡Mi nombre es... eh... Josefina!
+Dialogue: 0,0:05:09.76,0:05:12.93,Default,NTP,0000,0000,0000,,¡Soy el verdadero amor de Romeo!
+Dialogue: 0,0:05:15.73,0:05:19.52,Italics,NTP,0000,0000,0000,,¡Increíble! ¡De repente \Nse revela que Romeo es un infiel!
+Dialogue: 0,0:05:19.52,0:05:21.61,Default,NTP,0000,0000,0000,,Pero tú... estabas resfriada...
+Dialogue: 0,0:05:21.61,0:05:23.57,Italics,NTP,0000,0000,0000,,¿Quién pudo verlo venir?
+Dialogue: 0,0:05:23.57,0:05:26.36,Italics,NTP,0000,0000,0000,,¡Si esto es cierto, \Nesto ya no es un amor puro!
+Dialogue: 0,0:05:26.36,0:05:28.87,Italics,NTP,0000,0000,0000,,¡Es el peor enemigo de las mujeres! \N¡Romeo, apestas!
+Dialogue: 0,0:05:28.87,0:05:30.37,Default,NTP,0000,0000,0000,,¡Eso no está bien, Romeo!
+Dialogue: 0,0:05:30.37,0:05:31.54,Default,NTP,0000,0000,0000,,¡Das asco!
+Dialogue: 0,0:05:31.54,0:05:33.20,Default,NTP,0000,0000,0000,,¡No me insulten sin motivo!
+Dialogue: 0,0:05:36.46,0:05:40.84,Default,NTP,0000,0000,0000,,Eh... ¿Josefina? Parece que te equivocas...
+Dialogue: 0,0:05:41.05,0:05:44.17,Default,NTP,0000,0000,0000,,¡Por Dios! ¡No me digas \Nque lo has olvidado!
+Dialogue: 0,0:05:44.17,0:05:46.72,Default,NTP,0000,0000,0000,,¡Después de lo que me has hecho!
+Dialogue: 0,0:05:46.72,0:05:50.35,Default,NTP,0000,0000,0000,,¿Acaso era mentira cuando dijiste \Nque te casarías conmigo?
+Dialogue: 0,0:05:50.97,0:05:54.48,Italics,NTP,0000,0000,0000,,¡Así que estos dos tenían una relación \Nmás grande de lo que pensábamos!
+Dialogue: 0,0:05:54.48,0:05:57.56,Italics,NTP,0000,0000,0000,,¿Cómo vas a hacerte responsable \Nde tus actos, Romeo?
+Dialogue: 0,0:05:57.56,0:05:59.19,Default,NTP,0000,0000,0000,,¡Maldito Romeo!
+Dialogue: 0,0:05:57.56,0:06:01.48,Italics,NTP,0000,0000,0000,,¡Demonios, sigue añadiendo tonterías \Na la historia!
+Dialogue: 0,0:05:59.19,0:06:00.32,Default,NTP,0000,0000,0000,,¡¿Cómo haces llorar a una chica?!
+Dialogue: 0,0:06:00.32,0:06:01.48,Default,NTP,0000,0000,0000,,¡Perro!
+Dialogue: 0,0:06:01.73,0:06:05.28,Italics,NTP,0000,0000,0000,,¿Qué le has hecho? \N¿Qué quiere decir con eso?
+Dialogue: 0,0:06:06.78,0:06:08.99,Default,NTP,0000,0000,0000,,¡Por Dios, Josefina!
+Dialogue: 0,0:06:08.99,0:06:12.95,Default,NTP,0000,0000,0000,,Ahí vas de nuevo, poniéndome \Nen la mira como siempre.
+Dialogue: 0,0:06:13.54,0:06:14.62,Default,NTP,0000,0000,0000,,¿Matrimonio?
+Dialogue: 0,0:06:14.62,0:06:16.21,Default,NTP,0000,0000,0000,,Sabes que es imposible.
+Dialogue: 0,0:06:16.58,0:06:20.84,Default,NTP,0000,0000,0000,,¡Después de todo, tú y yo \Nsomos hermanos unidos por sangre!
+Dialogue: 0,0:06:22.09,0:06:26.22,Italics,NTP,0000,0000,0000,,¡Qué impactante revelación! \N¡Esos dos son hermanos!
+Dialogue: 0,0:06:27.63,0:06:29.47,Italics,NTP,0000,0000,0000,,Nada mal, Raku-sama...
+Dialogue: 0,0:06:29.80,0:06:32.22,Default,NTP,0000,0000,0000,,¡Es una sorpresa tras otra!
+Dialogue: 0,0:06:32.22,0:06:35.23,Default,NTP,0000,0000,0000,,¡Pero si es cierto, esos dos \Nnunca podrían casarse!
+Dialogue: 0,0:06:36.27,0:06:39.98,Default,NTP,0000,0000,0000,,¡Pero cuando se trata \Ndel amor, eso no importa!
+Dialogue: 0,0:06:40.36,0:06:42.77,Default,NTP,0000,0000,0000,,¡Casémonos, hermano Romeo!
+Dialogue: 0,0:06:42.77,0:06:45.49,Italics,NTP,0000,0000,0000,,¡A pesar de todo, Josefina es imparable!
+Dialogue: 0,0:06:45.99,0:06:47.49,Italics,NTP,0000,0000,0000,,¿Qué demonios están diciendo?
+Dialogue: 0,0:06:47.90,0:06:50.87,Italics,NTP,0000,0000,0000,,¡La joven hermana que tanto se preocupa \Npor su hermano mayor... Josefina!
+Dialogue: 0,0:06:50.87,0:06:53.24,Italics,NTP,0000,0000,0000,,¿Qué va a hacer Romeo?
+Dialogue: 0,0:06:57.16,0:06:58.87,Default,NTP,0000,0000,0000,,¡Trata de entenderlo, Josefina!
+Dialogue: 0,0:06:59.96,0:07:03.88,Default,NTP,0000,0000,0000,,El camino que he de recorrer \Nestá bañado en la sangre de ambas familias.
+Dialogue: 0,0:07:04.21,0:07:09.88,Default,NTP,0000,0000,0000,,¡No quiero que mi frágil hermana \Nse vea involucrada en algo así!
+Dialogue: 0,0:07:13.72,0:07:15.14,Default,NTP,0000,0000,0000,,No...
+Dialogue: 0,0:07:15.60,0:07:19.64,Default,NTP,0000,0000,0000,,Romeo, tanto te preocupa mi salud...
+Dialogue: 0,0:07:20.65,0:07:22.65,Default,NTP,0000,0000,0000,,Oh, mi Romeo...
+Dialogue: 0,0:07:22.65,0:07:24.15,Default,NTP,0000,0000,0000,,Raku-sama...
+Dialogue: 0,0:07:24.73,0:07:30.66,Default,NTP,0000,0000,0000,,Después de todo... te adoro...
+Dialogue: 0,0:07:39.66,0:07:43.54,Italics,NTP,0000,0000,0000,,¡Vaya! ¡Aquí es donde la frágil Josefina \Nhace su salida!
+Dialogue: 0,0:07:39.96,0:07:42.88,Default,NTP,0000,0000,0000,,¡Dios, Raku-sama, qué atrevido!
+Dialogue: 0,0:07:43.54,0:07:46.55,Italics,NTP,0000,0000,0000,,¡Y así, Romeo se libra \Nde un inesperado asesino!
+Dialogue: 0,0:07:46.55,0:07:49.67,Italics,NTP,0000,0000,0000,,Lo siento, Tachibana... \Nluego iré a visitarte.
+Dialogue: 0,0:07:51.22,0:07:54.01,Italics,NTP,0000,0000,0000,,¡Romeo va en camino hacia Julieta!
+Dialogue: 0,0:07:54.01,0:07:55.26,Italics,NTP,0000,0000,0000,,Vaya, vaya...
+Dialogue: 0,0:07:55.51,0:07:57.35,Default,NTP,0000,0000,0000,,¡Espera, Romeo!
+Dialogue: 0,0:07:58.73,0:08:00.06,Default,NTP,0000,0000,0000,,¡¿Otra vez?!
+Dialogue: 0,0:08:04.11,0:08:07.48,Default,NTP,0000,0000,0000,,No puedo permitir que veas a Julieta.
+Dialogue: 0,0:08:07.78,0:08:09.82,Default,NTP,0000,0000,0000,,¡Soy el hermano de Julieta!
+Dialogue: 0,0:08:10.32,0:08:11.57,Default,NTP,0000,0000,0000,,¡Friedrich!
+Dialogue: 0,0:08:15.20,0:08:16.87,Default,NTP,0000,0000,0000,,¡¿Qué demonios haces?!
+Dialogue: 0,0:08:18.41,0:08:21.00,Default,NTP,0000,0000,0000,,Dicen los rumores que eres una escoria
+Dialogue: 0,0:08:21.00,0:08:24.67,Default,NTP,0000,0000,0000,,que no se preocupa de romper el corazón de las mujeres engañándolas con dos o tres a la vez.
+Dialogue: 0,0:08:24.67,0:08:26.75,Default,NTP,0000,0000,0000,,¡Eso es un malentendido!
+Dialogue: 0,0:08:26.75,0:08:29.30,Default,NTP,0000,0000,0000,,¡No le entregaré a mi hermana \Na semejante hombre!
+Dialogue: 0,0:08:29.30,0:08:31.84,Default,NTP,0000,0000,0000,,¡Si tanto quieres verla...
+Dialogue: 0,0:08:35.14,0:08:37.39,Default,NTP,0000,0000,0000,,tendrás que vencerme primero!
+Dialogue: 0,0:08:44.10,0:08:46.44,Italics,NTP,0000,0000,0000,,¡Ahora hay otro giro en la historia!
+Dialogue: 0,0:08:46.44,0:08:51.44,Italics,NTP,0000,0000,0000,,¿Podrá Romeo abrirse camino a salvo \Nhasta Julieta?
+Dialogue: 0,0:08:55.62,0:08:58.08,Default,NTP,0000,0000,0000,,¡Oye! Eh, ¿hermano?
+Dialogue: 0,0:08:58.08,0:09:00.66,Default,NTP,0000,0000,0000,,¿Qué crees que haces? ¡Eso es peligroso!
+Dialogue: 0,0:09:00.66,0:09:02.96,Default,NTP,0000,0000,0000,,Quédate fuera de esto, Julieta.
+Dialogue: 0,0:09:02.96,0:09:04.92,Default,NTP,0000,0000,0000,,Este hombre es peligroso.
+Dialogue: 0,0:09:05.29,0:09:07.63,Default,NTP,0000,0000,0000,,¡Si este hombre no existiera...
+Dialogue: 0,0:09:07.92,0:09:10.88,Default,NTP,0000,0000,0000,,podría tenerte a mi lado por siempre!
+Dialogue: 0,0:09:11.21,0:09:16.01,Italics,NTP,0000,0000,0000,,¡Parece que este hermano \Ntiene un serio caso de hermanitis!
+Dialogue: 0,0:09:17.76,0:09:20.35,Default,NTP,0000,0000,0000,,¿Qué pasa? Estás indefenso, ¿no?
+Dialogue: 0,0:09:20.35,0:09:22.10,Default,NTP,0000,0000,0000,,¡Cállate! ¡Esto no es justo!
+Dialogue: 0,0:09:22.10,0:09:23.94,Default,NTP,0000,0000,0000,,¡Eres el único que está armado!
+Dialogue: 0,0:09:27.31,0:09:30.03,Default,NTP,0000,0000,0000,,Se acabó. Prepárate, Romeo.
+Dialogue: 0,0:09:36.16,0:09:39.03,Default,NTP,0000,0000,0000,,¡No voy a caer así nada más, idiota!
+Dialogue: 0,0:09:39.99,0:09:41.91,Default,NTP,0000,0000,0000,,¡Eso es patético, idiota!
+Dialogue: 0,0:09:41.91,0:09:42.91,Default,NTP,0000,0000,0000,,Peligro
+Dialogue: 0,0:10:04.02,0:10:07.73,Italics,NTP,0000,0000,0000,,¡Gracias a la furiosa batalla,\N los muros del castillo han colapsado!
+Dialogue: 0,0:10:07.73,0:10:09.36,Italics,NTP,0000,0000,0000,,¿Quién se lo habría imaginado?
+Dialogue: 0,0:10:09.36,0:10:11.65,Italics,NTP,0000,0000,0000,,¡Los dos están bajo los escombros!
+Dialogue: 0,0:10:11.65,0:10:13.86,Italics,NTP,0000,0000,0000,,¿Están a salvo o no?
+Dialogue: 0,0:10:14.03,0:10:14.99,Default,NTP,0000,0000,0000,,¡Romeo!
+Dialogue: 0,0:10:26.46,0:10:28.25,Italics,NTP,0000,0000,0000,,¡Ahí está Romeo!
+Dialogue: 0,0:10:28.25,0:10:29.88,Italics,NTP,0000,0000,0000,,¡Romeo se ha levantado!
+Dialogue: 0,0:10:29.88,0:10:32.67,Italics,NTP,0000,0000,0000,,¡El ganador del duelo es Romeo!
+Dialogue: 0,0:10:39.84,0:10:43.26,Default,NTP,0000,0000,0000,,Aquí voy, Julieta...
+Dialogue: 0,0:10:49.31,0:10:54.03,Italics,NTP,0000,0000,0000,,En serio... es un idiota... \Nahí va todo golpeado...
+Dialogue: 0,0:10:55.61,0:10:56.49,Italics,NTP,0000,0000,0000,,De verdad...
+Dialogue: 0,0:10:56.49,0:10:57.24,Italics,NTP,0000,0000,0000,,Siempre...
+Dialogue: 0,0:10:57.24,0:10:58.03,Italics,NTP,0000,0000,0000,,siempre...
+Dialogue: 0,0:11:00.45,0:11:03.37,Italics,NTP,0000,0000,0000,,No, yo soy la idiota.
+Dialogue: 0,0:11:03.62,0:11:05.79,Italics,NTP,0000,0000,0000,,Todo el tiempo tuve miedo de admitirlo.
+Dialogue: 0,0:11:06.50,0:11:07.41,Italics,NTP,0000,0000,0000,,Pero...
+Dialogue: 0,0:11:07.71,0:11:10.38,Italics,NTP,0000,0000,0000,,Ya debería aceptarlo...
+Dialogue: 0,0:11:13.38,0:11:16.80,Default,NTP,0000,0000,0000,,Oh, Romeo, ¿por qué eres Romeo?
+Dialogue: 0,0:11:18.30,0:11:21.34,Default,NTP,0000,0000,0000,,Si no fueras tú, Romeo, \Nel hijo de los Montesco,
+Dialogue: 0,0:11:21.34,0:11:26.18,Default,NTP,0000,0000,0000,,nada ni nadie interferiría en nuestro amor.
+Dialogue: 0,0:11:27.35,0:11:31.86,Default,NTP,0000,0000,0000,,Romeo, abandona este nombre \Nque no forma parte de ti mismo
+Dialogue: 0,0:11:31.86,0:11:33.31,Default,NTP,0000,0000,0000,,y toma todo lo mío.
+Dialogue: 0,0:11:38.99,0:11:40.78,Default,NTP,0000,0000,0000,,Te tomo por la palabra.
+Dialogue: 0,0:11:41.61,0:11:46.33,Default,NTP,0000,0000,0000,,Llámame tan solo tu amante \Ny recibiré un segundo bautismo.
+Dialogue: 0,0:11:47.08,0:11:52.83,Default,NTP,0000,0000,0000,,De aquí en adelante no seré más Romeo.
+Dialogue: 0,0:11:53.46,0:11:56.84,Default,NTP,0000,0000,0000,,Mi adorada Julieta...
+Dialogue: 0,0:12:02.93,0:12:04.05,Default,NTP,0000,0000,0000,,Sí.
+Dialogue: 0,0:12:06.81,0:12:10.35,Default,NTP,0000,0000,0000,,Yo también te amo, Romeo.
+Dialogue: 0,0:12:11.14,0:12:12.31,Default,NTP,0000,0000,0000,,Sí...
+Dialogue: 0,0:12:12.31,0:12:16.07,Italics,NTP,0000,0000,0000,,El hecho de que esté enamorada de este tipo...
+Dialogue: 0,0:13:05.99,0:13:07.33,Default,NTP,0000,0000,0000,,Buen trabajo.
+Dialogue: 0,0:13:08.08,0:13:10.58,Default,NTP,0000,0000,0000,,Otra vez con esos clichés...
+Dialogue: 0,0:13:12.21,0:13:14.29,Default,NTP,0000,0000,0000,,Solo quería intentarlo una vez.
+Dialogue: 0,0:13:14.29,0:13:16.92,Default,NTP,0000,0000,0000,,Cómo fingir ser una de esas niñas lindas.
+Dialogue: 0,0:13:17.67,0:13:19.92,Default,NTP,0000,0000,0000,,Que lo digas tú misma no te servirá de nada.
+Dialogue: 0,0:13:20.38,0:13:23.30,Default,NTP,0000,0000,0000,,Parece que funcionó, ¿no?
+Dialogue: 0,0:13:23.30,0:13:25.47,Default,NTP,0000,0000,0000,,Viste la reacción de la audiencia, ¿verdad?
+Dialogue: 0,0:13:25.47,0:13:29.56,Default,NTP,0000,0000,0000,,Tengo que felicitarte\N por hacer todo casi sin ensayar.
+Dialogue: 0,0:13:29.56,0:13:32.93,Default,NTP,0000,0000,0000,,Acertaste con casi todos tus diálogos...
+Dialogue: 0,0:13:33.52,0:13:38.36,Default,NTP,0000,0000,0000,,Rayos... si supieras los problemas que tuve \Npara aprender los míos...
+Dialogue: 0,0:13:38.36,0:13:40.73,Default,NTP,0000,0000,0000,,¡Eso me gusta! ¡Elógiame más!
+Dialogue: 0,0:13:40.73,0:13:42.94,Default,NTP,0000,0000,0000,,Sí, sí. Genial, genial.
+Dialogue: 0,0:13:45.20,0:13:48.24,Default,NTP,0000,0000,0000,,Es parecida, ¿no crees?
+Dialogue: 0,0:13:48.24,0:13:50.08,Default,NTP,0000,0000,0000,,Su historia y la nuestra...
+Dialogue: 0,0:13:52.29,0:13:54.96,Default,NTP,0000,0000,0000,,Nuestras familias pelean entre sí...
+Dialogue: 0,0:13:54.96,0:13:56.71,Default,NTP,0000,0000,0000,,Y los dos herederos...
+Dialogue: 0,0:13:56.71,0:13:58.25,Default,NTP,0000,0000,0000,,estando enamorados...
+Dialogue: 0,0:13:58.96,0:14:05.01,Default,NTP,0000,0000,0000,,Bueno, la mayor diferencia \Nes que no somos novios en realidad.
+Dialogue: 0,0:14:05.01,0:14:08.30,Default,NTP,0000,0000,0000,,Si eso no es lo mismo, entonces la historia \Nes completamente diferente.
+Dialogue: 0,0:14:08.68,0:14:10.22,Default,NTP,0000,0000,0000,,Es cierto.
+Dialogue: 0,0:14:12.43,0:14:13.56,Default,NTP,0000,0000,0000,,Lo siento...
+Dialogue: 0,0:14:15.19,0:14:17.27,Default,NTP,0000,0000,0000,,Últimamente estuve...
+Dialogue: 0,0:14:17.27,0:14:19.31,Default,NTP,0000,0000,0000,,Fue una locura...
+Dialogue: 0,0:14:20.11,0:14:21.48,Default,NTP,0000,0000,0000,,Lo siento...
+Dialogue: 0,0:14:22.15,0:14:24.65,Default,NTP,0000,0000,0000,,Por mi horrible comportamiento...
+Dialogue: 0,0:14:24.65,0:14:27.32,Default,NTP,0000,0000,0000,,Perdona por decir esas cosas
+Dialogue: 0,0:14:27.32,0:14:30.33,Default,NTP,0000,0000,0000,,y abofetearte...
+Dialogue: 0,0:14:31.16,0:14:32.33,Default,NTP,0000,0000,0000,,Lo siento...
+Dialogue: 0,0:14:34.70,0:14:37.00,Default,NTP,0000,0000,0000,,Volveré a la normalidad.
+Dialogue: 0,0:14:37.00,0:14:39.13,Default,NTP,0000,0000,0000,,Igual que antes...
+Dialogue: 0,0:14:39.13,0:14:41.54,Default,NTP,0000,0000,0000,,Volveré a ser como siempre...
+Dialogue: 0,0:14:42.88,0:14:44.26,Italics,NTP,0000,0000,0000,,Como antes...
+Dialogue: 0,0:14:44.26,0:14:46.84,Italics,NTP,0000,0000,0000,,Cuando éramos completamente diferentes...
+Dialogue: 0,0:14:46.84,0:14:50.47,Italics,NTP,0000,0000,0000,,La pareja falsa que se odiaba...
+Dialogue: 0,0:14:50.97,0:14:53.06,Italics,NTP,0000,0000,0000,,Prometo... que seré así de nuevo...
+Dialogue: 0,0:14:55.31,0:14:58.31,Default,NTP,0000,0000,0000,,Así que, eh...
+Dialogue: 0,0:14:58.73,0:15:00.77,Default,NTP,0000,0000,0000,,¿Me perdonas?
+Dialogue: 0,0:15:09.24,0:15:11.12,Default,NTP,0000,0000,0000,,No hay ningún problema, ¿no?
+Dialogue: 0,0:15:11.78,0:15:16.75,Default,NTP,0000,0000,0000,,Si somos una pareja falsa que se odia, \Nes normal que peleemos...
+Dialogue: 0,0:15:18.16,0:15:22.29,Default,NTP,0000,0000,0000,,Pero antes dijiste que no me odiabas...
+Dialogue: 0,0:15:22.29,0:15:23.34,Default,NTP,0000,0000,0000,,¡No, espera...!
+Dialogue: 0,0:15:23.34,0:15:25.76,Default,NTP,0000,0000,0000,,¿No eres tú la que mencionó el odio?
+Dialogue: 0,0:15:25.76,0:15:27.72,Default,NTP,0000,0000,0000,,¿Entonces era mentira?
+Dialogue: 0,0:15:27.72,0:15:29.76,Default,NTP,0000,0000,0000,,No, no... ¿de qué estás hablando?
+Dialogue: 0,0:15:30.34,0:15:34.01,Default,NTP,0000,0000,0000,,¿Quieres que te odie o no? \N¿Cuál de las dos?
+Dialogue: 0,0:15:34.76,0:15:36.10,Default,NTP,0000,0000,0000,,Rayos...
+Dialogue: 0,0:15:36.10,0:15:38.23,Default,NTP,0000,0000,0000,,¿Entonces qué hay de ti?
+Dialogue: 0,0:15:38.23,0:15:40.77,Default,NTP,0000,0000,0000,,¿No me odias?
+Dialogue: 0,0:15:42.94,0:15:44.52,Default,NTP,0000,0000,0000,,Claro...
+Dialogue: 0,0:15:46.90,0:15:49.28,Default,NTP,0000,0000,0000,,Te aborrezco...
+Dialogue: 0,0:15:56.75,0:15:58.79,Default,NTP,0000,0000,0000,,Oye, aún hay tiempo,
+Dialogue: 0,0:15:59.16,0:16:02.63,Default,NTP,0000,0000,0000,,y no he visto mucho \Ndel festival cultural, así que...
+Dialogue: 0,0:16:02.63,0:16:05.71,Default,NTP,0000,0000,0000,,si me obligaras, podría acompañarte.
+Dialogue: 0,0:16:05.71,0:16:07.17,Default,NTP,0000,0000,0000,,¿Qué dices?
+Dialogue: 0,0:16:07.42,0:16:09.55,Default,NTP,0000,0000,0000,,Rayos. Qué remedio.
+Dialogue: 0,0:16:10.38,0:16:12.55,Italics,NTP,0000,0000,0000,,¿A qué viene esa cara?
+Dialogue: 0,0:16:13.09,0:16:14.14,Italics,NTP,0000,0000,0000,,En serio...
+Dialogue: 0,0:16:14.14,0:16:17.56,Italics,NTP,0000,0000,0000,,Está tan animada que es como si nunca \Nhubiera estado enfadada antes de la obra...
+Dialogue: 0,0:16:19.89,0:16:22.56,Default,NTP,0000,0000,0000,,¡Miren! ¡Son Romeo y Julieta!
+Dialogue: 0,0:16:22.56,0:16:23.40,Default,NTP,0000,0000,0000,,¡Es cierto!
+Dialogue: 0,0:16:23.40,0:16:24.73,Default,NTP,0000,0000,0000,,¡Vimos la obra!
+Dialogue: 0,0:16:24.73,0:16:25.98,Default,NTP,0000,0000,0000,,¡Fue genial!
+Dialogue: 0,0:16:25.98,0:16:26.90,Default,NTP,0000,0000,0000,,¡Buen trabajo!
+Dialogue: 0,0:16:27.32,0:16:31.15,Italics,NTP,0000,0000,0000,,¿Por qué cambió \Npor completo de actitud...?
+Dialogue: 0,0:16:31.74,0:16:33.66,Italics,NTP,0000,0000,0000,,No te odio...
+Dialogue: 0,0:16:34.16,0:16:40.66,Italics,NTP,0000,0000,0000,,¿Significa que estuvo enfadada \Ntodo el tiempo porque pensó que la odiaba?
+Dialogue: 0,0:16:41.21,0:16:42.42,Italics,NTP,0000,0000,0000,,Pero entonces...
+Dialogue: 0,0:16:43.08,0:16:44.67,Italics,NTP,0000,0000,0000,,¡Bien, chicos!
+Dialogue: 0,0:16:45.25,0:16:47.17,Default,NTP,0000,0000,0000,,¡Salud!
+Dialogue: 0,0:16:47.17,0:16:49.01,Default,NTP,0000,0000,0000,,¡Sí, fue un éxito!
+Dialogue: 0,0:16:49.01,0:16:51.68,Default,NTP,0000,0000,0000,,¡Escuché que todos hablaban\N de nuestra clase!
+Dialogue: 0,0:16:51.84,0:16:53.51,Default,NTP,0000,0000,0000,,¡Pásenle el jugo a todos!
+Dialogue: 0,0:16:53.51,0:16:55.51,Default,NTP,0000,0000,0000,,¡Tenemos muchos aperitivos!
+Dialogue: 0,0:16:55.51,0:16:58.60,Italics,NTP,0000,0000,0000,,¡Oye! ¡Ahí está\N la protagonista, Kirisaki-san!
+Dialogue: 0,0:16:58.81,0:17:00.06,Default,NTP,0000,0000,0000,,¡Buen trabajo!
+Dialogue: 0,0:17:00.06,0:17:02.27,Default,NTP,0000,0000,0000,,Lo hiciste sobre la marcha, ¿verdad?
+Dialogue: 0,0:17:02.27,0:17:03.81,Default,NTP,0000,0000,0000,,¿Cómo aprendiste tus líneas?
+Dialogue: 0,0:17:03.81,0:17:06.23,Default,NTP,0000,0000,0000,,¡Estaba conmovida!
+Dialogue: 0,0:17:06.56,0:17:09.69,Default,NTP,0000,0000,0000,,Bueno, por un momento no estaba seguro \Nde lo que iba a pasar,
+Dialogue: 0,0:17:09.48,0:17:10.90,Default,NTP,0000,0000,0000,,¡Gracias!
+Dialogue: 0,0:17:09.69,0:17:11.40,Default,NTP,0000,0000,0000,,pero hay que reconocérselo \Na la famosa pareja...
+Dialogue: 0,0:17:11.40,0:17:13.45,Default,NTP,0000,0000,0000,,De verdad dieron lo mejor, ¿no?
+Dialogue: 0,0:17:13.70,0:17:16.20,Default,NTP,0000,0000,0000,,¿Entonces hicieron las paces?
+Dialogue: 0,0:17:17.12,0:17:18.99,Default,NTP,0000,0000,0000,,Más o menos, supongo...
+Dialogue: 0,0:17:18.99,0:17:21.04,Default,NTP,0000,0000,0000,,¡Pero fue una gran sorpresa!
+Dialogue: 0,0:17:21.04,0:17:22.83,Default,NTP,0000,0000,0000,,La forma en que te abofeteó \Nla semana pasada...
+Dialogue: 0,0:17:22.83,0:17:27.09,Default,NTP,0000,0000,0000,,Toda la clase se preguntaba \Nsi lo suyo había mordido el polvo.
+Dialogue: 0,0:17:27.09,0:17:28.84,Default,NTP,0000,0000,0000,,¿En serio?
+Dialogue: 0,0:17:28.25,0:17:30.42,Default,NTP,0000,0000,0000,,¡Gracias!
+Dialogue: 0,0:17:28.84,0:17:31.01,Default,NTP,0000,0000,0000,,Pero no te preocupes.
+Dialogue: 0,0:17:31.34,0:17:35.51,Default,NTP,0000,0000,0000,,¡Les dije a todos que habías descubierto \Nser un masoquista!
+Dialogue: 0,0:17:35.51,0:17:36.89,Default,NTP,0000,0000,0000,,¡Cerdo!
+Dialogue: 0,0:17:36.89,0:17:40.56,Italics,NTP,0000,0000,0000,,¿Qué clase de excusa es esa? ¡Idiota!
+Dialogue: 0,0:17:40.56,0:17:42.81,Default,NTP,0000,0000,0000,,Por cierto, ¿cómo está Marika-chan?
+Dialogue: 0,0:17:42.81,0:17:44.39,Default,NTP,0000,0000,0000,,Acabo de pasar a verla.
+Dialogue: 0,0:17:45.06,0:17:47.19,Italics,NTP,0000,0000,0000,,No sabes cómo controlarte...
+Dialogue: 0,0:17:48.73,0:17:50.19,Default,NTP,0000,0000,0000,,Raku-sama...
+Dialogue: 0,0:17:50.40,0:17:53.28,Default,NTP,0000,0000,0000,,¿Te torciste el tobillo? \N¿El día de la obra?
+Dialogue: 0,0:17:54.61,0:17:57.78,Default,NTP,0000,0000,0000,,Lo siento... no pude actuar de Julieta...
+Dialogue: 0,0:17:58.32,0:17:59.87,Default,NTP,0000,0000,0000,,¿Te parece gracioso?
+Dialogue: 0,0:17:59.87,0:18:03.29,Default,NTP,0000,0000,0000,,¿En qué estabas pensando? \NEra tu oportunidad...
+Dialogue: 0,0:18:07.17,0:18:09.17,Default,NTP,0000,0000,0000,,Oye, ¿quieres una crepa?
+Dialogue: 0,0:18:10.63,0:18:12.17,Default,NTP,0000,0000,0000,,Te traeré una.
+Dialogue: 0,0:18:13.21,0:18:15.59,Default,NTP,0000,0000,0000,,¡Ah, te encontré, Shu Maiko!
+Dialogue: 0,0:18:15.88,0:18:19.01,Default,NTP,0000,0000,0000,,¡Bastardo! \N¿Qué clase de narración fue esa?
+Dialogue: 0,0:18:19.01,0:18:21.18,Default,NTP,0000,0000,0000,,¡Seishirou-chan! Vamos, vamos...
+Dialogue: 0,0:18:21.18,0:18:23.81,Default,NTP,0000,0000,0000,,¡Solo trataba de animar las cosas!
+Dialogue: 0,0:18:23.81,0:18:26.23,Default,NTP,0000,0000,0000,,¡¿Cómo que animarlas?!
+Dialogue: 0,0:18:26.23,0:18:29.23,Italics,NTP,0000,0000,0000,,¡Oye, vuelve! ¡Ya verás \Nsi te animo, idiota!
+Dialogue: 0,0:18:26.60,0:18:28.10,Default,NTP,0000,0000,0000,,¿Ichijo-kun?
+Dialogue: 0,0:18:29.23,0:18:32.19,Default,NTP,0000,0000,0000,,Toma... ¿podrías dársela a Kosaki?
+Dialogue: 0,0:18:32.40,0:18:34.40,Italics,NTP,0000,0000,0000,,¡Escoria! ¡Basura! ¡Mal viviente!
+Dialogue: 0,0:18:33.40,0:18:35.49,Default,NTP,0000,0000,0000,,No hay problema, pero ¿por qué?
+Dialogue: 0,0:18:34.40,0:18:36.74,Italics,NTP,0000,0000,0000,,¡Vas a llenarme de hoyos!
+Dialogue: 0,0:18:35.49,0:18:38.66,Default,NTP,0000,0000,0000,,Estaré ocupada con un plato \Nde yakisoba, así que...
+Dialogue: 0,0:18:42.45,0:18:43.41,Default,NTP,0000,0000,0000,,¡Onodera!
+Dialogue: 0,0:18:44.54,0:18:45.79,Default,NTP,0000,0000,0000,,¿Ichijo-kun?
+Dialogue: 0,0:18:45.79,0:18:48.79,Default,NTP,0000,0000,0000,,Toma... Miyamoto quería que te la diera.
+Dialogue: 0,0:18:51.00,0:18:53.00,Default,NTP,0000,0000,0000,,¿Cómo está tu tobillo?
+Dialogue: 0,0:18:53.00,0:18:55.26,Default,NTP,0000,0000,0000,,Estoy bien...
+Dialogue: 0,0:18:55.59,0:18:57.68,Default,NTP,0000,0000,0000,,Hicieron las paces, ¿eh?
+Dialogue: 0,0:18:57.68,0:18:59.39,Default,NTP,0000,0000,0000,,¿Eh? Sí...
+Dialogue: 0,0:18:59.39,0:19:01.47,Default,NTP,0000,0000,0000,,Bueno... algo así...
+Dialogue: 0,0:19:02.89,0:19:04.93,Default,NTP,0000,0000,0000,,Gracias, Ichijo-kun.
+Dialogue: 0,0:19:07.44,0:19:11.15,Default,NTP,0000,0000,0000,,Si no hubieras traído a Chitoge-chan,
+Dialogue: 0,0:19:11.15,0:19:15.74,Default,NTP,0000,0000,0000,,sé que habría lamentado \Nlo que pasó hoy por siempre...
+Dialogue: 0,0:19:17.07,0:19:20.57,Default,NTP,0000,0000,0000,,Nada de esto fue tu culpa. Además...
+Dialogue: 0,0:19:20.57,0:19:22.87,Default,NTP,0000,0000,0000,,Eres la que más quería actuar de Julieta...
+Dialogue: 0,0:19:22.87,0:19:24.95,Default,NTP,0000,0000,0000,,¿No es así, Onodera?
+Dialogue: 0,0:19:26.58,0:19:29.62,Default,NTP,0000,0000,0000,,Sí, bueno, eso es cierto...
+Dialogue: 0,0:19:30.17,0:19:32.38,Default,NTP,0000,0000,0000,,¿Tanto te importaba?
+Dialogue: 0,0:19:33.25,0:19:35.96,Default,NTP,0000,0000,0000,,Ya sabes... actuar como Julieta...
+Dialogue: 0,0:19:36.67,0:19:38.72,Default,NTP,0000,0000,0000,,No, de hecho...
+Dialogue: 0,0:19:41.97,0:19:42.97,Default,NTP,0000,0000,0000,,Eh...
+Dialogue: 0,0:19:43.68,0:19:46.52,Default,NTP,0000,0000,0000,,Pues... sí...
+Dialogue: 0,0:19:46.52,0:19:49.56,Default,NTP,0000,0000,0000,,Era algo personal, pero...
+Dialogue: 0,0:19:49.56,0:19:53.31,Default,NTP,0000,0000,0000,,La verdad... tal vez \Nhubiera querido serlo a toda costa.
+Dialogue: 0,0:19:53.82,0:19:59.11,Default,NTP,0000,0000,0000,,Tenía la sensación de que habría sido \Nun momento muy especial...
+Dialogue: 0,0:20:06.08,0:20:07.62,Italics,NTP,0000,0000,0000,,¿Tanto así?
+Dialogue: 0,0:20:20.88,0:20:22.43,Default,NTP,0000,0000,0000,,¡Oye, Onodera!
+Dialogue: 0,0:20:22.43,0:20:24.35,Default,NTP,0000,0000,0000,,Si tanto lo quieres...
+Dialogue: 0,0:20:31.19,0:20:32.35,Default,NTP,0000,0000,0000,,¡Genial!
+Dialogue: 0,0:20:32.81,0:20:34.81,Default,NTP,0000,0000,0000,,Qué bonito atardecer...
+Dialogue: 0,0:20:36.78,0:20:40.32,Default,NTP,0000,0000,0000,,Aquí no hay nadie, así que \Npodemos escaparnos con esto.
+Dialogue: 0,0:20:40.32,0:20:43.11,Default,NTP,0000,0000,0000,,Sí. Aunque me da algo de vergüenza.
+Dialogue: 0,0:20:43.70,0:20:45.12,Default,NTP,0000,0000,0000,,Entonces...
+Dialogue: 0,0:20:45.12,0:20:46.24,Default,NTP,0000,0000,0000,,Sí.
+Dialogue: 0,0:20:48.79,0:20:52.33,Default,NTP,0000,0000,0000,,Rayos, esto me pone nervioso.
+Dialogue: 0,0:20:52.33,0:20:54.63,Default,NTP,0000,0000,0000,,¡A mí también me da vergüenza!
+Dialogue: 0,0:20:55.34,0:20:56.67,Default,NTP,0000,0000,0000,,Bueno...
+Dialogue: 0,0:20:58.76,0:21:00.63,Default,NTP,0000,0000,0000,,Mi amada Julieta.
+Dialogue: 0,0:21:01.13,0:21:05.14,Default,NTP,0000,0000,0000,,Desprecio todo lo que nos separa...
+Dialogue: 0,0:21:05.64,0:21:11.06,Default,NTP,0000,0000,0000,,¿Por qué Dios nos ha puesto\N en semejante pesar?
+Dialogue: 0,0:21:14.15,0:21:19.90,Default,NTP,0000,0000,0000,,Oh, Romeo, ¿por qué nuestros padres \Npelean con tanto odio?
+Dialogue: 0,0:21:20.57,0:21:23.53,Default,NTP,0000,0000,0000,,En verdad, estoy segura que, como nosotros,
+Dialogue: 0,0:21:23.53,0:21:27.66,Default,NTP,0000,0000,0000,,podrían darse la mano \Ny amarse los unos a los otros.
+Dialogue: 0,0:21:29.45,0:21:34.67,Default,NTP,0000,0000,0000,,Si solo entendieran la mitad \Nde mi amor por ti, Romeo...
+Dialogue: 0,0:21:35.63,0:21:36.88,Default,NTP,0000,0000,0000,,Seguro...
+Dialogue: 0,0:21:42.80,0:21:46.26,Default,NTP,0000,0000,0000,,Sin embargo, Julieta, \Nes hora de decir adiós...
+Dialogue: 0,0:21:46.26,0:21:47.60,Default,NTP,0000,0000,0000,,Ichijo-kun...
+Dialogue: 0,0:21:49.51,0:21:52.35,Default,NTP,0000,0000,0000,,Gracias... estoy feliz...
+Dialogue: 0,0:21:53.18,0:21:55.35,Default,NTP,0000,0000,0000,,¡Estoy muy feliz!
+Dialogue: 0,0:21:58.15,0:22:00.69,Default,NTP,0000,0000,0000,,Es hora de decir adiós.
+Dialogue: 0,0:22:00.69,0:22:04.86,Default,NTP,0000,0000,0000,,Mañana al ocaso, vendré a verte \Na este balcón una vez más...
+Dialogue: 0,0:22:05.78,0:22:09.28,Default,NTP,0000,0000,0000,,¿Prometes esperar por mí de nuevo?
+Dialogue: 0,0:22:12.54,0:22:15.58,Default,NTP,0000,0000,0000,,Ichijo-kun, esa no era la línea.
+Dialogue: 0,0:22:21.21,0:22:24.13,Italics,NTP,0000,0000,0000,,Al atardecer, cuando las hojas caídas \Nempiezan a volar con el viento.
+Dialogue: 0,0:22:22.42,0:22:24.13,Italics,NTP,0000,0000,0000,,¡Vuelve aquí!
+Dialogue: 0,0:22:24.51,0:22:28.68,Italics,NTP,0000,0000,0000,,Es nuestro primer e inolvidable \Nfestival cultural de preparatoria,
+Dialogue: 0,0:22:28.68,0:22:30.51,Italics,NTP,0000,0000,0000,,y el telón ha bajado.
+Dialogue: 0,0:22:30.81,0:22:34.98,Italics,NTP,0000,0000,0000,,¡Seishirou-chan, no puedes disparar \Naquí dentro!
+Dialogue: 0,0:22:34.98,0:22:36.98,Italics,,0000,0000,0000,,

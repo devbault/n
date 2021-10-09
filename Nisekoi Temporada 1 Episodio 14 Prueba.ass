@@ -1,0 +1,434 @@
+﻿[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,0
+Style: Notes,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,0015,0015,0015,0
+Style: Nisekoi-Title,Arial,20,&H004F1499,&H000000FF,&H00FBD6FF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0010,0010,1
+Style: Nisekoi-eptitle,Arial,20,&H00FFFFFF,&H000000FF,&H00F4733F,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0010,1
+Style: pizarra,Arial,20,&H00FFFFFF,&H000000FF,&H00A2C079,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: tercerdia,Arial,24,&H00FFFFFF,&H000000FF,&H007899AC,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0010,1
+Style: 4todia,Arial,22,&H00000000,&H000000FF,&H007899AC,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0010,1
+Style: 6todia,Arial,22,&H00FFFFFF,&H000000FF,&H0064DCC3,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0010,1
+Style: 7dia,Arial,22,&H00080809,&H000000FF,&H00080908,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0010,1
+Style: years,Arial,30,&H00831827,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.43,0:00:19.07,Default,,0000,0000,0000,,Qu-que tengo prometida...
+Dialogue: 0,0:00:19.37,0:00:20.83,Default,,0000,0000,0000,,Y además, viene a verme mañana.
+Dialogue: 0,0:00:20.83,0:00:22.62,Default,,0000,0000,0000,,¡Explícame eso, viejo!
+Dialogue: 0,0:00:22.93,0:00:24.46,Default,,0000,0000,0000,,No, pues...
+Dialogue: 0,0:00:24.46,0:00:26.59,Default,,0000,0000,0000,,Yo también me había olvidado de eso.
+Dialogue: 0,0:00:26.59,0:00:28.82,Default,,0000,0000,0000,,Una vez, tomando con un amigo,
+Dialogue: 0,0:00:28.82,0:00:32.01,Default,,0000,0000,0000,,hice inconscientemente esa promesa.
+Dialogue: 0,0:00:32.11,0:00:37.12,Default,,0000,0000,0000,,Desde pequeña a esa niña le habían dicho \Nque tenía prometido.
+Dialogue: 0,0:00:37.19,0:00:39.44,Default,,0000,0000,0000,,Desde que entró en edad de casarse,
+Dialogue: 0,0:00:39.44,0:00:41.65,Default,,0000,0000,0000,,se ha empecinado con venir donde ti.
+Dialogue: 0,0:00:42.23,0:00:43.62,Default,,0000,0000,0000,,Al parecer, vendrá mañana.
+Dialogue: 0,0:00:43.62,0:00:45.60,Default,,0000,0000,0000,,¿Podrías hacerte cargo de ella?
+Dialogue: 0,0:00:45.74,0:00:46.53,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:00:46.53,0:00:48.40,Default,,0000,0000,0000,,¡Un momento!
+Dialogue: 0,0:00:49.10,0:00:52.31,Default,,0000,0000,0000,,¡Lo que hay que hacer es hablar \Ncon ella para aclarar las cosas!
+Dialogue: 0,0:00:52.31,0:00:53.73,Default,,0000,0000,0000,,El error fue tuyo, ¿no?
+Dialogue: 0,0:00:53.82,0:00:56.88,Default,,0000,0000,0000,,El asunto no es tan simple.
+Dialogue: 0,0:00:57.30,0:01:00.25,Default,,0000,0000,0000,,Sería problemático si lo hago enojar...
+Dialogue: 0,0:01:00.39,0:01:01.77,Default,,0000,0000,0000,,Aun así,
+Dialogue: 0,0:01:01.77,0:01:04.25,Default,,0000,0000,0000,,¿por qué tengo que involucrarme \Ncon una chica que ni conozco?
+Dialogue: 0,0:01:04.58,0:01:06.75,Default,,0000,0000,0000,,No, sí la conoces.
+Dialogue: 0,0:01:06.85,0:01:07.75,Default,,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:01:07.75,0:01:10.84,Default,,0000,0000,0000,,Pues, la chica de la foto \Nque estuviste buscando
+Dialogue: 0,0:01:10.84,0:01:13.25,Default,,0000,0000,0000,,en días pasados, esa es tu prometida.
+Dialogue: 0,0:01:13.44,0:01:14.13,Default,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:01:15.53,0:01:18.23,Default,,0000,0000,0000,,Bueno, lo siento, pero te lo encargo.
+Dialogue: 0,0:01:22.92,0:01:25.81,Default,,0000,0000,0000,,De buenas a primeras me sale con eso...
+Dialogue: 0,0:01:25.81,0:01:28.23,Default,,0000,0000,0000,,Solo espero que no se compliquen las cosas.
+Dialogue: 0,0:01:28.53,0:01:31.29,Default,,0000,0000,0000,,Bien, atención a todos.
+Dialogue: 0,0:01:31.51,0:01:33.05,Default,,0000,0000,0000,,Sé que es algo repentino,
+Dialogue: 0,0:01:33.05,0:01:34.86,Default,,0000,0000,0000,,pero les voy a presentar \Na una nueva estudiante transferida.
+Dialogue: 0,0:01:35.06,0:01:36.68,Default,,0000,0000,0000,,¿Qué? ¿Otra estudiante transferida?
+Dialogue: 0,0:01:36.91,0:01:38.09,Default,,0000,0000,0000,,Eso parece.
+Dialogue: 0,0:01:38.09,0:01:40.07,Default,,0000,0000,0000,,En esta clase hay muchos transferidos.
+Dialogue: 0,0:01:40.29,0:01:42.19,Default,,0000,0000,0000,,Puedes pasar, Tachibana-san.
+Dialogue: 0,0:01:42.46,0:01:43.37,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:01:53.01,0:01:55.59,Default,,0000,0000,0000,,Mucho gusto a todos.
+Dialogue: 0,0:01:55.59,0:01:58.06,Default,,0000,0000,0000,,Mi nombre es Marika Tachibana.
+Dialogue: 0,0:01:58.59,0:02:01.53,Default,,0000,0000,0000,,Espero que nos llevemos bien.
+Dialogue: 0,0:02:03.90,0:02:05.21,Default,,0000,0000,0000,,¡Otra hermosura!
+Dialogue: 0,0:02:05.21,0:02:06.73,Italics,,0000,0000,0000,,¡¿Qué es lo que pasa con esta clase?!
+Dialogue: 0,0:02:06.73,0:02:07.44,Default,,0000,0000,0000,,¡¿Una modelo?!
+Dialogue: 0,0:02:07.44,0:02:08.65,Default,,0000,0000,0000,,¡¿Será una modelo?!
+Dialogue: 0,0:02:08.03,0:02:10.69,Default,,0000,0000,0000,,¡Cuánto me alegro \Nde pertenecer a esta clase!
+Dialogue: 0,0:02:11.50,0:02:13.06,Italics,,0000,0000,0000,,Es muy hermosa.
+Dialogue: 0,0:02:16.29,0:02:18.74,Italics,,0000,0000,0000,,Me pregunto si yo habré dado \Nla misma impresión...
+Dialogue: 0,0:02:18.43,0:02:19.84,Notes,,0000,0000,0000,,¡¡Llegó la primavera!!
+Dialogue: 0,0:02:21.83,0:02:23.59,Default,,0000,0000,0000,,Me parece haberla visto en algún lado...
+Dialogue: 0,0:02:23.59,0:02:26.41,Default,,0000,0000,0000,,Vamos, cálmense. Cálmense.
+Dialogue: 0,0:02:29.48,0:02:33.44,Default,,0000,0000,0000,,¡Raku-sama! ¡He estado ansiosa por verlo!
+Dialogue: 0,0:02:33.44,0:02:34.13,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:04:12.48,0:04:13.98,Nisekoi-eptitle,,0000,0000,0000,,Episodio 14: Campo de Batalla
+Dialogue: 0,0:04:18.05,0:04:19.06,Default,,0000,0000,0000,,¡¿Qué está pasando?!
+Dialogue: 0,0:04:19.06,0:04:21.49,Default,,0000,0000,0000,,¡La estudiante nueva \Nestá abrazando a Ichijo!
+Dialogue: 0,0:04:21.59,0:04:24.40,Default,,0000,0000,0000,,¡Oye! ¡¿Qué haces de buenas a primeras?!
+Dialogue: 0,0:04:24.40,0:04:25.73,Default,,0000,0000,0000,,¡¿Cómo que Raku-sama?!
+Dialogue: 0,0:04:25.73,0:04:28.81,Default,,0000,0000,0000,,Discúlpeme, Raku-sama.
+Dialogue: 0,0:04:28.81,0:04:32.39,Default,,0000,0000,0000,,He soñando tanto con este momento.
+Dialogue: 0,0:04:32.92,0:04:35.26,Default,,0000,0000,0000,,Disculpa, Tachibana-san.
+Dialogue: 0,0:04:35.26,0:04:37.13,Default,,0000,0000,0000,,¿Acaso tú conoces a Raku?
+Dialogue: 0,0:04:37.40,0:04:38.68,Default,,0000,0000,0000,,Ah, sí.
+Dialogue: 0,0:04:39.24,0:04:42.47,Default,,0000,0000,0000,,Soy la prometida de Raku-sama.
+Dialogue: 0,0:04:43.31,0:04:47.01,Default,,0000,0000,0000,,¡¿Pro-prometida?!
+Dialogue: 0,0:04:47.37,0:04:50.09,Italics,,0000,0000,0000,,¡¿E-ella es mi prometida?!
+Dialogue: 0,0:04:50.30,0:04:53.31,Italics,,0000,0000,0000,,¡¿A esto se refería \Ncon su llegada de hoy?!
+Dialogue: 0,0:04:54.46,0:04:55.85,Italics,,0000,0000,0000,,Ahora que lo pienso...
+Dialogue: 0,0:04:56.82,0:04:59.36,Italics,,0000,0000,0000,,Su rostro se parece a la de la foto...
+Dialogue: 0,0:05:03.39,0:05:04.67,Default,,0000,0000,0000,,¡Oye, tú!
+Dialogue: 0,0:05:04.67,0:05:06.54,Default,,0000,0000,0000,,¡Aléjate de Raku Ichijo!
+Dialogue: 0,0:05:06.54,0:05:11.12,Default,,0000,0000,0000,,¡Él es el no-no-novio de la señorita!
+Dialogue: 0,0:05:11.80,0:05:13.12,Default,,0000,0000,0000,,¿Novio?
+Dialogue: 0,0:05:13.21,0:05:15.01,Default,,0000,0000,0000,,¡¿Cierto?! ¡¿No es así, señorita?!
+Dialogue: 0,0:05:15.01,0:05:17.37,Default,,0000,0000,0000,,¿Eh? Tienes razón...
+Dialogue: 0,0:05:19.94,0:05:23.44,Default,,0000,0000,0000,,Sucede que él es mi amorcito.
+Dialogue: 0,0:05:24.94,0:05:26.64,Default,,0000,0000,0000,,Así es.
+Dialogue: 0,0:05:26.64,0:05:29.27,Default,,0000,0000,0000,,Por tanto, lo siento, pero...
+Dialogue: 0,0:05:32.74,0:05:33.90,Default,,0000,0000,0000,,Amorcito...
+Dialogue: 0,0:05:34.45,0:05:36.35,Default,,0000,0000,0000,,¡Kirisaki-san le declaró la guerra!
+Dialogue: 0,0:05:36.35,0:05:37.89,Default,,0000,0000,0000,,¡¿Qué vas a hacer, prometida?!
+Dialogue: 0,0:05:38.95,0:05:41.21,Default,,0000,0000,0000,,Raku-sama, yo podría hacerlo
+Dialogue: 0,0:05:41.21,0:05:44.40,Default,,0000,0000,0000,,más feliz que esta chica \Nque parece un gorila.
+Dialogue: 0,0:05:45.88,0:05:48.29,Default,,0000,0000,0000,,Como que no la escuché bien.
+Dialogue: 0,0:05:49.14,0:05:50.82,Default,,0000,0000,0000,,¡Contente, Chitoge!
+Dialogue: 0,0:05:50.82,0:05:51.93,Default,,0000,0000,0000,,¡Maldita!
+Dialogue: 0,0:05:51.93,0:05:53.69,Default,,0000,0000,0000,,¡¿Cómo te atreves \Na ser grosera con la señorita?!
+Dialogue: 0,0:05:53.69,0:05:55.70,Default,,0000,0000,0000,,Oye, eso no está bien.
+Dialogue: 0,0:05:55.70,0:05:58.96,Default,,0000,0000,0000,,No deberías apuntarme \Ncon algo tan peligroso.
+Dialogue: 0,0:05:58.96,0:06:00.66,Default,,0000,0000,0000,,¡Entren!
+Dialogue: 0,0:06:05.22,0:06:06.35,Default,,0000,0000,0000,,¡¿Qué está pasando?!
+Dialogue: 0,0:06:08.09,0:06:09.30,Default,,0000,0000,0000,,¡¿Qu-qué pasa?!
+Dialogue: 0,0:06:13.08,0:06:15.03,Default,,0000,0000,0000,,Disculpen el alboroto.
+Dialogue: 0,0:06:15.43,0:06:19.33,Default,,0000,0000,0000,,Sucede que mi padre\N es el superintendente de la Policía.
+Dialogue: 0,0:06:19.33,0:06:21.90,Default,,0000,0000,0000,,Y además es muy sobreprotector.
+Dialogue: 0,0:06:21.90,0:06:23.17,Default,,0000,0000,0000,,¡¿Superintendente de la Policía?!
+Dialogue: 0,0:06:23.17,0:06:25.90,Default,,0000,0000,0000,,Ya entiendo. Por eso el viejo me dijo eso.
+Dialogue: 0,0:06:25.90,0:06:29.24,Default,,0000,0000,0000,,Sería problemático si lo hago enojar...
+Dialogue: 0,0:06:33.87,0:06:38.88,Notes,,0000,0000,0000,,Problema
+Dialogue: 0,0:06:33.87,0:06:38.88,Notes,,0000,0000,0000,,Policía VS Yakuza
+Dialogue: 0,0:06:33.98,0:06:38.87,Default,,0000,0000,0000,,¡Otra guerra! ¡Qué fastidio!
+Dialogue: 0,0:06:39.00,0:06:40.58,Default,,0000,0000,0000,,Honda, pueden marcharse.
+Dialogue: 0,0:06:40.58,0:06:41.35,Default,,0000,0000,0000,,Entendido.
+Dialogue: 0,0:06:41.69,0:06:42.37,Default,,0000,0000,0000,,Retírense.
+Dialogue: 0,0:06:42.57,0:06:43.77,Default,,0000,0000,0000,,¿Qué voy a hacer?
+Dialogue: 0,0:06:43.94,0:06:47.28,Default,,0000,0000,0000,,¿Ella es mi prometida \Ny la chica de la promesa?
+Dialogue: 0,0:06:52.54,0:06:55.28,Default,,0000,0000,0000,,No sé si será porque me agité, \Npero estoy mareada.
+Dialogue: 0,0:06:55.52,0:06:58.78,Default,,0000,0000,0000,,Soy una persona muy débil.
+Dialogue: 0,0:06:58.78,0:07:01.68,Default,,0000,0000,0000,,Raku-sama, ¿será que podría llevarme
+Dialogue: 0,0:07:01.68,0:07:03.47,Default,,0000,0000,0000,,hasta la enfermería?
+Dialogue: 0,0:07:03.65,0:07:05.28,Default,,0000,0000,0000,,Usted y yo.
+Dialogue: 0,0:07:06.18,0:07:07.78,Default,,0000,0000,0000,,No se lo creo...
+Dialogue: 0,0:07:08.07,0:07:10.26,Default,,0000,0000,0000,,¡Vamos! ¡Rápido, Raku-sama!
+Dialogue: 0,0:07:10.46,0:07:12.28,Default,,0000,0000,0000,,¡Pero si estás bien!
+Dialogue: 0,0:07:13.45,0:07:15.54,Default,,0000,0000,0000,,¡¿Qué le pasa a esa tipa?!
+Dialogue: 0,0:07:17.54,0:07:19.04,Notes,,0000,0000,0000,,Enfermería
+Dialogue: 0,0:07:20.83,0:07:22.98,Default,,0000,0000,0000,,Mucha gracias, Raku-sama.
+Dialogue: 0,0:07:22.98,0:07:25.17,Default,,0000,0000,0000,,Gracias a usted, ya me siento mejor.
+Dialogue: 0,0:07:25.85,0:07:27.47,Default,,0000,0000,0000,,De nada.
+Dialogue: 0,0:07:28.33,0:07:29.62,Default,,0000,0000,0000,,Y bien, Raku-sama.
+Dialogue: 0,0:07:29.62,0:07:31.92,Default,,0000,0000,0000,,Ya que finalmente estamos a solas,
+Dialogue: 0,0:07:31.92,0:07:34.21,Default,,0000,0000,0000,,¿qué le parece si hablamos \Nde nuestra ceremonia?
+Dialogue: 0,0:07:34.30,0:07:35.11,Default,,0000,0000,0000,,¡¿Ceremonia?!
+Dialogue: 0,0:07:35.11,0:07:37.10,Default,,0000,0000,0000,,¡No, no, no!\N ¡Un momento, un momento!
+Dialogue: 0,0:07:37.10,0:07:39.37,Default,,0000,0000,0000,,¡Disculpa, voy a ser sincero contigo!
+Dialogue: 0,0:07:39.82,0:07:43.73,Default,,0000,0000,0000,,¡Sucede que apenas ayer\N me enteré de que tenía prometida!
+Dialogue: 0,0:07:45.24,0:07:48.74,Default,,0000,0000,0000,,Además, no me acuerdo de ti.
+Dialogue: 0,0:07:49.80,0:07:51.36,Default,,0000,0000,0000,,¿A ti no te pasa lo mismo?
+Dialogue: 0,0:07:52.60,0:07:55.11,Default,,0000,0000,0000,,Es normal no recordar a alguien
+Dialogue: 0,0:07:55.11,0:07:57.10,Default,,0000,0000,0000,,que conocí hace diez años.
+Dialogue: 0,0:07:57.10,0:08:00.29,Default,,0000,0000,0000,,Y además, ¿no detestas la idea \Nde tener que casarte con alguien
+Dialogue: 0,0:08:00.29,0:08:01.88,Default,,0000,0000,0000,,por decisión de tus padres?
+Dialogue: 0,0:08:04.69,0:08:05.69,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:08:05.93,0:08:08.43,Default,,0000,0000,0000,,Yo estoy enamorada de usted, Raku-sama.
+Dialogue: 0,0:08:11.29,0:08:13.73,Default,,0000,0000,0000,,No estoy aquí por decisión de mi padre.
+Dialogue: 0,0:08:13.73,0:08:15.58,Default,,0000,0000,0000,,Estoy aquí porque durante diez años,
+Dialogue: 0,0:08:15.58,0:08:18.10,Default,,0000,0000,0000,,mis sentimientos solo han sido para usted.
+Dialogue: 0,0:08:20.52,0:08:23.13,Default,,0000,0000,0000,,¿Recuerdas lo de hace diez años?
+Dialogue: 0,0:08:23.39,0:08:25.36,Default,,0000,0000,0000,,Sí, perfectamente.
+Dialogue: 0,0:08:27.09,0:08:29.86,Default,,0000,0000,0000,,¿Eso significa que la promesa también?
+Dialogue: 0,0:08:31.02,0:08:32.56,Default,,0000,0000,0000,,Promesa...
+Dialogue: 0,0:08:33.84,0:08:37.80,Default,,0000,0000,0000,,Sí, por supuesto que la recuerdo, Raku-sama.
+Dialogue: 0,0:08:41.08,0:08:43.20,Default,,0000,0000,0000,,Entonces, es ella.
+Dialogue: 0,0:08:43.26,0:08:45.21,Default,,0000,0000,0000,,Por consiguiente, Raku-sama...
+Dialogue: 0,0:08:45.78,0:08:48.21,Default,,0000,0000,0000,,¡Cásese conmigo!
+Dialogue: 0,0:08:48.82,0:08:51.18,Default,,0000,0000,0000,,¡Que te esperes!
+Dialogue: 0,0:08:51.18,0:08:53.91,Default,,0000,0000,0000,,¡Raku-sama, ya quítese la ropa!
+Dialogue: 0,0:08:53.91,0:08:55.98,Default,,0000,0000,0000,,¡Basta! ¡Ahí no!
+Dialogue: 0,0:08:56.67,0:08:57.98,Default,,0000,0000,0000,,¿Aquí sí?
+Dialogue: 0,0:08:57.98,0:08:59.45,Default,,0000,0000,0000,,¡Que no hagas eso!
+Dialogue: 0,0:09:00.04,0:09:01.85,Default,,0000,0000,0000,,¡¿Qué rayos están haciendo?!
+Dialogue: 0,0:09:05.87,0:09:07.69,Default,,0000,0000,0000,,¡No es lo que piensas! ¡Te juro que no!
+Dialogue: 0,0:09:07.69,0:09:10.08,Default,,0000,0000,0000,,¡Me estaba resistiendo y de pronto \Nquedamos en esta posición!
+Dialogue: 0,0:09:10.59,0:09:11.49,Default,,0000,0000,0000,,Bestia.
+Dialogue: 0,0:09:11.65,0:09:12.69,Default,,0000,0000,0000,,Muere, piltrafa.
+Dialogue: 0,0:09:12.69,0:09:13.48,Default,,0000,0000,0000,,¡¿Piltrafa?!
+Dialogue: 0,0:09:14.97,0:09:16.74,Default,,0000,0000,0000,,Disculpa, ¿qué dijiste?
+Dialogue: 0,0:09:18.82,0:09:21.48,Default,,0000,0000,0000,,¡Onodera! ¡Escúchame, por favor!
+Dialogue: 0,0:09:21.48,0:09:22.93,Default,,0000,0000,0000,,¡No he hecho nada!
+Dialogue: 0,0:09:23.21,0:09:24.13,Default,,0000,0000,0000,,¡Onodera!
+Dialogue: 0,0:09:24.20,0:09:26.34,Default,,0000,0000,0000,,¡Debilucho infame!
+Dialogue: 0,0:09:26.99,0:09:28.46,Default,,0000,0000,0000,,¡Te voy a aniquilar!
+Dialogue: 0,0:09:36.66,0:09:40.84,Default,,0000,0000,0000,,Como supuse, él no la recuerda, señorita.
+Dialogue: 0,0:09:41.50,0:09:43.85,Default,,0000,0000,0000,,Ni aquella promesa.
+Dialogue: 0,0:09:45.52,0:09:46.69,Default,,0000,0000,0000,,No hay problema.
+Dialogue: 0,0:09:47.49,0:09:52.98,Default,,0000,0000,0000,,Si no lo recuerda, entonces \Nharé que lo recuerde.
+Dialogue: 0,0:09:54.62,0:09:57.99,Default,,0000,0000,0000,,Seré yo la que se case con Raku-sama.
+Dialogue: 0,0:10:02.98,0:10:04.62,Default,,0000,0000,0000,,Pero pensándolo bien,
+Dialogue: 0,0:10:04.62,0:10:09.13,Default,,0000,0000,0000,,debo saber que ese estúpido \Nno tiene las agallas de hacer algo así.
+Dialogue: 0,0:10:09.62,0:10:12.24,Default,,0000,0000,0000,,¿Entonces por qué me irrité tanto?
+Dialogue: 0,0:10:15.18,0:10:18.13,Default,,0000,0000,0000,,Creo que se me fue la mano.
+Dialogue: 0,0:10:18.13,0:10:20.32,Default,,0000,0000,0000,,Como que debería disculparme...
+Dialogue: 0,0:10:20.86,0:10:21.84,Default,,0000,0000,0000,,Buenos días.
+Dialogue: 0,0:10:21.84,0:10:24.66,Default,,0000,0000,0000,,¡Raku-sama, buenos días!
+Dialogue: 0,0:10:24.66,0:10:26.64,Default,,0000,0000,0000,,¡Que no te me pegues delante de la gente!
+Dialogue: 0,0:10:27.47,0:10:31.21,Italics,,0000,0000,0000,,¿Y por qué me escondo?
+Dialogue: 0,0:10:32.00,0:10:35.13,Default,,0000,0000,0000,,Escucha, ya tengo suficientes problemas
+Dialogue: 0,0:10:35.13,0:10:36.42,Default,,0000,0000,0000,,por ese comportamiento que tienes.
+Dialogue: 0,0:10:36.56,0:10:39.04,Default,,0000,0000,0000,,Las chicas hablan de mí a mis espaldas,
+Dialogue: 0,0:10:39.04,0:10:41.01,Default,,0000,0000,0000,,y en clase de deporte, \Ntodos los varones me lanzaron
+Dialogue: 0,0:10:41.01,0:10:43.04,Default,,0000,0000,0000,,los balones jugando a dodgeball.
+Dialogue: 0,0:10:43.04,0:10:46.85,Default,,0000,0000,0000,,Vaya, no cabe duda de lo popular \Nque es usted, Raku-sama.
+Dialogue: 0,0:10:46.85,0:10:48.45,Default,,0000,0000,0000,,Tan estupendo.
+Dialogue: 0,0:10:48.65,0:10:51.05,Default,,0000,0000,0000,,Este, ¿me estabas escuchando?
+Dialogue: 0,0:10:52.96,0:10:56.82,Default,,0000,0000,0000,,Pero es que quiero conversar más con usted.
+Dialogue: 0,0:10:56.82,0:10:59.16,Default,,0000,0000,0000,,Ayer tuvimos muchos impedimentos.
+Dialogue: 0,0:10:59.65,0:11:02.84,Default,,0000,0000,0000,,Por consiguiente, ¿qué le parece \Nsi mañana tenemos una cita?
+Dialogue: 0,0:11:02.84,0:11:04.31,Default,,0000,0000,0000,,Aprovechando que no tenemos clases.
+Dialogue: 0,0:11:04.49,0:11:06.08,Default,,0000,0000,0000,,¡¿Qué?! ¡¿Una cita?!
+Dialogue: 0,0:11:06.86,0:11:08.36,Default,,0000,0000,0000,,¡¡No puedo!!
+Dialogue: 0,0:11:08.36,0:11:09.97,Default,,0000,0000,0000,,¡¿No recuerdas lo que te dije?!
+Dialogue: 0,0:11:09.97,0:11:12.85,Default,,0000,0000,0000,,¡Tengo novia! ¿Lo recuerdas?
+Dialogue: 0,0:11:14.74,0:11:16.51,Default,,0000,0000,0000,,Entonces no podemos...
+Dialogue: 0,0:11:17.05,0:11:20.41,Default,,0000,0000,0000,,Y pensar que todo este tiempo \Nsolo he pensado en usted.
+Dialogue: 0,0:11:21.31,0:11:23.04,Default,,0000,0000,0000,,No imagino la pena que sentirá
+Dialogue: 0,0:11:23.04,0:11:25.17,Default,,0000,0000,0000,,mi padre cuando se entere de esto.
+Dialogue: 0,0:11:27.26,0:11:30.37,Default,,0000,0000,0000,,¿Qué voy a hacer si por eso la Policía \Ndecide hacer una revisión en mi casa?
+Dialogue: 0,0:11:30.40,0:11:32.33,Default,,0000,0000,0000,,¡Está bien, está bien!
+Dialogue: 0,0:11:32.33,0:11:35.30,Default,,0000,0000,0000,,Yo también quería tener una cita contigo.
+Dialogue: 0,0:11:35.30,0:11:38.17,Default,,0000,0000,0000,,¿En verdad? ¡Qué feliz me siento!
+Dialogue: 0,0:11:39.71,0:11:41.11,Default,,0000,0000,0000,,¡¿Una cita?!
+Dialogue: 0,0:11:48.65,0:11:51.54,Default,,0000,0000,0000,,Rayos, ¿por qué tiene que pasar esto?
+Dialogue: 0,0:11:52.12,0:11:53.96,Default,,0000,0000,0000,,Pero pensándolo bien,
+Dialogue: 0,0:11:53.98,0:11:56.59,Default,,0000,0000,0000,,esta podría ser una oportunidad \Nde preguntarle sobre lo de hace diez años.
+Dialogue: 0,0:11:57.14,0:12:00.02,Default,,0000,0000,0000,,Hasta vine sin decirle nada a Kirisaki.
+Dialogue: 0,0:12:00.69,0:12:03.35,Default,,0000,0000,0000,,Acordamos vernos en un lugar muy impreciso.
+Dialogue: 0,0:12:03.35,0:12:05.55,Default,,0000,0000,0000,,Aunque dijo que aquí \Nnos encontraríamos fácilmente.
+Dialogue: 0,0:12:05.75,0:12:07.16,Default,,0000,0000,0000,,¡¿Qué es esto?!
+Dialogue: 0,0:12:07.49,0:12:09.63,Default,,0000,0000,0000,,¡¿Y todas estas patrullas?!
+Dialogue: 0,0:12:09.63,0:12:10.95,Default,,0000,0000,0000,,¡¿Habrá ocurrido algún incidente?!
+Dialogue: 0,0:12:11.53,0:12:12.79,Default,,0000,0000,0000,,¡Oh, Raku-sama!
+Dialogue: 0,0:12:13.74,0:12:17.17,Default,,0000,0000,0000,,¡Buenos días! ¡Lo estaba esperando!
+Dialogue: 0,0:12:19.00,0:12:21.72,Default,,0000,0000,0000,,Ah, señores, ya pueden retirarse.
+Dialogue: 0,0:12:22.10,0:12:23.70,Default,,0000,0000,0000,,¡Que tengan un buen día!
+Dialogue: 0,0:12:25.33,0:12:26.96,Default,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:12:27.15,0:12:28.30,Italics,,0000,0000,0000,,¿Qué voy a hacer?
+Dialogue: 0,0:12:28.74,0:12:31.49,Italics,,0000,0000,0000,,Tremenda chica ha puesto los ojos en mí.
+Dialogue: 0,0:12:33.57,0:12:36.24,Default,,0000,0000,0000,,¿En verdad los vamos a seguir a escondidas?
+Dialogue: 0,0:12:36.24,0:12:39.49,Default,,0000,0000,0000,,Por supuesto, tú no sabes \Npercibir el peligro.
+Dialogue: 0,0:12:39.69,0:12:40.40,Default,,0000,0000,0000,,¿Quién es ella?
+Dialogue: 0,0:12:40.64,0:12:41.54,Default,,0000,0000,0000,,¿Será una modelo?
+Dialogue: 0,0:12:44.99,0:12:49.53,Italics,,0000,0000,0000,,Ni en sueños imaginaría \Nque yo me vestiría así.
+Dialogue: 0,0:12:49.66,0:12:52.84,Italics,,0000,0000,0000,,Debo estar al tanto de sus movimientos \Npara informarle a la señorita.
+Dialogue: 0,0:12:53.28,0:12:54.01,Default,,0000,0000,0000,,¡Así es!
+Dialogue: 0,0:12:54.01,0:12:56.99,Italics,,0000,0000,0000,,¡No lo hago porque me preocupe, \Nsino por la señorita!
+Dialogue: 0,0:12:57.30,0:13:01.29,Default,,0000,0000,0000,,Disculpe, ¿puedo preguntarle \Nsobre una dirección?
+Dialogue: 0,0:13:02.49,0:13:05.05,Default,,0000,0000,0000,,Estoy buscando el negocio \Nque se ve en este mapa.
+Dialogue: 0,0:13:05.05,0:13:06.36,Default,,0000,0000,0000,,¿Lo conoce?
+Dialogue: 0,0:13:07.52,0:13:09.81,Default,,0000,0000,0000,,Esa chica era muy hermosa.
+Dialogue: 0,0:13:09.81,0:13:11.82,Default,,0000,0000,0000,,¿Será una celebridad?
+Dialogue: 0,0:13:13.09,0:13:14.67,Italics,,0000,0000,0000,,No me reconoció.
+Dialogue: 0,0:13:15.49,0:13:16.65,Default,,0000,0000,0000,,¡¿Por qué rayos?!
+Dialogue: 0,0:13:16.65,0:13:20.15,Default,,0000,0000,0000,,¡Debiste notar algo, imperceptible!
+Dialogue: 0,0:13:20.45,0:13:23.73,Notes,,0000,0000,0000,,Alto
+Dialogue: 0,0:13:24.96,0:13:28.00,Italics,,0000,0000,0000,,Con esto nadie podrá reconocerme.
+Dialogue: 0,0:13:28.49,0:13:29.93,Default,,0000,0000,0000,,Oye, tú.
+Dialogue: 0,0:13:30.62,0:13:33.63,Default,,0000,0000,0000,,¿Podrías respondernos algunas preguntas?
+Dialogue: 0,0:13:36.39,0:13:38.14,Default,,0000,0000,0000,,¡Oye, detente!
+Dialogue: 0,0:13:42.28,0:13:44.19,Default,,0000,0000,0000,,Este lugar se ve que es costoso.
+Dialogue: 0,0:13:44.80,0:13:46.29,Default,,0000,0000,0000,,Oiga, Raku-sama.
+Dialogue: 0,0:13:47.01,0:13:48.01,Default,,0000,0000,0000,,Dime.
+Dialogue: 0,0:13:48.01,0:13:49.37,Default,,0000,0000,0000,,Abra la boca.
+Dialogue: 0,0:13:51.08,0:13:53.42,Default,,0000,0000,0000,,¡¿Qué haces de buenas a primeras?!
+Dialogue: 0,0:13:53.42,0:13:55.68,Default,,0000,0000,0000,,Qué importa.
+Dialogue: 0,0:13:55.68,0:13:58.28,Default,,0000,0000,0000,,Como su prometida, esto es lo normal.
+Dialogue: 0,0:13:59.90,0:14:02.78,Default,,0000,0000,0000,,¿Estaba pensando en su novia?
+Dialogue: 0,0:14:03.95,0:14:06.46,Default,,0000,0000,0000,,No, no estaba pensando en eso.
+Dialogue: 0,0:14:06.74,0:14:08.81,Default,,0000,0000,0000,,No logro entender cómo usted
+Dialogue: 0,0:14:08.81,0:14:11.58,Default,,0000,0000,0000,,pudo elegir a una persona tan salvaje.
+Dialogue: 0,0:14:12.69,0:14:14.74,Default,,0000,0000,0000,,No hables así.
+Dialogue: 0,0:14:14.74,0:14:17.41,Default,,0000,0000,0000,,A pesar de ser así, tiene sus cosas buenas.
+Dialogue: 0,0:14:17.93,0:14:21.34,Default,,0000,0000,0000,,Pienso que posiblemente \Npodrías llevarte bien con ella.
+Dialogue: 0,0:14:22.34,0:14:24.60,Default,,0000,0000,0000,,No, lamentablemente detesto
+Dialogue: 0,0:14:24.94,0:14:28.35,Default,,0000,0000,0000,,a las chicas de pelo largo.
+Dialogue: 0,0:14:29.64,0:14:31.73,Default,,0000,0000,0000,,Pero si tú lo tienes largo.
+Dialogue: 0,0:14:32.69,0:14:34.04,Default,,0000,0000,0000,,Y bien, Raku-sama.
+Dialogue: 0,0:14:34.04,0:14:37.76,Default,,0000,0000,0000,,Ya tengo deseos de hablar a solas con usted.
+Dialogue: 0,0:14:38.24,0:14:39.48,Default,,0000,0000,0000,,¿Qué? ¿De qué hablas?
+Dialogue: 0,0:14:39.48,0:14:40.94,Default,,0000,0000,0000,,¡Venga para acá, Raku-sama!
+Dialogue: 0,0:14:41.02,0:14:42.50,Default,,0000,0000,0000,,¡¿Para dónde?!
+Dialogue: 0,0:14:43.67,0:14:46.12,Default,,0000,0000,0000,,¡Kosaki! ¡Desaparecieron \Nsin darnos cuenta!
+Dialogue: 0,0:14:51.20,0:14:53.66,Default,,0000,0000,0000,,¡¿Cómo pude haberlos perdido de vista?!
+Dialogue: 0,0:14:57.57,0:14:59.67,Default,,0000,0000,0000,,Rayos. Como corriste repentinamente,
+Dialogue: 0,0:14:59.67,0:15:01.33,Default,,0000,0000,0000,,pensé que te había ocurrido algo.
+Dialogue: 0,0:15:02.38,0:15:03.43,Default,,0000,0000,0000,,Disculpe.
+Dialogue: 0,0:15:03.70,0:15:07.93,Default,,0000,0000,0000,,Raku-sama, ¿no tiene \Nalgo que preguntarme?
+Dialogue: 0,0:15:08.17,0:15:09.13,Default,,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:15:10.73,0:15:12.30,Default,,0000,0000,0000,,Pues, es sobre esto.
+Dialogue: 0,0:15:12.30,0:15:14.17,Default,,0000,0000,0000,,¡Cuánto tiempo!
+Dialogue: 0,0:15:14.17,0:15:17.14,Default,,0000,0000,0000,,¡¿Aún conserva esta foto?!
+Dialogue: 0,0:15:17.40,0:15:21.40,Default,,0000,0000,0000,,¡Eso significa que sí se acuerda de mí!
+Dialogue: 0,0:15:21.68,0:15:23.37,Default,,0000,0000,0000,,¡Estoy conmovida!
+Dialogue: 0,0:15:23.37,0:15:24.90,Default,,0000,0000,0000,,¡Te equivocas!
+Dialogue: 0,0:15:25.13,0:15:27.66,Italics,,0000,0000,0000,,Rayos, estuve a punto de perderlos de vista.
+Dialogue: 0,0:15:30.29,0:15:32.24,Italics,,0000,0000,0000,,¿De qué estarán hablando?
+Dialogue: 0,0:15:33.08,0:15:35.25,Default,,0000,0000,0000,,Lo siento, pero lo único que recuerdo
+Dialogue: 0,0:15:35.58,0:15:39.58,Default,,0000,0000,0000,,es que hace diez años,\N hice una promesa con una chica.
+Dialogue: 0,0:15:40.72,0:15:42.30,Default,,0000,0000,0000,,¿Eso fue contigo?
+Dialogue: 0,0:15:45.49,0:15:49.99,Default,,0000,0000,0000,,Ciertamente, conozco la respuesta \Nque está buscando.
+Dialogue: 0,0:15:50.60,0:15:53.55,Default,,0000,0000,0000,,La verdad de lo que ocurrió hace diez años.
+Dialogue: 0,0:15:54.74,0:15:55.99,Italics,,0000,0000,0000,,¡¿Qué fue lo que dijo?!
+Dialogue: 0,0:15:57.07,0:15:59.82,Default,,0000,0000,0000,,No tengo ningún problema en decírselo,
+Dialogue: 0,0:15:59.82,0:16:00.81,Default,,0000,0000,0000,,pero a cambio...
+Dialogue: 0,0:16:04.39,0:16:07.82,Default,,0000,0000,0000,,¿Podría terminar con su novia?
+Dialogue: 0,0:16:11.89,0:16:13.94,Italics,,0000,0000,0000,,¡¿Qu-qué condición es esa?!
+Dialogue: 0,0:16:16.13,0:16:18.70,Italics,,0000,0000,0000,,¡¿Qué pensará hacer?!
+Dialogue: 0,0:16:23.77,0:16:25.33,Default,,0000,0000,0000,,No puedo.
+Dialogue: 0,0:16:28.69,0:16:33.18,Default,,0000,0000,0000,,No podría dejar a mi novia \Npor un interés egoísta.
+Dialogue: 0,0:16:33.52,0:16:36.97,Default,,0000,0000,0000,,Lo siento, pero si esa es tu condición, \Nprefiero no saber nada.
+Dialogue: 0,0:16:39.12,0:16:40.12,Default,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:16:40.12,0:16:41.68,Default,,0000,0000,0000,,Qué respuesta más maravillosa.
+Dialogue: 0,0:16:41.68,0:16:44.38,Default,,0000,0000,0000,,Siento que me estoy enamorando \Naún más de usted.
+Dialogue: 0,0:16:46.22,0:16:51.36,Default,,0000,0000,0000,,Con menos razón, \Nquiero que usted sea de otra.
+Dialogue: 0,0:16:51.72,0:16:52.98,Default,,0000,0000,0000,,Y mucho menos,
+Dialogue: 0,0:16:52.98,0:16:56.74,Default,,0000,0000,0000,,de una persona perversa que escucha \Nlas conversaciones ajenas.
+Dialogue: 0,0:16:57.40,0:16:58.74,Default,,0000,0000,0000,,¡¿Chitoge?!
+Dialogue: 0,0:17:00.39,0:17:03.38,Default,,0000,0000,0000,,¡Yo solo estoy investigando \Nsi me estás siendo infiel!
+Dialogue: 0,0:17:04.13,0:17:07.08,Default,,0000,0000,0000,,¿Te parece que eso lo deberías \Nestar haciendo tú personalmente?
+Dialogue: 0,0:17:07.08,0:17:09.09,Default,,0000,0000,0000,,¡Mejor explícame qué significa eso!
+Dialogue: 0,0:17:09.09,0:17:11.89,Default,,0000,0000,0000,,¡Lo de la verdad de la promesa \Nde hace diez años!
+Dialogue: 0,0:17:12.28,0:17:14.11,Default,,0000,0000,0000,,Ah, eso.
+Dialogue: 0,0:17:14.12,0:17:15.64,Default,,0000,0000,0000,,Pues...
+Dialogue: 0,0:17:15.66,0:17:20.90,Default,,0000,0000,0000,,¡sucede que nosotros nos conocimos \Nhace diez años e hicimos una promesa!
+Dialogue: 0,0:17:20.90,0:17:21.72,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:17:22.36,0:17:22.78,Default,,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:17:24.25,0:17:26.72,Default,,0000,0000,0000,,Por tanto, si es posible,\N quiero que termines
+Dialogue: 0,0:17:26.72,0:17:29.77,Default,,0000,0000,0000,,lo más pronto posible con mi prometido.
+Dialogue: 0,0:17:29.77,0:17:30.82,Default,,0000,0000,0000,,Tu...
+Dialogue: 0,0:17:30.82,0:17:31.98,Default,,0000,0000,0000,,Prometido...
+Dialogue: 0,0:17:33.40,0:17:35.48,Default,,0000,0000,0000,,¡E-eso no podrá ser!
+Dialogue: 0,0:17:35.48,0:17:39.41,Default,,0000,0000,0000,,Ya que soy la novia de mi amorcito.
+Dialogue: 0,0:17:39.66,0:17:42.24,Default,,0000,0000,0000,,Oh, pues siendo franca,
+Dialogue: 0,0:17:42.24,0:17:46.04,Default,,0000,0000,0000,,no creo que tú seas la chica adecuada \Npara Raku-sama.
+Dialogue: 0,0:17:47.30,0:17:48.54,Default,,0000,0000,0000,,¡Y bien, Raku-sama!
+Dialogue: 0,0:17:48.54,0:17:50.32,Default,,0000,0000,0000,,¡Prosigamos con nuestra cita!
+Dialogue: 0,0:17:50.32,0:17:52.10,Default,,0000,0000,0000,,¿O mejor nos damos el beso
+Dialogue: 0,0:17:52.10,0:17:53.89,Default,,0000,0000,0000,,que no pudimos darnos hace unos momentos?
+Dialogue: 0,0:17:53.89,0:17:55.72,Default,,0000,0000,0000,,¡No estuvimos a punto de nada!
+Dialogue: 0,0:17:55.72,0:17:57.24,Default,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:17:57.24,0:17:58.96,Default,,0000,0000,0000,,Me alegro por ti, amorcito.
+Dialogue: 0,0:17:58.96,0:18:00.84,Default,,0000,0000,0000,,De que hayas encontrado a la chica
+Dialogue: 0,0:18:00.84,0:18:02.06,Default,,0000,0000,0000,,de la promesa que tanto buscabas.
+Dialogue: 0,0:18:02.06,0:18:04.30,Default,,0000,0000,0000,,No... este...
+Dialogue: 0,0:18:11.99,0:18:14.17,Default,,0000,0000,0000,,¡Haz lo que se te antoje!
+Dialogue: 0,0:18:15.59,0:18:19.20,Default,,0000,0000,0000,,Al final yo no resulté ser la chica \Ncon la que hizo aquella promesa.
+Dialogue: 0,0:18:19.20,0:18:20.45,Default,,0000,0000,0000,,Ya lo aclaré.
+Dialogue: 0,0:18:20.45,0:18:21.90,Default,,0000,0000,0000,,Me he quitado un peso de encima.
+Dialogue: 0,0:18:22.25,0:18:26.23,Default,,0000,0000,0000,,¡¿Pero por qué me siento tan irritada?!
+Dialogue: 0,0:18:27.47,0:18:29.92,Default,,0000,0000,0000,,¿Por qué está tan enojada?
+Dialogue: 0,0:18:30.04,0:18:31.54,Default,,0000,0000,0000,,Y bien, Raku-sama.
+Dialogue: 0,0:18:31.54,0:18:34.68,Default,,0000,0000,0000,,Ya que ya no hay intrusos, \N¿a dónde vamos ahora?
+Dialogue: 0,0:18:36.88,0:18:39.39,Default,,0000,0000,0000,,Disculpe, Raku-sama.
+Dialogue: 0,0:18:39.39,0:18:41.25,Default,,0000,0000,0000,,Siento mucho lo que le voy a decir,
+Dialogue: 0,0:18:41.25,0:18:43.99,Default,,0000,0000,0000,,pero he recordado algo de urgencia.
+Dialogue: 0,0:18:44.81,0:18:48.72,Default,,0000,0000,0000,,Le agradezco mucho \Npor haberme acompañado en este día.
+Dialogue: 0,0:18:48.72,0:18:50.18,Default,,0000,0000,0000,,Me divertí mucho.
+Dialogue: 0,0:18:50.42,0:18:52.08,Default,,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:18:52.08,0:18:54.72,Default,,0000,0000,0000,,¡Nos vemos en la escuela!
+Dialogue: 0,0:18:55.09,0:18:56.28,Default,,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:18:57.04,0:19:00.02,Default,,0000,0000,0000,,¿Qué está pasando? No entiendo nada.
+Dialogue: 0,0:19:09.90,0:19:12.75,Default,,0000,0000,0000,,Se está esforzando demasiado \Npara lo débil que es.
+Dialogue: 0,0:19:12.96,0:19:14.42,Default,,0000,0000,0000,,No es para tanto.
+Dialogue: 0,0:19:15.06,0:19:16.80,Default,,0000,0000,0000,,Probablemente ha tomado mucho sol.
+Dialogue: 0,0:19:17.50,0:19:19.92,Default,,0000,0000,0000,,¿Por qué no se llevó un sombrero?
+Dialogue: 0,0:19:20.41,0:19:22.14,Default,,0000,0000,0000,,Eso es obvio.
+Dialogue: 0,0:19:22.70,0:19:24.71,Default,,0000,0000,0000,,Así no se me iba a ver bien la cara.
+Dialogue: 0,0:19:25.25,0:19:28.69,Default,,0000,0000,0000,,Quiero que Raku-sama me vea bien.
+Dialogue: 0,0:19:30.58,0:19:33.94,Default,,0000,0000,0000,,Iré por su medicina. \NQuédese descansando.
+Dialogue: 0,0:19:40.69,0:19:41.95,Default,,0000,0000,0000,,¿Estás bien?
+Dialogue: 0,0:19:47.45,0:19:50.05,Default,,0000,0000,0000,,Oh, Raku-sama. ¿Se le ofrece algo?
+Dialogue: 0,0:19:50.29,0:19:51.47,Default,,0000,0000,0000,,Te olvidaste esto.
+Dialogue: 0,0:19:51.47,0:19:52.75,Default,,0000,0000,0000,,Qué bueno que te alcancé.
+Dialogue: 0,0:19:52.75,0:19:54.81,Default,,0000,0000,0000,,Qué amable.
+Dialogue: 0,0:19:55.40,0:19:56.55,Default,,0000,0000,0000,,¿Te sientes bien?
+Dialogue: 0,0:19:57.52,0:20:00.89,Default,,0000,0000,0000,,Oh, no. Veo que nos estaba viendo.
+Dialogue: 0,0:20:00.89,0:20:05.55,Default,,0000,0000,0000,,Me encuentro bien. Solo tuve un mareo.
+Dialogue: 0,0:20:05.82,0:20:08.30,Default,,0000,0000,0000,,Entonces es cierto que eres débil.
+Dialogue: 0,0:20:08.30,0:20:10.80,Default,,0000,0000,0000,,¿Yo le dije eso?
+Dialogue: 0,0:20:11.25,0:20:13.82,Default,,0000,0000,0000,,Bueno, no importa si no me quieres contar.
+Dialogue: 0,0:20:14.39,0:20:17.34,Default,,0000,0000,0000,,Veo que se preocupa por mí.
+Dialogue: 0,0:20:17.34,0:20:18.82,Default,,0000,0000,0000,,Me hace feliz.
+Dialogue: 0,0:20:20.48,0:20:23.03,Default,,0000,0000,0000,,Este, ¿puedo hacerle una pregunta?
+Dialogue: 0,0:20:23.03,0:20:24.07,Default,,0000,0000,0000,,Dime.
+Dialogue: 0,0:20:24.42,0:20:27.36,Default,,0000,0000,0000,,¿Qué es lo que le gusta de su novia?
+Dialogue: 0,0:20:28.43,0:20:31.87,Default,,0000,0000,0000,,Ella es tan mal hablada, \Nimpaciente y violenta.
+Dialogue: 0,0:20:31.87,0:20:34.58,Default,,0000,0000,0000,,No entiendo qué es lo que le gusta de ella.
+Dialogue: 0,0:20:34.58,0:20:36.92,Default,,0000,0000,0000,,¡Un momento! Te equivocas.
+Dialogue: 0,0:20:36.92,0:20:39.10,Default,,0000,0000,0000,,Ella no solo es mal hablada.
+Dialogue: 0,0:20:39.10,0:20:40.59,Default,,0000,0000,0000,,Sino que es muy malvada.
+Dialogue: 0,0:20:40.82,0:20:42.26,Default,,0000,0000,0000,,Es tan veloz como una delincuente,
+Dialogue: 0,0:20:42.26,0:20:43.85,Default,,0000,0000,0000,,tan fuerte como un gorila de montaña,
+Dialogue: 0,0:20:43.85,0:20:45.70,Default,,0000,0000,0000,,siempre se enoja sin saber por qué,
+Dialogue: 0,0:20:45.70,0:20:48.46,Default,,0000,0000,0000,,siento como si solo se burlara de mí.
+Dialogue: 0,0:20:48.46,0:20:49.56,Default,,0000,0000,0000,,En ese caso...
+Dialogue: 0,0:20:49.56,0:20:50.47,Default,,0000,0000,0000,,A pesar de eso,
+Dialogue: 0,0:20:52.39,0:20:54.47,Default,,0000,0000,0000,,suele tener cosas buenas.
+Dialogue: 0,0:20:56.16,0:20:58.18,Default,,0000,0000,0000,,Es pésima para expresarse,
+Dialogue: 0,0:20:58.66,0:21:01.85,Default,,0000,0000,0000,,mayormente no sé qué pasa por su mente,
+Dialogue: 0,0:21:01.85,0:21:04.24,Default,,0000,0000,0000,,pero en el fondo, \Nsiento que es buena persona.
+Dialogue: 0,0:21:08.65,0:21:10.11,Default,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:21:10.90,0:21:15.24,Default,,0000,0000,0000,,Pero estoy segura \Nde que si se acuerda de mí...
+Dialogue: 0,0:21:15.94,0:21:17.58,Default,,0000,0000,0000,,Hablando de eso.
+Dialogue: 0,0:21:17.58,0:21:21.26,Default,,0000,0000,0000,,Por más que lo intento, no logro recordarte.
+Dialogue: 0,0:21:22.07,0:21:24.10,Default,,0000,0000,0000,,Es que no siento que haya conocido
+Dialogue: 0,0:21:24.10,0:21:26.14,Default,,0000,0000,0000,,a alguien que hable como tú lo haces.
+Dialogue: 0,0:21:28.29,0:21:31.14,Default,,0000,0000,0000,,Además, ¿por qué estás \Ntan enamorada de mí?
+Dialogue: 0,0:21:32.54,0:21:35.96,Default,,0000,0000,0000,,Tampoco recuerdo haber hecho nada \Ncomo para que se enamoraran así de mí.
+Dialogue: 0,0:21:35.96,0:21:38.64,Default,,0000,0000,0000,,Eso es lo que no entiendo...
+Dialogue: 0,0:21:40.59,0:21:43.40,Default,,0000,0000,0000,,¡¿Hasta de eso te olvidaste?!
+Dialogue: 0,0:21:45.27,0:21:46.87,Default,,0000,0000,0000,,¡¿Qué fue esa voz?!
+Dialogue: 0,0:21:46.87,0:21:47.53,Default,,0000,0000,0000,,¡¿De dónde provino?!
+Dialogue: 0,0:21:52.53,0:21:57.24,Default,,0000,0000,0000,,¡¿Hasta de eso te olvidaste?!
+Dialogue: 0,0:21:57.94,0:22:00.43,Default,,0000,0000,0000,,¡¿Cómo pudiste olvidarte de eso?!
+Dialogue: 0,0:22:00.68,0:22:02.74,Default,,0000,0000,0000,,¡Durante diez años solo he pensado en ti,
+Dialogue: 0,0:22:02.74,0:22:05.68,Default,,0000,0000,0000,,y me acuerdo de cada detalle!
+Dialogue: 0,0:22:05.68,0:22:09.60,Default,,0000,0000,0000,,¡Me dijiste que te gustaban \Nlas chicas de pelo largo, Rakkun!
+Dialogue: 0,0:22:09.60,0:22:12.31,Default,,0000,0000,0000,,¡Me lo dejé crecer y también cambié \Nmi forma de hablar!
+Dialogue: 0,0:22:12.31,0:22:14.30,Default,,0000,0000,0000,,¡Me esforcé en hacer ese cambio!
+Dialogue: 0,0:22:14.30,0:22:16.32,Default,,0000,0000,0000,,¡¿Sin embargo, tú quieres resolverlo
+Dialogue: 0,0:22:16.32,0:22:20.31,Default,,0000,0000,0000,,con decir que no te acuerdas de nada?!
+Dialogue: 0,0:22:26.65,0:22:29.89,Default,,0000,0000,0000,,E-esa forma de hablar...
+Dialogue: 0,0:22:30.80,0:22:33.08,Default,,0000,0000,0000,,¡¿Acaso eres...
+Dialogue: 0,0:22:33.83,0:22:35.09,Default,,0000,0000,0000,,Mari?!
+Dialogue: 0,0:22:35.09,0:22:37.09,Default,,0000,0000,0000,,

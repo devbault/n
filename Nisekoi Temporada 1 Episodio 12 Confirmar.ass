@@ -1,0 +1,426 @@
+﻿[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,0
+Style: Notes,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,0015,0015,0015,0
+Style: Nisekoi-Title,Arial,20,&H004F1499,&H000000FF,&H00FBD6FF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0010,0010,1
+Style: Nisekoi-eptitle,Arial,20,&H00FFFFFF,&H000000FF,&H00F4733F,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0010,1
+Style: pizarra,Arial,20,&H00FFFFFF,&H000000FF,&H00A2C079,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: tercerdia,Arial,24,&H00FFFFFF,&H000000FF,&H007899AC,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0010,1
+Style: 4todia,Arial,22,&H00000000,&H000000FF,&H007899AC,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0010,1
+Style: 6todia,Arial,22,&H00FFFFFF,&H000000FF,&H0064DCC3,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0010,1
+Style: 7dia,Arial,22,&H00080809,&H000000FF,&H00080908,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0010,1
+Style: years,Arial,30,&H00831827,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:03.82,0:00:07.68,Default,,0000,0000,0000,,¿Has escuchado la frase Zyjacya in love?
+Dialogue: 0,0:00:08.03,0:00:11.69,Default,,0000,0000,0000,,¿Eh? ¿Dónde escuchaste esa frase?
+Dialogue: 0,0:00:13.21,0:00:16.12,Default,,0000,0000,0000,,Entonces sí la has escuchado.
+Dialogue: 0,0:00:18.11,0:00:19.65,Italics,,0000,0000,0000,,¿Qué está pasando?
+Dialogue: 0,0:00:20.17,0:00:23.84,Italics,,0000,0000,0000,,Esa es la frase que le dije a aquella \Nchica cuando hicimos la promesa.
+Dialogue: 0,0:00:27.08,0:00:30.44,Default,,0000,0000,0000,,Hace poco encontré un antiguo \Ndiario en mi habitación,
+Dialogue: 0,0:00:30.44,0:00:32.67,Default,,0000,0000,0000,,y he recordado cosas.
+Dialogue: 0,0:00:33.52,0:00:36.71,Default,,0000,0000,0000,,Conocí a un chico un \Nverano de hace 10 años,
+Dialogue: 0,0:00:36.71,0:00:39.27,Default,,0000,0000,0000,,jugamos juntos y nos hicimos amigos.
+Dialogue: 0,0:00:39.64,0:00:45.27,Default,,0000,0000,0000,,Y al momento de despedirnos, \Nhicimos una promesa.
+Dialogue: 0,0:00:45.58,0:00:46.36,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:00:46.50,0:00:49.56,Italics,,0000,0000,0000,,Suena como el mismo recuerdo que tengo...
+Dialogue: 0,0:00:50.05,0:00:52.56,Italics,,0000,0000,0000,,O no, al igual que el de Onodera...
+Dialogue: 0,0:00:53.97,0:00:56.48,Default,,0000,0000,0000,,No recuerdo ni su rostro ni su nombre,
+Dialogue: 0,0:00:56.70,0:01:03.16,Default,,0000,0000,0000,,solo la frase que te dije y esta \Nllave que estaba dentro del diario.
+Dialogue: 0,0:01:04.24,0:01:05.44,Default,,0000,0000,0000,,¡¿Esa llave?!
+Dialogue: 0,0:01:06.53,0:01:07.58,Default,,0000,0000,0000,,¿La conoces?
+Dialogue: 0,0:01:07.78,0:01:08.92,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:01:09.55,0:01:12.92,Italics,,0000,0000,0000,,Aunque la primera vez que \Nla vi se me hizo familiar.
+Dialogue: 0,0:01:14.54,0:01:16.02,Italics,,0000,0000,0000,,Pero no puede ser...
+Dialogue: 0,0:01:17.32,0:01:19.64,Italics,,0000,0000,0000,,Se supone que Onodera era esa chica.
+Dialogue: 0,0:01:20.04,0:01:22.20,Italics,,0000,0000,0000,,Pero ella también tiene una llave,
+Dialogue: 0,0:01:22.20,0:01:24.09,Italics,,0000,0000,0000,,además la frase que mencionó...
+Dialogue: 0,0:01:26.12,0:01:29.30,Default,,0000,0000,0000,,Yo hice una promesa con esa chica.
+Dialogue: 0,0:01:29.82,0:01:33.36,Default,,0000,0000,0000,,Que abriríamos juntos este candado \Ncuando nos reencontráramos.
+Dialogue: 0,0:01:34.00,0:01:37.39,Default,,0000,0000,0000,,Por consiguiente, si esa \Nchica recuerda la promesa,
+Dialogue: 0,0:01:37.82,0:01:39.78,Default,,0000,0000,0000,,debe de tener la llave.
+Dialogue: 0,0:01:40.50,0:01:42.82,Default,,0000,0000,0000,,¿Acaso esta es la llave...?
+Dialogue: 0,0:03:22.26,0:03:24.98,Nisekoi-eptitle,,0000,0000,0000,,Episodio 12: Confirmar
+Dialogue: 0,0:03:30.32,0:03:33.22,Default,,0000,0000,0000,,¡E-eso no puede ser!
+Dialogue: 0,0:03:33.22,0:03:34.76,Default,,0000,0000,0000,,¡Ti-ti-tienes razón!
+Dialogue: 0,0:03:34.76,0:03:36.06,Default,,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:03:36.06,0:03:39.23,Default,,0000,0000,0000,,¡Y-ya que no tengo el mínimo \Nrecuerdo de haberte conocido!
+Dialogue: 0,0:03:39.23,0:03:42.00,Default,,0000,0000,0000,,¡Pienso lo mismo, no te pareces en \Nnada a como imagino a esa chica!
+Dialogue: 0,0:03:42.14,0:03:43.24,Default,,0000,0000,0000,,Así es.
+Dialogue: 0,0:03:43.24,0:03:45.87,Default,,0000,0000,0000,,No es posible, es solo una coincidencia.
+Dialogue: 0,0:03:45.87,0:03:50.67,Notes,,0000,0000,0000,,Diario Chitoge 5 años
+Dialogue: 0,0:03:46.25,0:03:50.65,Default,,0000,0000,0000,,Ya que no te pareces en nada al \Nchico del que hablo en el diario.
+Dialogue: 0,0:03:51.10,0:03:56.54,Default,,0000,0000,0000,,¡Ese chico es lo opuesto a ti, \Nera amable, apuesto y adorable!
+Dialogue: 0,0:03:57.38,0:03:58.77,Default,,0000,0000,0000,,¿Ah, sí?
+Dialogue: 0,0:03:58.77,0:04:02.96,Default,,0000,0000,0000,,Pues la chica que yo digo, a diferencia \Nde ti, era sencilla, fina y bonita.
+Dialogue: 0,0:04:03.79,0:04:04.94,Default,,0000,0000,0000,,¿Ah, sí?
+Dialogue: 0,0:04:04.94,0:04:06.56,Default,,0000,0000,0000,,¡Aunque ya sé que no!
+Dialogue: 0,0:04:06.56,0:04:08.70,Default,,0000,0000,0000,,¡¿Por qué tendría yo que \Nhaberme despedido con tanta pena
+Dialogue: 0,0:04:08.71,0:04:09.89,Default,,0000,0000,0000,,de ti y hasta hacer una promesa?!
+Dialogue: 0,0:04:09.89,0:04:10.81,Default,,0000,0000,0000,,¡Qué ridículo!
+Dialogue: 0,0:04:10.81,0:04:13.15,Default,,0000,0000,0000,,¡Lo mismo pienso! ¡¿Cómo \Niba a ser contigo?!
+Dialogue: 0,0:04:17.64,0:04:19.50,Default,,0000,0000,0000,,Vamos a confirmarlo entonces.
+Dialogue: 0,0:04:21.82,0:04:25.22,Default,,0000,0000,0000,,Si esa es la llave, debe abrir este candado.
+Dialogue: 0,0:04:25.95,0:04:28.16,Default,,0000,0000,0000,,Si no lo abre, entonces \Nno tenemos nada que ver.
+Dialogue: 0,0:04:28.37,0:04:30.27,Default,,0000,0000,0000,,Aunque no creo que lo vaya a abrir.
+Dialogue: 0,0:04:31.07,0:04:32.54,Default,,0000,0000,0000,,Me parece bien.
+Dialogue: 0,0:04:32.54,0:04:34.54,Default,,0000,0000,0000,,Aunque tú no podrías ser ese chico.
+Dialogue: 0,0:04:34.66,0:04:38.15,Default,,0000,0000,0000,,A diferencia de ti, él \Nera como un príncipe.
+Dialogue: 0,0:04:38.15,0:04:40.90,Default,,0000,0000,0000,,Podía hacer cualquier cosa \Ny siempre me rescataba.
+Dialogue: 0,0:04:40.90,0:04:42.95,Default,,0000,0000,0000,,¡Gracias por el comentario!
+Dialogue: 0,0:04:42.95,0:04:46.28,Default,,0000,0000,0000,,¿Dime qué harías si yo \Nresultara ser ese chico?
+Dialogue: 0,0:04:47.30,0:04:50.93,Default,,0000,0000,0000,,¡De ser así, haré cualquier \Ncosa, ya sea un beso o lo que sea!
+Dialogue: 0,0:04:59.98,0:05:03.45,Default,,0000,0000,0000,,¡L-lo-lo acepto! ¡Vamos a hacerlo!
+Dialogue: 0,0:05:03.45,0:05:04.92,Default,,0000,0000,0000,,¡Ya que no podrías ser tú!
+Dialogue: 0,0:05:04.92,0:05:07.39,Default,,0000,0000,0000,,¡E-está bien! ¡Vamos a ver!
+Dialogue: 0,0:05:15.74,0:05:18.24,Italics,,0000,0000,0000,,¡No va a abrir, no puede abrir!
+Dialogue: 0,0:05:18.24,0:05:20.20,Italics,,0000,0000,0000,,Ella no puede ser esa chica...
+Dialogue: 0,0:05:20.74,0:05:23.92,Default,,0000,0000,0000,,Ya verás. Enseguida te darás cuenta.
+Dialogue: 0,0:05:23.92,0:05:26.43,Default,,0000,0000,0000,,Es imposible que seas tú.
+Dialogue: 0,0:05:26.63,0:05:29.12,Default,,0000,0000,0000,,¡Ahí voy! ¡¿Estás listo?!
+Dialogue: 0,0:05:29.25,0:05:31.94,Default,,0000,0000,0000,,Bueno, aunque sé que no eres \Ntú, pero ya que tanto insistes
+Dialogue: 0,0:05:31.94,0:05:32.92,Default,,0000,0000,0000,,lo voy a hacer.
+Dialogue: 0,0:05:32.92,0:05:34.43,Default,,0000,0000,0000,,¡Sí, dale!
+Dialogue: 0,0:05:36.60,0:05:37.82,Default,,0000,0000,0000,,¡Yo me encargo!
+Dialogue: 0,0:05:37.82,0:05:39.59,Default,,0000,0000,0000,,¡Enseguida te lo dejaré claro!
+Dialogue: 0,0:05:39.59,0:05:41.86,Default,,0000,0000,0000,,¡Tú y yo no tenemos nada que ver!
+Dialogue: 0,0:05:41.87,0:05:43.81,Default,,0000,0000,0000,,¡Con ese ánimo! ¡Hazlo de una vez!
+Dialogue: 0,0:05:45.30,0:05:47.63,Default,,0000,0000,0000,,¡Haré que te tragues tus palabras!
+Dialogue: 0,0:05:47.63,0:05:48.70,Default,,0000,0000,0000,,Además, eso de que tú y yo
+Dialogue: 0,0:05:48.70,0:05:50.54,Default,,0000,0000,0000,,nos habíamos llevado bien \Ncuando éramos pequeños...
+Dialogue: 0,0:05:50.54,0:05:51.57,Default,,0000,0000,0000,,¡Apúrate!
+Dialogue: 0,0:05:53.32,0:05:54.36,Default,,0000,0000,0000,,Ahí voy.
+Dialogue: 0,0:06:06.98,0:06:07.80,Default,,0000,0000,0000,,En...
+Dialogue: 0,0:06:28.88,0:06:34.11,Default,,0000,0000,0000,,¡Se rompió!
+Dialogue: 0,0:06:34.21,0:06:36.55,Default,,0000,0000,0000,,¡¿Qué rayos haces, tosca?!
+Dialogue: 0,0:06:37.03,0:06:38.74,Default,,0000,0000,0000,,¡Es que no lo pude evitar!
+Dialogue: 0,0:06:38.74,0:06:40.83,Default,,0000,0000,0000,,¡De los nervios lo metí con mucha fuerza!
+Dialogue: 0,0:06:41.38,0:06:44.69,Default,,0000,0000,0000,,¡¿Ahora qué vamos a hacer?! ¡No sale!
+Dialogue: 0,0:06:44.69,0:06:48.20,Default,,0000,0000,0000,,¡No lo sé! ¡No lo sé! ¡Yo no sé!
+Dialogue: 0,0:06:50.20,0:06:51.62,Italics,,0000,0000,0000,,¡Oh, rayos!
+Dialogue: 0,0:06:51.62,0:06:54.99,Italics,,0000,0000,0000,,¡Ahora no voy a poder \Nprobar la llave de Onodera!
+Dialogue: 0,0:06:55.15,0:06:56.86,Default,,0000,0000,0000,,¡Mi collar!
+Dialogue: 0,0:06:59.54,0:07:01.20,Default,,0000,0000,0000,,Bueno, qué importa.
+Dialogue: 0,0:07:01.57,0:07:04.62,Default,,0000,0000,0000,,De todos modos, ninguno de los dos somos \Nla persona con la que hicimos la promesa.
+Dialogue: 0,0:07:05.88,0:07:08.11,Default,,0000,0000,0000,,Adiós. Aquí concluye esta conversación.
+Dialogue: 0,0:07:09.24,0:07:10.99,Default,,0000,0000,0000,,¡No huyas! ¡¿A dónde vas?!
+Dialogue: 0,0:07:11.15,0:07:12.72,Default,,0000,0000,0000,,Donde los demás.
+Dialogue: 0,0:07:13.68,0:07:16.80,Default,,0000,0000,0000,,¿Por qué lo tomó tan a la ligera?
+Dialogue: 0,0:07:17.64,0:07:20.91,Default,,0000,0000,0000,,¿Qué pasaría si se hubiese abierto?
+Dialogue: 0,0:07:34.42,0:07:35.54,Italics,,0000,0000,0000,,Maldición.
+Dialogue: 0,0:07:35.54,0:07:37.12,Italics,,0000,0000,0000,,Es demasiada coincidencia \Nque Onodera y Kirisaki
+Dialogue: 0,0:07:37.12,0:07:39.75,Italics,,0000,0000,0000,,hayan tenido el mismo incidente \Nhace 10 años y que además
+Dialogue: 0,0:07:39.75,0:07:40.78,Italics,,0000,0000,0000,,tengan una llave.
+Dialogue: 0,0:07:41.23,0:07:45.65,Italics,,0000,0000,0000,,¿Será que una de las dos es \Nla chica de aquella promesa?
+Dialogue: 0,0:07:46.06,0:07:48.91,Italics,,0000,0000,0000,,Eso significa que había \Nconocido a una de las dos.
+Dialogue: 0,0:07:49.44,0:07:52.16,Italics,,0000,0000,0000,,Si lograra saber cuál de las dos es, \Nentonces recordaría a esa chica...
+Dialogue: 0,0:07:52.68,0:07:53.93,Italics,,0000,0000,0000,,¿Cuál será?
+Dialogue: 0,0:07:54.53,0:07:58.16,Default,,0000,0000,0000,,Oh, cuánto tiempo, Raku-kun.
+Dialogue: 0,0:07:58.75,0:08:00.80,Default,,0000,0000,0000,,¿Viniste a celebrar el cumpleaños?
+Dialogue: 0,0:08:00.80,0:08:02.48,Default,,0000,0000,0000,,Muchas gracias.
+Dialogue: 0,0:08:02.82,0:08:03.67,Default,,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:08:04.65,0:08:06.28,Italics,,0000,0000,0000,,¿Quién es este señor?
+Dialogue: 0,0:08:06.58,0:08:08.45,Italics,,0000,0000,0000,,Lo he visto en otra parte...
+Dialogue: 0,0:08:11.17,0:08:12.82,Default,,0000,0000,0000,,¡Es el jefe de los pandilleros!
+Dialogue: 0,0:08:12.82,0:08:14.11,Default,,0000,0000,0000,,¡El papá de Kirisaki!
+Dialogue: 0,0:08:14.59,0:08:16.25,Default,,0000,0000,0000,,{\i1}Good evening.{\i0}
+Dialogue: 0,0:08:19.41,0:08:22.01,Default,,0000,0000,0000,,¿Te estás llevando bien con mi hija?
+Dialogue: 0,0:08:22.01,0:08:23.35,Default,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:08:23.35,0:08:27.31,Default,,0000,0000,0000,,Por haberte forzado a hacerte \Npasar por el novio de mi hija.
+Dialogue: 0,0:08:27.60,0:08:28.91,Default,,0000,0000,0000,,No se preocupe.
+Dialogue: 0,0:08:29.84,0:08:34.13,Default,,0000,0000,0000,,Veo que mi hija está feliz \Ndesde que vino para Japón.
+Dialogue: 0,0:08:34.13,0:08:36.15,Default,,0000,0000,0000,,Estoy seguro de que es gracias a ti.
+Dialogue: 0,0:08:36.15,0:08:37.00,Default,,0000,0000,0000,,Te lo agradezco.
+Dialogue: 0,0:08:39.14,0:08:40.27,Default,,0000,0000,0000,,¿De veras?
+Dialogue: 0,0:08:40.57,0:08:43.20,Default,,0000,0000,0000,,Bueno, ella me dijo que no \Ntenía amigos cuando estaba
+Dialogue: 0,0:08:43.20,0:08:45.11,Default,,0000,0000,0000,,en Estados Unidos.
+Dialogue: 0,0:08:46.58,0:08:49.02,Default,,0000,0000,0000,,Pero no creo que sea gracias a mí.
+Dialogue: 0,0:08:49.84,0:08:52.61,Default,,0000,0000,0000,,Bueno, es que ustedes congenian.
+Dialogue: 0,0:08:52.61,0:08:54.76,Default,,0000,0000,0000,,Sabía que se iban a llevar bien.
+Dialogue: 0,0:08:54.76,0:08:57.38,Default,,0000,0000,0000,,¡¿Que congeniamos?! ¡Para nada!
+Dialogue: 0,0:08:57.38,0:08:59.92,Default,,0000,0000,0000,,¡Con solo vernos, nos ponemos a pelear!
+Dialogue: 0,0:09:00.20,0:09:05.30,Default,,0000,0000,0000,,No es cierto, se han llevado \Nbien desde pequeños.
+Dialogue: 0,0:09:05.64,0:09:06.30,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:09:07.32,0:09:08.88,Default,,0000,0000,0000,,¡¿Desde pequeños?!
+Dialogue: 0,0:09:09.14,0:09:10.77,Default,,0000,0000,0000,,¡¿De qué habla?!
+Dialogue: 0,0:09:11.24,0:09:13.41,Default,,0000,0000,0000,,Sabía que no lo recordabas.
+Dialogue: 0,0:09:13.73,0:09:16.38,Default,,0000,0000,0000,,Eso pasó hace 10 años.
+Dialogue: 0,0:09:16.55,0:09:18.82,Default,,0000,0000,0000,,Hace un tiempo, tu padre y yo
+Dialogue: 0,0:09:18.82,0:09:23.41,Default,,0000,0000,0000,,nos vimos por casi un mes en unas \Nnegociaciones, aquí en Japón.
+Dialogue: 0,0:09:23.72,0:09:27.93,Default,,0000,0000,0000,,En ese entonces, traje conmigo \Na Chitoge, que tenía 5 años.
+Dialogue: 0,0:09:29.05,0:09:32.10,Default,,0000,0000,0000,,Nos dimos cuenta de que ustedes \Nse habían hecho amigos
+Dialogue: 0,0:09:32.10,0:09:35.44,Default,,0000,0000,0000,,cuando las negociaciones \Nestaban por culminar.
+Dialogue: 0,0:09:35.81,0:09:40.57,Default,,0000,0000,0000,,Me impresionó mucho ver \Nlo bien que la pasaban.
+Dialogue: 0,0:09:41.03,0:09:43.62,Italics,,0000,0000,0000,,¡¿Kirisaki y yo nos \Nconocimos hace 10 años?!
+Dialogue: 0,0:09:44.08,0:09:45.24,Italics,,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:09:45.56,0:09:49.19,Italics,,0000,0000,0000,,Eso significa que la persona \Nde aquella promesa es Kirisaki
+Dialogue: 0,0:09:49.19,0:09:51.44,Italics,,0000,0000,0000,,y que lo de Onodera es una confusión.
+Dialogue: 0,0:09:54.60,0:09:57.67,Default,,0000,0000,0000,,Pero es tan extraño...
+Dialogue: 0,0:09:57.86,0:09:58.66,Default,,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:09:59.28,0:10:02.44,Default,,0000,0000,0000,,No solo ustedes se han reencontrando ahora,
+Dialogue: 0,0:10:02.46,0:10:05.54,Default,,0000,0000,0000,,sino que con aquella chica también.
+Dialogue: 0,0:10:06.44,0:10:07.44,Default,,0000,0000,0000,,¿Aquella chica?
+Dialogue: 0,0:10:07.62,0:10:11.41,Default,,0000,0000,0000,,Me refiero a la chica que vino contigo.
+Dialogue: 0,0:10:11.54,0:10:14.92,Default,,0000,0000,0000,,En aquel entonces, ustedes \Nsolían jugar los 3 juntos.
+Dialogue: 0,0:10:16.06,0:10:17.71,Italics,,0000,0000,0000,,¡¿Qué?! ¡¿En serio?!
+Dialogue: 0,0:10:17.71,0:10:18.93,Italics,,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:10:19.42,0:10:22.06,Default,,0000,0000,0000,,¿Será esto cosa del destino?
+Dialogue: 0,0:10:22.34,0:10:23.62,Italics,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:10:24.18,0:10:28.24,Italics,,0000,0000,0000,,No conocí a una de las \Ndos cuando era niño...
+Dialogue: 0,0:10:31.72,0:10:34.18,Default,,0000,0000,0000,,Chitoge-chan, eres el alma de la fiesta.
+Dialogue: 0,0:10:34.18,0:10:35.36,Default,,0000,0000,0000,,¿Dónde andabas?
+Dialogue: 0,0:10:35.54,0:10:36.69,Default,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:10:37.01,0:10:40.37,Default,,0000,0000,0000,,Por cierto, no veo a Ichijo-kun.
+Dialogue: 0,0:10:40.72,0:10:43.29,Default,,0000,0000,0000,,¿Eh? Quién sabe de ese.
+Dialogue: 0,0:10:43.29,0:10:45.42,Default,,0000,0000,0000,,Tratándose de él, debe \Nde andar perdido por ahí.
+Dialogue: 0,0:10:45.42,0:10:46.75,Italics,,0000,0000,0000,,¡...sino que las había conocido a las dos!
+Dialogue: 0,0:10:47.49,0:10:50.26,Italics,,0000,0000,0000,,Hace 10 años, en el mismo lugar.
+Dialogue: 0,0:10:50.90,0:10:57.58,Italics,,0000,0000,0000,,Es decir, que no es una la que está \Nvinculada con aquella promesa,
+Dialogue: 0,0:10:57.58,0:10:58.92,Italics,,0000,0000,0000,,sino ambas.
+Dialogue: 0,0:11:00.78,0:11:03.40,Italics,,0000,0000,0000,,Kirisaki y Onodera.
+Dialogue: 0,0:11:03.89,0:11:05.77,Italics,,0000,0000,0000,,No lo puedo creer.
+Dialogue: 0,0:11:06.26,0:11:07.06,Italics,,0000,0000,0000,,Un momento.
+Dialogue: 0,0:11:07.59,0:11:10.07,Italics,,0000,0000,0000,,¿Entonces por qué hay 2 llaves?
+Dialogue: 0,0:11:10.62,0:11:14.46,Italics,,0000,0000,0000,,Ambas dijeron que hace 10 años \Nhicieron una promesa con alguien.
+Dialogue: 0,0:11:15.17,0:11:18.70,Italics,,0000,0000,0000,,Sin embargo, estoy seguro \Nde que la promesa que hice
+Dialogue: 0,0:11:18.97,0:11:20.56,Italics,,0000,0000,0000,,fue solo con una.
+Dialogue: 0,0:11:21.04,0:11:22.04,Notes,,0000,0000,0000,,Cuando nos reencontremos
+Dialogue: 0,0:11:22.04,0:11:23.03,Notes,,0000,0000,0000,,nos casaremos
+Dialogue: 0,0:11:24.38,0:11:27.78,Default,,0000,0000,0000,,Pues bien, Raku-kun. Que lo disfrutes.
+Dialogue: 0,0:11:28.28,0:11:29.09,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:11:31.83,0:11:34.41,Italics,,0000,0000,0000,,¿Con cuál de las dos fue entonces?
+Dialogue: 0,0:11:35.03,0:11:37.67,Italics,,0000,0000,0000,,Y si fue con Onodera...
+Dialogue: 0,0:11:39.07,0:11:42.16,Italics,,0000,0000,0000,,¡Sería una suerte del destino!
+Dialogue: 0,0:11:42.18,0:11:45.43,Notes,,0000,0000,0000,,La que será su esposa Ichijo Kosaki
+Dialogue: 0,0:11:42.42,0:11:45.42,Default,,0000,0000,0000,,Kosaki Ichijo... no suena nada mal.
+Dialogue: 0,0:11:45.54,0:11:48.18,Default,,0000,0000,0000,,¡¿Qué rayos estoy pensando?! \N¡Estúpido! ¡Estúpido!
+Dialogue: 0,0:11:51.19,0:11:54.28,Default,,0000,0000,0000,,¿Y si resultara ser Kirisaki?
+Dialogue: 0,0:11:54.94,0:11:57.04,Default,,0000,0000,0000,,¿Qué voy a hacer?
+Dialogue: 0,0:11:59.51,0:12:03.00,Default,,0000,0000,0000,,¡Si hasta ahora no había \Npensado en la posibilidad
+Dialogue: 0,0:12:03.00,0:12:05.46,Default,,0000,0000,0000,,de que esa chica fuera Kirisaki!
+Dialogue: 0,0:12:05.46,0:12:08.57,Default,,0000,0000,0000,,¡No logro asimilarlo de buenas a primeras!
+Dialogue: 0,0:12:09.34,0:12:11.51,Default,,0000,0000,0000,,¿Qué estoy pensando?
+Dialogue: 0,0:12:11.84,0:12:14.17,Default,,0000,0000,0000,,Aunque Kirisaki resultara ser esa chica,
+Dialogue: 0,0:12:14.17,0:12:16.90,Default,,0000,0000,0000,,esto sucedió cuando éramos pequeños.
+Dialogue: 0,0:12:17.47,0:12:19.93,Default,,0000,0000,0000,,Ahora quien me gusta es Onodera.
+Dialogue: 0,0:12:20.11,0:12:21.51,Default,,0000,0000,0000,,Ese hecho no cambia.
+Dialogue: 0,0:12:23.71,0:12:25.00,Default,,0000,0000,0000,,No cambia.
+Dialogue: 0,0:12:31.12,0:12:32.61,Default,,0000,0000,0000,,Hola, tío.
+Dialogue: 0,0:12:32.84,0:12:35.10,Default,,0000,0000,0000,,Dime, ¿crees que tiene \Narreglo lo que te encargué?
+Dialogue: 0,0:12:35.67,0:12:37.60,Default,,0000,0000,0000,,Oh, Shuu.
+Dialogue: 0,0:12:37.79,0:12:40.20,Default,,0000,0000,0000,,Está más difícil de lo que pensé.
+Dialogue: 0,0:12:40.67,0:12:42.82,Default,,0000,0000,0000,,Es un modelo inusual.
+Dialogue: 0,0:12:43.20,0:12:46.96,Default,,0000,0000,0000,,Bueno, creo que podré resolverlo, \Npero me tomará tiempo.
+Dialogue: 0,0:12:47.30,0:12:49.67,Default,,0000,0000,0000,,Ya veo. Te lo encargo entonces.
+Dialogue: 0,0:12:50.69,0:12:54.12,Default,,0000,0000,0000,,Espero que me consigas el \Nfotolibro que acordamos.
+Dialogue: 0,0:12:54.22,0:12:56.99,Default,,0000,0000,0000,,Edición especial y con \Nfirma integrada, señor.
+Dialogue: 0,0:12:57.20,0:13:00.38,Default,,0000,0000,0000,,¡Bien! ¡De repente me han surgido ánimos!
+Dialogue: 0,0:13:01.68,0:13:03.84,Default,,0000,0000,0000,,Eso me dijo. Quédate tranquilo.
+Dialogue: 0,0:13:04.12,0:13:05.26,Default,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:13:05.70,0:13:06.95,Default,,0000,0000,0000,,Menos mal.
+Dialogue: 0,0:13:06.95,0:13:09.89,Default,,0000,0000,0000,,Por lo pronto, podré resolver lo del collar.
+Dialogue: 0,0:13:10.38,0:13:14.15,Default,,0000,0000,0000,,¿Qué es lo que pasa con ese collar?
+Dialogue: 0,0:13:14.15,0:13:16.16,Default,,0000,0000,0000,,Deberías contármelo, ¿no crees?
+Dialogue: 0,0:13:16.16,0:13:18.89,Default,,0000,0000,0000,,Lo siento, prometo contártelo después.
+Dialogue: 0,0:13:23.50,0:13:24.40,Default,,0000,0000,0000,,¿Oh?
+Dialogue: 0,0:13:24.70,0:13:26.22,Default,,0000,0000,0000,,Buenos días, Raku.
+Dialogue: 0,0:13:27.60,0:13:28.88,Default,,0000,0000,0000,,Buenos días.
+Dialogue: 0,0:13:29.95,0:13:34.50,Default,,0000,0000,0000,,Por cierto, van a poder \Narreglar la llave y el collar.
+Dialogue: 0,0:13:34.88,0:13:37.58,Default,,0000,0000,0000,,Un tío de Shuu es cerrajero.
+Dialogue: 0,0:13:37.85,0:13:40.38,Default,,0000,0000,0000,,¿De veras? Qué bueno.
+Dialogue: 0,0:13:40.96,0:13:41.97,Italics,,0000,0000,0000,,¿Qué le pasa?
+Dialogue: 0,0:13:41.97,0:13:45.99,Italics,,0000,0000,0000,,A pesar de lo que pasó \Nayer, la veo muy normal.
+Dialogue: 0,0:13:46.39,0:13:48.71,Italics,,0000,0000,0000,,Si ayer dijo que me besaría...
+Dialogue: 0,0:13:51.66,0:13:53.82,Italics,,0000,0000,0000,,¡Rayos! ¡El tipo de los anteojos!
+Dialogue: 0,0:13:53.82,0:13:56.94,Italics,,0000,0000,0000,,Ya veo, hoy nos van a vigilar.
+Dialogue: 0,0:13:57.18,0:13:59.91,Default,,0000,0000,0000,,Bien. Me esmeraré haciendo \Nmi papel de novio.
+Dialogue: 0,0:14:00.37,0:14:01.48,Default,,0000,0000,0000,,Vamos, cariño.
+Dialogue: 0,0:14:01.48,0:14:02.28,Default,,0000,0000,0000,,¡Ay!
+Dialogue: 0,0:14:02.63,0:14:03.66,Default,,0000,0000,0000,,¡¿Ay?!
+Dialogue: 0,0:14:07.12,0:14:09.89,Default,,0000,0000,0000,,¡O-oye! ¿Por qué te sonrojas?
+Dialogue: 0,0:14:10.42,0:14:13.41,Default,,0000,0000,0000,,No lo estoy. Deja de inventar cosas.
+Dialogue: 0,0:14:13.67,0:14:15.18,Default,,0000,0000,0000,,Compórtate.
+Dialogue: 0,0:14:15.19,0:14:17.02,Default,,0000,0000,0000,,El tipo de los anteojos nos está viendo.
+Dialogue: 0,0:14:17.02,0:14:19.00,Default,,0000,0000,0000,,Lo sé. Debo comportarme como tu novia.
+Dialogue: 0,0:14:19.29,0:14:21.80,Default,,0000,0000,0000,,¡Buenos días, Kirisaki-san, Ichijo-kun!
+Dialogue: 0,0:14:22.00,0:14:23.89,Default,,0000,0000,0000,,¡Hoy también están muy \Ncariñosos desde temprano!
+Dialogue: 0,0:14:24.96,0:14:27.02,Default,,0000,0000,0000,,¡¿Verdad que sí?!
+Dialogue: 0,0:14:27.02,0:14:30.05,Default,,0000,0000,0000,,¡Es que somos una pareja enamorada!
+Dialogue: 0,0:14:30.41,0:14:32.09,Default,,0000,0000,0000,,Así es.
+Dialogue: 0,0:14:33.91,0:14:36.39,Default,,0000,0000,0000,,¡¿Qué rayos estás haciendo?!
+Dialogue: 0,0:14:36.39,0:14:39.40,Default,,0000,0000,0000,,¡Cállate! ¡Déjame en paz!
+Dialogue: 0,0:14:42.77,0:14:45.82,Italics,,0000,0000,0000,,¿Qué pasa? ¿Qué le está pasando?
+Dialogue: 0,0:14:52.22,0:14:54.54,Italics,,0000,0000,0000,,¿Qu-qu-qué me está pasando?
+Dialogue: 0,0:14:55.11,0:14:57.33,Italics,,0000,0000,0000,,Actúa como siempre, como siempre.
+Dialogue: 0,0:15:07.79,0:15:09.43,Default,,0000,0000,0000,,¡Ichijo-kun!
+Dialogue: 0,0:15:10.14,0:15:11.17,Default,,0000,0000,0000,,¿Onodera?
+Dialogue: 0,0:15:11.78,0:15:15.68,Default,,0000,0000,0000,,¿No te pareció extraña la forma en la \Nque actuó Chitoge-chan hace unos momentos?
+Dialogue: 0,0:15:15.86,0:15:17.66,Default,,0000,0000,0000,,¿Tú también piensas lo mismo?
+Dialogue: 0,0:15:17.81,0:15:20.16,Default,,0000,0000,0000,,Hoy ha estado rara.
+Dialogue: 0,0:15:20.16,0:15:21.44,Default,,0000,0000,0000,,¿Están peleados?
+Dialogue: 0,0:15:21.69,0:15:23.44,Default,,0000,0000,0000,,No, nada de eso.
+Dialogue: 0,0:15:25.45,0:15:30.41,Italics,,0000,0000,0000,,¿Será que ha pensado que yo \Npodría ser el chico de la promesa?
+Dialogue: 0,0:15:30.98,0:15:33.10,Default,,0000,0000,0000,,No lo creo...
+Dialogue: 0,0:15:35.84,0:15:38.68,Default,,0000,0000,0000,,Ichijo-kun, ¿qué pasó con el \Ncollar que siempre llevas puesto?
+Dialogue: 0,0:15:39.40,0:15:44.48,Default,,0000,0000,0000,,Esta mañana lo tuve que mandar a arreglar.
+Dialogue: 0,0:15:44.66,0:15:47.24,Default,,0000,0000,0000,,Creo que me lo van a entregar de una vez.
+Dialogue: 0,0:15:47.54,0:15:49.06,Default,,0000,0000,0000,,Y-ya veo...
+Dialogue: 0,0:15:50.06,0:15:50.88,Italics,,0000,0000,0000,,Onodera...
+Dialogue: 0,0:15:51.68,0:15:54.45,Italics,,0000,0000,0000,,¿Qué cara pondría si supiera que nosotros
+Dialogue: 0,0:15:54.75,0:15:57.08,Italics,,0000,0000,0000,,nos habíamos conocido antes?
+Dialogue: 0,0:15:58.66,0:16:00.02,Default,,0000,0000,0000,,¡Oh, no!
+Dialogue: 0,0:16:00.02,0:16:02.14,Default,,0000,0000,0000,,¡Me puse nervioso de solo imaginarlo!
+Dialogue: 0,0:16:02.77,0:16:04.84,Default,,0000,0000,0000,,Bueno, estoy preocupado por ella,
+Dialogue: 0,0:16:04.84,0:16:06.03,Default,,0000,0000,0000,,pero va a estar bien.
+Dialogue: 0,0:16:06.03,0:16:08.26,Default,,0000,0000,0000,,Solo debe de estar un poco desanimada.
+Dialogue: 0,0:16:08.48,0:16:10.68,Default,,0000,0000,0000,,Estaré pendiente de ella.
+Dialogue: 0,0:16:11.00,0:16:13.40,Default,,0000,0000,0000,,Ya veo. Eso me tranquiliza.
+Dialogue: 0,0:16:21.60,0:16:23.98,Italics,,0000,0000,0000,,Chitoge-chan dijo que se está haciendo pasar
+Dialogue: 0,0:16:23.98,0:16:26.17,Italics,,0000,0000,0000,,por la novia de Ichijo-kun, pero...
+Dialogue: 0,0:16:28.63,0:16:31.11,Italics,,0000,0000,0000,,¿Cómo lo estará tomando Ichijo-kun?
+Dialogue: 0,0:16:33.88,0:16:36.00,Default,,0000,0000,0000,,Atención a todos.
+Dialogue: 0,0:16:36.42,0:16:38.97,Default,,0000,0000,0000,,Ya fueron reveladas las \Nfotos del viaje escolar
+Dialogue: 0,0:16:38.97,0:16:40.96,Default,,0000,0000,0000,,y las pusieron en el tablón de avisos.
+Dialogue: 0,0:16:40.96,0:16:42.86,Default,,0000,0000,0000,,Si les interesa alguna, escriban \Nel número de la misma
+Dialogue: 0,0:16:42.86,0:16:44.46,Default,,0000,0000,0000,,y me lo entregan.
+Dialogue: 0,0:16:44.46,0:16:45.18,Default,,0000,0000,0000,,¿De acuerdo?
+Dialogue: 0,0:16:45.51,0:16:46.93,Default,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:16:47.14,0:16:49.41,Default,,0000,0000,0000,,Y aunque les dé vergüenza, \Nasegúrense de obtener
+Dialogue: 0,0:16:49.41,0:16:51.39,Default,,0000,0000,0000,,la foto de la persona que les gusta, ¿bien?
+Dialogue: 0,0:16:51.39,0:16:54.21,Default,,0000,0000,0000,,No se preocupen, no seré tan descarada
+Dialogue: 0,0:16:54.21,0:16:56.63,Default,,0000,0000,0000,,de decir quién compró la foto de quién.
+Dialogue: 0,0:16:57.49,0:16:59.25,Default,,0000,0000,0000,,Pero qué está diciendo...
+Dialogue: 0,0:17:10.80,0:17:13.81,Default,,0000,0000,0000,,¡Vaya! ¡¿Puedo comprar las que quiera?!
+Dialogue: 0,0:17:13.91,0:17:16.42,Default,,0000,0000,0000,,Sí, pero no te excedas comprando.
+Dialogue: 0,0:17:16.77,0:17:19.55,Default,,0000,0000,0000,,Ya que una cuesta 100 \Nyenes. Cuestan demasiado.
+Dialogue: 0,0:17:19.55,0:17:22.00,Default,,0000,0000,0000,,Escoge la que realmente desees...
+Dialogue: 0,0:17:22.00,0:17:23.35,Default,,0000,0000,0000,,¡También quiero esta!
+Dialogue: 0,0:17:23.35,0:17:25.04,Default,,0000,0000,0000,,¡Esta también, salimos todos ahí!
+Dialogue: 0,0:17:25.04,0:17:27.02,Default,,0000,0000,0000,,¡Señorita, veo por aquí otra interesante!
+Dialogue: 0,0:17:27.02,0:17:27.67,Default,,0000,0000,0000,,¡¿De veras?!
+Dialogue: 0,0:17:27.67,0:17:28.90,Default,,0000,0000,0000,,¡Anota, anota el número!
+Dialogue: 0,0:17:28.90,0:17:30.06,Default,,0000,0000,0000,,¡Escúchenme!
+Dialogue: 0,0:17:30.18,0:17:32.78,Default,,0000,0000,0000,,¡Yo soñaba con esto!
+Dialogue: 0,0:17:32.78,0:17:35.20,Default,,0000,0000,0000,,Kirisaki-san, qué exagerada eres.
+Dialogue: 0,0:17:35.59,0:17:39.27,Default,,0000,0000,0000,,Bueno, me alegro de que \Nhaya vuelto a ser la misma.
+Dialogue: 0,0:17:39.81,0:17:42.08,Default,,0000,0000,0000,,Ahora vamos nosotros.
+Dialogue: 0,0:17:42.08,0:17:44.20,Default,,0000,0000,0000,,S-sí, tienes razón.
+Dialogue: 0,0:17:44.35,0:17:48.46,Default,,0000,0000,0000,,Bien, al menos trataré de conseguir \Nuna foto en la que salga Onodera...
+Dialogue: 0,0:17:48.69,0:17:51.85,Default,,0000,0000,0000,,A mí me gustaría una en la \Nque estés tú, Ruri-chan.
+Dialogue: 0,0:17:51.85,0:17:53.13,Default,,0000,0000,0000,,Yo ninguna en particular...
+Dialogue: 0,0:17:53.13,0:17:53.97,Default,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:17:54.18,0:17:56.24,Default,,0000,0000,0000,,¿Qué te parece esa?
+Dialogue: 0,0:17:56.24,0:17:58.50,Default,,0000,0000,0000,,Aunque en ella salimos Kosaki y yo.
+Dialogue: 0,0:17:59.08,0:17:59.97,Default,,0000,0000,0000,,¿Cuál?
+Dialogue: 0,0:18:01.96,0:18:03.09,Default,,0000,0000,0000,,¿Esta...?
+Dialogue: 0,0:18:04.29,0:18:05.38,Default,,0000,0000,0000,,Casi no se ven.
+Dialogue: 0,0:18:05.38,0:18:08.39,Default,,0000,0000,0000,,Si buscas, podrías encontrar una mejor.
+Dialogue: 0,0:18:08.62,0:18:09.98,Default,,0000,0000,0000,,Más bien, ese soy yo.
+Dialogue: 0,0:18:10.00,0:18:10.78,Default,,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:18:10.97,0:18:12.49,Default,,0000,0000,0000,,¡Pero lo hice con buena intención!
+Dialogue: 0,0:18:12.92,0:18:14.28,Default,,0000,0000,0000,,¡Miren esta!
+Dialogue: 0,0:18:14.28,0:18:16.24,Default,,0000,0000,0000,,¡Salen Raku y Kosaki-san!
+Dialogue: 0,0:18:16.24,0:18:17.03,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:18:22.11,0:18:23.79,Default,,0000,0000,0000,,¡¿Qué hago?! ¡La quiero!
+Dialogue: 0,0:18:23.84,0:18:26.29,Default,,0000,0000,0000,,¡Pero si descubren que la compré...!
+Dialogue: 0,0:18:28.15,0:18:30.85,Default,,0000,0000,0000,,¡No encuentro una foto que me interese!
+Dialogue: 0,0:18:30.85,0:18:33.28,Default,,0000,0000,0000,,¡Ti-ti-tienes razón!
+Dialogue: 0,0:18:33.62,0:18:35.55,Default,,0000,0000,0000,,Estos dos me sacan de quicio.
+Dialogue: 0,0:18:35.93,0:18:37.58,Default,,0000,0000,0000,,Dígame, señor.
+Dialogue: 0,0:18:37.58,0:18:39.29,Default,,0000,0000,0000,,¿Qué tipo de foto le interesaría?
+Dialogue: 0,0:18:39.29,0:18:42.06,Default,,0000,0000,0000,,Por aquí tengo algo muy interesante.
+Dialogue: 0,0:18:42.06,0:18:43.56,Default,,0000,0000,0000,,¿Le gustaría echar un vistazo?
+Dialogue: 0,0:18:43.79,0:18:44.89,Default,,0000,0000,0000,,Shuu...
+Dialogue: 0,0:18:45.25,0:18:47.30,Default,,0000,0000,0000,,Estas son fotos tomadas por mí
+Dialogue: 0,0:18:47.31,0:18:51.08,Default,,0000,0000,0000,,de las chicas en un aspecto que \Nusualmente no podrían ver.
+Dialogue: 0,0:18:51.08,0:18:53.78,Default,,0000,0000,0000,,Han sido un éxito.
+Dialogue: 0,0:18:54.04,0:18:55.06,Default,,0000,0000,0000,,¡Maiko!
+Dialogue: 0,0:18:55.06,0:18:56.28,Default,,0000,0000,0000,,¡Quiero una número 13!
+Dialogue: 0,0:18:56.28,0:18:57.66,Default,,0000,0000,0000,,Yo la 94.
+Dialogue: 0,0:18:57.66,0:18:58.50,Default,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:18:58.50,0:19:00.98,Default,,0000,0000,0000,,¿Estás vendiendo fotos \Neróticas de las chicas?
+Dialogue: 0,0:19:00.98,0:19:02.25,Default,,0000,0000,0000,,Es de lo peor.
+Dialogue: 0,0:19:02.25,0:19:03.01,Default,,0000,0000,0000,,Pervertido.
+Dialogue: 0,0:19:03.01,0:19:03.52,Default,,0000,0000,0000,,Basura.
+Dialogue: 0,0:19:03.52,0:19:04.38,Default,,0000,0000,0000,,Muere.
+Dialogue: 0,0:19:04.54,0:19:06.80,Default,,0000,0000,0000,,¡No, no! ¡No es lo que piensan!
+Dialogue: 0,0:19:06.80,0:19:09.01,Default,,0000,0000,0000,,Además, están siendo muy ofensivas.
+Dialogue: 0,0:19:09.28,0:19:12.40,Default,,0000,0000,0000,,¡Va en contra de mis principios \Nvender fotos pervertidas!
+Dialogue: 0,0:19:12.40,0:19:13.64,Default,,0000,0000,0000,,Las fotos que me interesan...
+Dialogue: 0,0:19:13.87,0:19:16.17,Default,,0000,0000,0000,,¡son aquellas que son vergonzosas!
+Dialogue: 0,0:19:16.92,0:19:18.94,Default,,0000,0000,0000,,Tengo de ustedes, Onodera, Ruri-chan.
+Dialogue: 0,0:19:18.94,0:19:20.68,Default,,0000,0000,0000,,Se las regalo.
+Dialogue: 0,0:19:22.91,0:19:23.91,Default,,0000,0000,0000,,¡¿Qué les parece?!
+Dialogue: 0,0:19:23.91,0:19:25.19,Default,,0000,0000,0000,,¿Les gusta...?
+Dialogue: 0,0:19:30.34,0:19:31.80,Italics,,0000,0000,0000,,Me gustaría verla...
+Dialogue: 0,0:19:34.76,0:19:39.10,Default,,0000,0000,0000,,Por cierto, Raku, tengo \Nalgo especial para ti...
+Dialogue: 0,0:19:44.38,0:19:45.40,Default,,0000,0000,0000,,¿Cuánto cuesta?
+Dialogue: 0,0:19:45.40,0:19:46.19,Default,,0000,0000,0000,,500 yenes.
+Dialogue: 0,0:19:46.19,0:19:47.23,Default,,0000,0000,0000,,La compro.
+Dialogue: 0,0:19:47.57,0:19:49.38,Default,,0000,0000,0000,,¡Gracias por la compra!
+Dialogue: 0,0:19:49.44,0:19:51.64,Default,,0000,0000,0000,,La guardaré como un tesoro.
+Dialogue: 0,0:19:51.92,0:19:54.84,Default,,0000,0000,0000,,Solo me falta una foto en \Nla que salga con Onodera.
+Dialogue: 0,0:19:57.00,0:19:58.83,Default,,0000,0000,0000,,Esa foto...
+Dialogue: 0,0:19:59.20,0:20:01.97,Default,,0000,0000,0000,,La que está detrás de Kirisaki es...
+Dialogue: 0,0:20:04.67,0:20:08.33,Default,,0000,0000,0000,,¡Onodera! ¡Salió mientras se cambiaba!
+Dialogue: 0,0:20:08.33,0:20:10.49,Default,,0000,0000,0000,,¡La profesora debería tener más cuidado!
+Dialogue: 0,0:20:10.49,0:20:12.94,Default,,0000,0000,0000,,Si alguien la compra y ve eso...
+Dialogue: 0,0:20:12.94,0:20:16.06,Default,,0000,0000,0000,,Afortunadamente, nadie se \Nha fijado en estas fotos.
+Dialogue: 0,0:20:16.53,0:20:18.62,Default,,0000,0000,0000,,Se la llevaré a la profesora \Nantes de que alguien se entere,
+Dialogue: 0,0:20:18.81,0:20:20.40,Default,,0000,0000,0000,,y haré que borren la original.
+Dialogue: 0,0:20:22.03,0:20:24.76,Default,,0000,0000,0000,,¡Lo siento! ¡Onodera!
+Dialogue: 0,0:20:22.60,0:20:24.56,Italics,,0000,0000,0000,,¡Disculpa! ¡Ichijo-kun!
+Dialogue: 0,0:20:25.20,0:20:26.40,Default,,0000,0000,0000,,¡La foto!
+Dialogue: 0,0:20:27.85,0:20:29.37,Default,,0000,0000,0000,,¿Esto es tuyo?
+Dialogue: 0,0:20:29.80,0:20:30.72,Default,,0000,0000,0000,,¡Rayos!
+Dialogue: 0,0:20:30.72,0:20:34.54,Default,,0000,0000,0000,,¡Si la ve, se dará cuenta de \Nque la vi mientras se cambiaba!
+Dialogue: 0,0:20:40.44,0:20:41.85,Default,,0000,0000,0000,,¡Gracias por recogerla!
+Dialogue: 0,0:20:41.85,0:20:42.84,Default,,0000,0000,0000,,¡Nos vemos!
+Dialogue: 0,0:20:43.27,0:20:44.85,Default,,0000,0000,0000,,¡Eso estuvo cerca!
+Dialogue: 0,0:20:45.14,0:20:48.34,Default,,0000,0000,0000,,Estuve a punto de ser \Nvisto como un pervertido.
+Dialogue: 0,0:20:51.30,0:20:54.12,Default,,0000,0000,0000,,¿La de la foto era Chitoge-chan?
+Dialogue: 0,0:20:55.94,0:20:57.73,Default,,0000,0000,0000,,¿Por qué Ichijo-kun tenía esa foto?
+Dialogue: 0,0:20:58.75,0:21:00.92,Default,,0000,0000,0000,,¿Será que Ichijo-kun...?
+Dialogue: 0,0:21:09.40,0:21:12.29,Default,,0000,0000,0000,,Conseguí una buena foto.
+Dialogue: 0,0:21:12.75,0:21:14.54,Default,,0000,0000,0000,,La pondré en un marco.
+Dialogue: 0,0:21:14.78,0:21:16.84,Default,,0000,0000,0000,,Procuraré que Onodera no se entere.
+Dialogue: 0,0:21:25.04,0:21:29.28,Default,,0000,0000,0000,,Sigo sin saber cuál es la \Nchica de aquella promesa.
+Dialogue: 0,0:21:29.74,0:21:32.65,Default,,0000,0000,0000,,Me pregunto cómo puedo \Nhacer para descubrirlo.
+Dialogue: 0,0:21:33.48,0:21:37.38,Default,,0000,0000,0000,,Si hubiese tenido una foto de ese entonces,
+Dialogue: 0,0:21:37.38,0:21:39.87,Default,,0000,0000,0000,,me serviría como pista.
+Dialogue: 0,0:21:41.12,0:21:44.98,Default,,0000,0000,0000,,¿Foto? Me parece que queda una.
+Dialogue: 0,0:21:45.32,0:21:46.99,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:21:47.25,0:21:49.73,Default,,0000,0000,0000,,¡¿Do-dónde está?!
+Dialogue: 0,0:21:49.73,0:21:53.25,Default,,0000,0000,0000,,¡He buscado por cada \Nrincón de esta mansión!
+Dialogue: 0,0:21:53.69,0:21:56.65,Default,,0000,0000,0000,,Así no la vas a encontrar.
+Dialogue: 0,0:21:56.65,0:21:59.38,Default,,0000,0000,0000,,Ya que está guardada en el almacén.
+Dialogue: 0,0:21:59.71,0:22:03.76,Default,,0000,0000,0000,,Hablas de las fotos del viaje \Nque hicimos hace 10 años, ¿no?
+Dialogue: 0,0:22:04.12,0:22:06.50,Default,,0000,0000,0000,,Fueron pocas las fotos que nos sacamos,
+Dialogue: 0,0:22:06.50,0:22:09.52,Default,,0000,0000,0000,,pero estoy seguro de que en \Nel almacén debe quedar una.
+Dialogue: 0,0:22:09.74,0:22:11.20,Default,,0000,0000,0000,,¡¿En serio?!
+Dialogue: 0,0:22:11.20,0:22:14.73,Default,,0000,0000,0000,,¡No puedo creer que quede \Nuna pista de esa chica!
+Dialogue: 0,0:22:14.99,0:22:19.14,Default,,0000,0000,0000,,Pero este podría ser un paso \Nque me lleve a la verdad.
+Dialogue: 0,0:22:19.44,0:22:21.56,Default,,0000,0000,0000,,Recuerdo que me pediste con \Ninsistencia que te tomara
+Dialogue: 0,0:22:21.56,0:22:24.36,Default,,0000,0000,0000,,una foto con una chica que tenía una llave.
+Dialogue: 0,0:22:25.00,0:22:29.67,Default,,0000,0000,0000,,Me dijiste que hicieron una \Npromesa importante o algo así.
+Dialogue: 0,0:22:29.86,0:22:30.54,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:22:30.96,0:22:32.85,Default,,0000,0000,0000,,¡¿Una chica con una llave?
+Dialogue: 0,0:22:33.36,0:22:35.82,Default,,0000,0000,0000,,¡¿Y una promesa importante?!
